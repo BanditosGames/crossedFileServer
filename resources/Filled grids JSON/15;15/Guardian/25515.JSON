@@ -1,0 +1,493 @@
+{
+    "id": "crosswords/cryptic/25515",
+    "number": 25515,
+    "name": "Cryptic crossword No 25,515",
+    "creator": {
+        "name": "Rufus",
+        "webUrl": "https://www.theguardian.com/profile/rufus"
+    },
+    "date": 1324857600000,
+    "webPublicationDate": 1324857600000,
+    "entries": [
+        {
+            "id": "5-across",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "Favourable pub cooking \u2014 tuck in! (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "5-across"
+            ],
+            "position": {
+                "x": 1,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "UPBEAT"
+        },
+        {
+            "id": "6-across",
+            "number": 6,
+            "humanNumber": "6",
+            "clue": "Quickly remove label showing exorbitant price (3-3)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "6-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 1
+            },
+            "separatorLocations": {
+                "-": [
+                    3
+                ]
+            },
+            "solution": "RIPOFF"
+        },
+        {
+            "id": "9-across",
+            "number": 9,
+            "humanNumber": "9",
+            "clue": "Counterfeit coin as used by gamblers (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "9-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 3
+            },
+            "separatorLocations": {},
+            "solution": "CASINO"
+        },
+        {
+            "id": "10-across",
+            "number": 10,
+            "humanNumber": "10",
+            "clue": "Being awkward in an ugly development (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "10-across"
+            ],
+            "position": {
+                "x": 7,
+                "y": 3
+            },
+            "separatorLocations": {},
+            "solution": "UNGAINLY"
+        },
+        {
+            "id": "11-across",
+            "number": 11,
+            "humanNumber": "11",
+            "clue": "Ground needed for play (4)",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "11-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "PLOT"
+        },
+        {
+            "id": "12-across",
+            "number": 12,
+            "humanNumber": "12",
+            "clue": "Switch on ignition in service vehicle (4,6)",
+            "direction": "across",
+            "length": 10,
+            "group": [
+                "12-across"
+            ],
+            "position": {
+                "x": 5,
+                "y": 5
+            },
+            "separatorLocations": {
+                ",": [
+                    4
+                ]
+            },
+            "solution": "FIREENGINE"
+        },
+        {
+            "id": "13-across",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "The favourite that's in form (8,3)",
+            "direction": "across",
+            "length": 11,
+            "group": [
+                "13-across"
+            ],
+            "position": {
+                "x": 2,
+                "y": 7
+            },
+            "separatorLocations": {
+                ",": [
+                    8
+                ]
+            },
+            "solution": "TEACHERSPET"
+        },
+        {
+            "id": "18-across",
+            "number": 18,
+            "humanNumber": "18",
+            "clue": "Unable to work after leaving the fraternity (3,2,5)",
+            "direction": "across",
+            "length": 10,
+            "group": [
+                "18-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 9
+            },
+            "separatorLocations": {
+                ",": [
+                    3,
+                    5
+                ]
+            },
+            "solution": "OUTOFORDER"
+        },
+        {
+            "id": "21-across",
+            "number": 21,
+            "humanNumber": "21",
+            "clue": "The point to make next (4)",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "21-across"
+            ],
+            "position": {
+                "x": 11,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "THEN"
+        },
+        {
+            "id": "22-across",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "Forces in conflict, prepared for court action (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "22-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "FORENSIC"
+        },
+        {
+            "id": "23-across",
+            "number": 23,
+            "humanNumber": "23",
+            "clue": "Slips in evidence of humanity (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "23-across"
+            ],
+            "position": {
+                "x": 9,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "ERRORS"
+        },
+        {
+            "id": "24-across",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "Quake in the centre \u2014 more or less (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "24-across"
+            ],
+            "position": {
+                "x": 1,
+                "y": 13
+            },
+            "separatorLocations": {},
+            "solution": "TREMOR"
+        },
+        {
+            "id": "25-across",
+            "number": 25,
+            "humanNumber": "25",
+            "clue": "Science that puts healthy colour in a lad (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "25-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 13
+            },
+            "separatorLocations": {},
+            "solution": "BOTANY"
+        },
+        {
+            "id": "1-down",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "Sailors in the drink (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "1-down"
+            ],
+            "position": {
+                "x": 3,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "ABSINTHE"
+        },
+        {
+            "id": "2-down",
+            "number": 2,
+            "humanNumber": "2",
+            "clue": "Wages stopped as the final part of a joke (3-3)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "2-down"
+            ],
+            "position": {
+                "x": 5,
+                "y": 0
+            },
+            "separatorLocations": {
+                "-": [
+                    3
+                ]
+            },
+            "solution": "PAYOFF"
+        },
+        {
+            "id": "3-down",
+            "number": 3,
+            "humanNumber": "3",
+            "clue": "Call to get permits? They depend on the head (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "3-down"
+            ],
+            "position": {
+                "x": 9,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "RINGLETS"
+        },
+        {
+            "id": "4-down",
+            "number": 4,
+            "humanNumber": "4",
+            "clue": "Contending successfully with a course of masonry (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "4-down"
+            ],
+            "position": {
+                "x": 11,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "COPING"
+        },
+        {
+            "id": "5-down",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "American expert may be employable (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "5-down"
+            ],
+            "position": {
+                "x": 1,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "USABLE"
+        },
+        {
+            "id": "7-down",
+            "number": 7,
+            "humanNumber": "7",
+            "clue": "Clerical work done by a metal worker (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "7-down"
+            ],
+            "position": {
+                "x": 13,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "FILING"
+        },
+        {
+            "id": "8-down",
+            "number": 8,
+            "humanNumber": "8",
+            "clue": "Clubs, possibly, where naval officers may be found (11)",
+            "direction": "down",
+            "length": 11,
+            "group": [
+                "8-down"
+            ],
+            "position": {
+                "x": 7,
+                "y": 2
+            },
+            "separatorLocations": {},
+            "solution": "QUARTERDECK"
+        },
+        {
+            "id": "14-down",
+            "number": 14,
+            "humanNumber": "14",
+            "clue": "Travel through East End district with offensive weapon (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "14-down"
+            ],
+            "position": {
+                "x": 5,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "CROSSBOW"
+        },
+        {
+            "id": "15-down",
+            "number": 15,
+            "humanNumber": "15",
+            "clue": "Always includes ten at the outside (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "15-down"
+            ],
+            "position": {
+                "x": 11,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "EXTERNAL"
+        },
+        {
+            "id": "16-down",
+            "number": 16,
+            "humanNumber": "16",
+            "clue": "Annoyed at being inconvenienced (3,3)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "16-down"
+            ],
+            "position": {
+                "x": 1,
+                "y": 8
+            },
+            "separatorLocations": {
+                ",": [
+                    3
+                ]
+            },
+            "solution": "PUTOUT"
+        },
+        {
+            "id": "17-down",
+            "number": 17,
+            "humanNumber": "17",
+            "clue": "Girl with fish to sell down the river (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "17-down"
+            ],
+            "position": {
+                "x": 13,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "BETRAY"
+        },
+        {
+            "id": "19-down",
+            "number": 19,
+            "humanNumber": "19",
+            "clue": "Perversely love to take the Spanish exam that's out-of-date (1,5)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "19-down"
+            ],
+            "position": {
+                "x": 3,
+                "y": 9
+            },
+            "separatorLocations": {
+                ",": [
+                    1
+                ]
+            },
+            "solution": "OLEVEL"
+        },
+        {
+            "id": "20-down",
+            "number": 20,
+            "humanNumber": "20",
+            "clue": "Fume about individual odour of antelope (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "20-down"
+            ],
+            "position": {
+                "x": 9,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "REEBOK"
+        }
+    ],
+    "solutionAvailable": true,
+    "dateSolutionAvailable": 1324857600000,
+    "dimensions": {
+        "cols": 15,
+        "rows": 15
+    },
+    "crosswordType": "cryptic",
+    "pdf": "http://static.guim.co.uk/crosswords/pdfs/gdn.cryptic.20111226.pdf",
+    "_gridType": "M31"
+}

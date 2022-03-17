@@ -1,0 +1,515 @@
+{
+    "id": "crosswords/prize/27292",
+    "number": 27292,
+    "name": "Prize crossword No 27,292",
+    "creator": {
+        "name": "Imogen",
+        "webUrl": "https://www.theguardian.com/profile/imogen"
+    },
+    "date": 1504310400000,
+    "webPublicationDate": 1504306805000,
+    "entries": [
+        {
+            "id": "1-across",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "Dance exercise starting on time  \u2026 (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "1-across"
+            ],
+            "position": {
+                "x": 1,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "PROMPT"
+        },
+        {
+            "id": "4-across",
+            "number": 4,
+            "humanNumber": "4",
+            "clue": "\u2026  ending in breaking plate (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "4-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "FINISH"
+        },
+        {
+            "id": "9-across",
+            "number": 9,
+            "humanNumber": "9",
+            "clue": "Citizen poking about there at show house (8,7)",
+            "direction": "across",
+            "length": 15,
+            "group": [
+                "9-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 2
+            },
+            "separatorLocations": {
+                ",": [
+                    8
+                ]
+            },
+            "solution": "NATIONALTHEATRE"
+        },
+        {
+            "id": "10-across",
+            "number": 10,
+            "humanNumber": "10",
+            "clue": "A number in school in bad odour  \u2026 (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "10-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 4
+            },
+            "separatorLocations": {},
+            "solution": "STENCH"
+        },
+        {
+            "id": "11-across",
+            "number": 11,
+            "humanNumber": "11",
+            "clue": "\u2026  getting through exam, almost grumpy about it (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "11-across"
+            ],
+            "position": {
+                "x": 7,
+                "y": 4
+            },
+            "separatorLocations": {},
+            "solution": "SURVIVAL"
+        },
+        {
+            "id": "12-across",
+            "number": 12,
+            "humanNumber": "12",
+            "clue": "House an actor may have in his pocket (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "12-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "PROPERTY"
+        },
+        {
+            "id": "14-across",
+            "number": 14,
+            "humanNumber": "14",
+            "clue": "Country-style nickname Alice could give either twin? (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "14-across"
+            ],
+            "position": {
+                "x": 9,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "TWEEDY"
+        },
+        {
+            "id": "15-across",
+            "number": 15,
+            "humanNumber": "15",
+            "clue": "Snooty chap astride flanks of horse, lining up for this? (3,3)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "15-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 8
+            },
+            "separatorLocations": {
+                ",": [
+                    3
+                ]
+            },
+            "solution": "THEOFF"
+        },
+        {
+            "id": "18-across",
+            "number": 18,
+            "humanNumber": "18",
+            "clue": "Why film star may get fat? (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "18-across"
+            ],
+            "position": {
+                "x": 7,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "DIETRICH"
+        },
+        {
+            "id": "21-across",
+            "number": 21,
+            "humanNumber": "21",
+            "clue": "Mammal long suffering in agony (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "21-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "PANGOLIN"
+        },
+        {
+            "id": "22-across",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "If B was Brown and C was Cameron  \u2026  oh dear! (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "22-across"
+            ],
+            "position": {
+                "x": 9,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "DISMAY"
+        },
+        {
+            "id": "24-across",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "Venue that may offer pleasure? O, hooray! (5,5,5)",
+            "direction": "across",
+            "length": 15,
+            "group": [
+                "24-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 12
+            },
+            "separatorLocations": {
+                ",": [
+                    5,
+                    10
+                ]
+            },
+            "solution": "ROYALOPERAHOUSE"
+        },
+        {
+            "id": "25-across",
+            "number": 25,
+            "humanNumber": "25",
+            "clue": "Bouncer's horse in dead heat, right? (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "25-across"
+            ],
+            "position": {
+                "x": 1,
+                "y": 14
+            },
+            "separatorLocations": {},
+            "solution": "TIGGER"
+        },
+        {
+            "id": "26-across",
+            "number": 26,
+            "humanNumber": "26",
+            "clue": "Teacher with degree pulled back out of the rubble (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "26-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 14
+            },
+            "separatorLocations": {},
+            "solution": "DEBRIS"
+        },
+        {
+            "id": "1-down",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "Place teacher, not the head, as cover for break (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "1-down"
+            ],
+            "position": {
+                "x": 1,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "PLASTER"
+        },
+        {
+            "id": "2-down",
+            "number": 2,
+            "humanNumber": "2",
+            "clue": "Two forwards crush one that may be in the soup (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "2-down"
+            ],
+            "position": {
+                "x": 3,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "ONION"
+        },
+        {
+            "id": "3-down",
+            "number": 3,
+            "humanNumber": "3",
+            "clue": "Cat finally loth to stop longer (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "3-down"
+            ],
+            "position": {
+                "x": 5,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "PANTHER"
+        },
+        {
+            "id": "5-down",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "Come in to join her: I take part (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "5-down"
+            ],
+            "position": {
+                "x": 9,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "INHERIT"
+        },
+        {
+            "id": "6-down",
+            "number": 6,
+            "humanNumber": "6",
+            "clue": "I serve in US army:  never would I work for Walt? (9)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "6-down"
+            ],
+            "position": {
+                "x": 11,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "IMAGINEER"
+        },
+        {
+            "id": "7-down",
+            "number": 7,
+            "humanNumber": "7",
+            "clue": "Here one may learn from a bible in stiff cover (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "7-down"
+            ],
+            "position": {
+                "x": 13,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "HARVARD"
+        },
+        {
+            "id": "8-down",
+            "number": 8,
+            "humanNumber": "8",
+            "clue": "Magazine's good year overcoming financial problems (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "8-down"
+            ],
+            "position": {
+                "x": 7,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "GLOSSY"
+        },
+        {
+            "id": "13-down",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "As capital, bad smell about yen, a principle for the Chinese (9)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "13-down"
+            ],
+            "position": {
+                "x": 3,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "PYONGYANG"
+        },
+        {
+            "id": "16-down",
+            "number": 16,
+            "humanNumber": "16",
+            "clue": "What a reverse \u2014 a big defeat \u2014 don't interrupt! (4,3)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "16-down"
+            ],
+            "position": {
+                "x": 1,
+                "y": 8
+            },
+            "separatorLocations": {
+                ",": [
+                    4
+                ]
+            },
+            "solution": "HEAROUT"
+        },
+        {
+            "id": "17-down",
+            "number": 17,
+            "humanNumber": "17",
+            "clue": "Being nauseating fouls me up (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "17-down"
+            ],
+            "position": {
+                "x": 5,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "FULSOME"
+        },
+        {
+            "id": "18-down",
+            "number": 18,
+            "humanNumber": "18",
+            "clue": "Animal in River by Turner (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "18-down"
+            ],
+            "position": {
+                "x": 7,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "DONKEY"
+        },
+        {
+            "id": "19-down",
+            "number": 19,
+            "humanNumber": "19",
+            "clue": "Play and blow for time (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "19-down"
+            ],
+            "position": {
+                "x": 9,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "ENDGAME"
+        },
+        {
+            "id": "20-down",
+            "number": 20,
+            "humanNumber": "20",
+            "clue": "How one might briefly describe the Princess Royal's body? (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "20-down"
+            ],
+            "position": {
+                "x": 13,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "CHASSIS"
+        },
+        {
+            "id": "23-down",
+            "number": 23,
+            "humanNumber": "23",
+            "clue": "Thoroughly search small playing area? Not quite (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "23-down"
+            ],
+            "position": {
+                "x": 11,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "SCOUR"
+        }
+    ],
+    "solutionAvailable": true,
+    "dateSolutionAvailable": 1504911600000,
+    "dimensions": {
+        "cols": 15,
+        "rows": 15
+    },
+    "crosswordType": "prize",
+    "pdf": "https://crosswords-static.guim.co.uk/gdn.cryptic.20170902.pdf",
+    "_gridType": "M32"
+}

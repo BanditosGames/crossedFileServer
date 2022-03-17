@@ -1,0 +1,534 @@
+{
+    "id": "crosswords/prize/25161",
+    "number": 25161,
+    "name": "Prize crossword No 25,161",
+    "creator": {
+        "name": "Paul",
+        "webUrl": "https://www.theguardian.com/profile/paul"
+    },
+    "date": 1289001600000,
+    "webPublicationDate": 1289001600000,
+    "entries": [
+        {
+            "id": "1-across",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "Shakespearean wind-up (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "1-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "BELCH"
+        },
+        {
+            "id": "4-across",
+            "number": 4,
+            "humanNumber": "4",
+            "clue": "Catalogue not allowed, dead (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "4-across"
+            ],
+            "position": {
+                "x": 6,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "TABULATE"
+        },
+        {
+            "id": "8-across",
+            "number": 8,
+            "humanNumber": "8",
+            "clue": "Those under trousers, though not under discussion? (14)",
+            "direction": "across",
+            "length": 14,
+            "group": [
+                "8-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 2
+            },
+            "separatorLocations": {},
+            "solution": "UNMENTIONABLES"
+        },
+        {
+            "id": "10-across",
+            "number": 10,
+            "humanNumber": "10",
+            "clue": "Come on, it's miserable \u2014 so get smiley? (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "10-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 4
+            },
+            "separatorLocations": {},
+            "solution": "EMOTICON"
+        },
+        {
+            "id": "11-across",
+            "number": 11,
+            "humanNumber": "11",
+            "clue": "See 5",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "5-down",
+                "11-across"
+            ],
+            "position": {
+                "x": 9,
+                "y": 4
+            },
+            "separatorLocations": {},
+            "solution": "BUSTER"
+        },
+        {
+            "id": "12-across",
+            "number": 12,
+            "humanNumber": "12",
+            "clue": "Musician's heartbreak? (5,4)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "12-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 6
+            },
+            "separatorLocations": {
+                ",": [
+                    5
+                ]
+            },
+            "solution": "ORGANSTOP"
+        },
+        {
+            "id": "15-across",
+            "number": 15,
+            "humanNumber": "15",
+            "clue": "Odd bits from bush by this compiler's feet (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "15-across"
+            ],
+            "position": {
+                "x": 10,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "IAMBS"
+        },
+        {
+            "id": "17-across",
+            "number": 17,
+            "humanNumber": "17",
+            "clue": "Partially motorised, a nursing chair carried (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "17-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "SEDAN"
+        },
+        {
+            "id": "18-across",
+            "number": 18,
+            "humanNumber": "18",
+            "clue": "Plant short grass alongside earth, perhaps (5,4)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "18-across"
+            ],
+            "position": {
+                "x": 6,
+                "y": 8
+            },
+            "separatorLocations": {
+                ",": [
+                    5
+                ]
+            },
+            "solution": "PLANETREE"
+        },
+        {
+            "id": "19-across",
+            "number": 19,
+            "humanNumber": "19",
+            "clue": "Touring players given starter of ravioli in endless syrup (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "19-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "TROUPE"
+        },
+        {
+            "id": "21-across",
+            "number": 21,
+            "humanNumber": "21",
+            "clue": "Poor child's heading off to fill barrel to the sound of a cash register! (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "21-across"
+            ],
+            "position": {
+                "x": 7,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "KERCHING"
+        },
+        {
+            "id": "24-across",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "Optical illusions with anagram \u2014 pathos, I gathered (14)",
+            "direction": "across",
+            "length": 14,
+            "group": [
+                "24-across"
+            ],
+            "position": {
+                "x": 1,
+                "y": 12
+            },
+            "separatorLocations": {},
+            "solution": "PHANTASMAGORIA"
+        },
+        {
+            "id": "25-across",
+            "number": 25,
+            "humanNumber": "25",
+            "clue": "Pay to drink ale? On the contrary, don't pay! (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "25-across"
+            ],
+            "position": {
+                "x": 1,
+                "y": 14
+            },
+            "separatorLocations": {},
+            "solution": "FREEBOOT"
+        },
+        {
+            "id": "26-across",
+            "number": 26,
+            "humanNumber": "26",
+            "clue": "Romantic gift excites, but not you (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "26-across"
+            ],
+            "position": {
+                "x": 10,
+                "y": 14
+            },
+            "separatorLocations": {},
+            "solution": "ROSES"
+        },
+        {
+            "id": "1-down",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "Octogenarian performer requiring check-up \u2014 perhaps he's forty? (5,7)",
+            "direction": "down",
+            "length": 12,
+            "group": [
+                "1-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    5
+                ]
+            },
+            "solution": "BRUCEFORSYTH"
+        },
+        {
+            "id": "2-down",
+            "number": 2,
+            "humanNumber": "2",
+            "clue": "Born premier in Messiahs, encapsulated by animal (young animal), raised \u2014 as such? (4,2,3)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "2-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    4,
+                    6
+                ]
+            },
+            "solution": "LAMBOFGOD"
+        },
+        {
+            "id": "3-down",
+            "number": 3,
+            "humanNumber": "3",
+            "clue": "Fringes of party banned language (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "3-down"
+            ],
+            "position": {
+                "x": 4,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "HINDI"
+        },
+        {
+            "id": "4-down",
+            "number": 4,
+            "humanNumber": "4",
+            "clue": "Bald tyre initially at\u00adtached, in suggestion work needed (4,2,3)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "4-down"
+            ],
+            "position": {
+                "x": 6,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    4,
+                    6
+                ]
+            },
+            "solution": "THINONTOP"
+        },
+        {
+            "id": "5-down",
+            "number": 5,
+            "humanNumber": "5, 11",
+            "clue": " Novel where it's not entirely nuts to squeeze breasts? (10)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "5-down",
+                "11-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "BONK"
+        },
+        {
+            "id": "6-down",
+            "number": 6,
+            "humanNumber": "6",
+            "clue": "I trouble a revolutionary to become possible socialist? (9)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "6-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "LABOURITE"
+        },
+        {
+            "id": "7-down",
+            "number": 7,
+            "humanNumber": "7",
+            "clue": "Comment from budgie to swallow, said swiftly? (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "7-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "TWEET"
+        },
+        {
+            "id": "9-down",
+            "number": 9,
+            "humanNumber": "9",
+            "clue": "In confusion, forgets to collect daughter and young lady? It's not clear (7,5)",
+            "direction": "down",
+            "length": 12,
+            "group": [
+                "9-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 3
+            },
+            "separatorLocations": {
+                ",": [
+                    7
+                ]
+            },
+            "solution": "FROSTEDGLASS"
+        },
+        {
+            "id": "13-down",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "A few coppers agreeable, imprisoning Gateshead writer (9)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "13-down"
+            ],
+            "position": {
+                "x": 4,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "NINEPENCE"
+        },
+        {
+            "id": "14-down",
+            "number": 14,
+            "humanNumber": "14",
+            "clue": "Possible arrangement to eat fish at Muslim's property (6,3)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "14-down"
+            ],
+            "position": {
+                "x": 8,
+                "y": 6
+            },
+            "separatorLocations": {
+                ",": [
+                    6
+                ]
+            },
+            "solution": "PRAYERMAT"
+        },
+        {
+            "id": "16-down",
+            "number": 16,
+            "humanNumber": "16",
+            "clue": "Party like gunmen in war (5,4)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "16-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 6
+            },
+            "separatorLocations": {
+                ",": [
+                    5
+                ]
+            },
+            "solution": "MARDIGRAS"
+        },
+        {
+            "id": "20-down",
+            "number": 20,
+            "humanNumber": "20",
+            "clue": "Different native beheaded (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "20-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "OTHER"
+        },
+        {
+            "id": "22-down",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "Cloth, I see, going up in smoke (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "22-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "CIGAR"
+        },
+        {
+            "id": "23-down",
+            "number": 23,
+            "humanNumber": "23",
+            "clue": "County date that should appear as April 30? (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "23-down"
+            ],
+            "position": {
+                "x": 6,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "MAYO"
+        }
+    ],
+    "solutionAvailable": true,
+    "dateSolutionAvailable": 1289606400000,
+    "dimensions": {
+        "cols": 15,
+        "rows": 15
+    },
+    "crosswordType": "prize",
+    "pdf": "http://static.guim.co.uk/crosswords/pdfs/gdn.cryptic.20101106.pdf",
+    "_gridType": "M42"
+}

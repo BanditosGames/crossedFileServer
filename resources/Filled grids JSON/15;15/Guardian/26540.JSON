@@ -1,0 +1,536 @@
+{
+    "id": "crosswords/cryptic/26540",
+    "number": 26540,
+    "name": "Cryptic crossword No 26,540",
+    "creator": {
+        "name": "Picaroon",
+        "webUrl": "https://www.theguardian.com/profile/picaroon"
+    },
+    "date": 1428451200000,
+    "webPublicationDate": 1428447600000,
+    "entries": [
+        {
+            "id": "1-across",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "Delay for audience, with cheers backing singer, one ditching the Stones? (6,7)",
+            "direction": "across",
+            "length": 13,
+            "group": [
+                "1-across"
+            ],
+            "position": {
+                "x": 1,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    6
+                ]
+            },
+            "solution": "WEIGHTWATCHER"
+        },
+        {
+            "id": "10-across",
+            "number": 10,
+            "humanNumber": "10",
+            "clue": "A list of bonus funds withdrawn (3,6)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "10-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 2
+            },
+            "separatorLocations": {
+                ",": [
+                    3
+                ]
+            },
+            "solution": "TOPDRAWER"
+        },
+        {
+            "id": "11-across",
+            "number": 11,
+            "humanNumber": "11",
+            "clue": "Part of member's time wasted (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "11-across"
+            ],
+            "position": {
+                "x": 10,
+                "y": 2
+            },
+            "separatorLocations": {},
+            "solution": "THIGH"
+        },
+        {
+            "id": "12-across",
+            "number": 12,
+            "humanNumber": "12",
+            "clue": "Grub left to get eaten in swamp (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "12-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 4
+            },
+            "separatorLocations": {},
+            "solution": "FLOOD"
+        },
+        {
+            "id": "13-across",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "Bird reportedly shy, getting plastered (9)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "13-across"
+            ],
+            "position": {
+                "x": 6,
+                "y": 4
+            },
+            "separatorLocations": {},
+            "solution": "ROUGHCAST"
+        },
+        {
+            "id": "14-across",
+            "number": 14,
+            "humanNumber": "14",
+            "clue": "Improvement from right back, cracking winning goal (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "14-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "UPTREND"
+        },
+        {
+            "id": "16-across",
+            "number": 16,
+            "humanNumber": "16",
+            "clue": "Bear with regularly brash, stuck-up official (4-3)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "16-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 6
+            },
+            "separatorLocations": {
+                "-": [
+                    4
+                ]
+            },
+            "solution": "POOHBAH"
+        },
+        {
+            "id": "18-across",
+            "number": 18,
+            "humanNumber": "18",
+            "clue": "Pair that trashed hotel to leave suite (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "18-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "PARTITA"
+        },
+        {
+            "id": "20-across",
+            "number": 20,
+            "humanNumber": "20",
+            "clue": "It's not free to broadcast with higher frequency (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "20-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "OFTENER"
+        },
+        {
+            "id": "21-across",
+            "number": 21,
+            "humanNumber": "21",
+            "clue": "That woman is taken in by rogue husband to some extent (9)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "21-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "RATHERISH"
+        },
+        {
+            "id": "23-across",
+            "number": 23,
+            "humanNumber": "23",
+            "clue": "Attack lines ending novel (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "23-across"
+            ],
+            "position": {
+                "x": 10,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "SHELL"
+        },
+        {
+            "id": "24-across",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "Slim Rocky boxing head of Apollo Creed (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "24-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 12
+            },
+            "separatorLocations": {},
+            "solution": "ISLAM"
+        },
+        {
+            "id": "25-across",
+            "number": 25,
+            "humanNumber": "25",
+            "clue": "Thick sort of drink's taken back from William Tell (9)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "25-across"
+            ],
+            "position": {
+                "x": 6,
+                "y": 12
+            },
+            "separatorLocations": {},
+            "solution": "SIMPLETON"
+        },
+        {
+            "id": "26-across",
+            "number": 26,
+            "humanNumber": "26",
+            "clue": "Cliched remarks where capitalists congregate\n\n (5,8)",
+            "direction": "across",
+            "length": 13,
+            "group": [
+                "26-across"
+            ],
+            "position": {
+                "x": 1,
+                "y": 14
+            },
+            "separatorLocations": {
+                ",": [
+                    5
+                ]
+            },
+            "solution": "STOCKEXCHANGE"
+        },
+        {
+            "id": "2-down",
+            "number": 2,
+            "humanNumber": "2",
+            "clue": "Old loaf cut by shop's end user (9)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "2-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "EXPLOITER"
+        },
+        {
+            "id": "3-down",
+            "number": 3,
+            "humanNumber": "3",
+            "clue": "Did Pierce blush? (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "3-down"
+            ],
+            "position": {
+                "x": 4,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "GORED"
+        },
+        {
+            "id": "4-down",
+            "number": 4,
+            "humanNumber": "4",
+            "clue": "Groom's intention to suppress hesitation, offering rose (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "4-down"
+            ],
+            "position": {
+                "x": 6,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "TOWERED"
+        },
+        {
+            "id": "5-down",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "How might I deal with flat melody? Get inform\u00adation (3,4)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "5-down"
+            ],
+            "position": {
+                "x": 8,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    3
+                ]
+            },
+            "solution": "AIRPUMP"
+        },
+        {
+            "id": "6-down",
+            "number": 6,
+            "humanNumber": "6",
+            "clue": "Merciless fox to hurt cat (9)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "6-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "CUTTHROAT"
+        },
+        {
+            "id": "7-down",
+            "number": 7,
+            "humanNumber": "7",
+            "clue": "Woman's age about 101 \u2014 it's rising (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "7-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "ERICA"
+        },
+        {
+            "id": "8-down",
+            "number": 8,
+            "humanNumber": "8",
+            "clue": "Cool having row, with stimulant swallowed by mistake (5,5,3)",
+            "direction": "down",
+            "length": 13,
+            "group": [
+                "8-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 1
+            },
+            "separatorLocations": {
+                ",": [
+                    5,
+                    10
+                ]
+            },
+            "solution": "STIFFUPPERLIP"
+        },
+        {
+            "id": "9-down",
+            "number": 9,
+            "humanNumber": "9",
+            "clue": "Beaten 3-0! What a place to see it happen? (5,4,4)",
+            "direction": "down",
+            "length": 13,
+            "group": [
+                "9-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 1
+            },
+            "separatorLocations": {
+                ",": [
+                    5,
+                    9
+                ]
+            },
+            "solution": "WHITEHARTLANE"
+        },
+        {
+            "id": "15-down",
+            "number": 15,
+            "humanNumber": "15",
+            "clue": "Maybe skinny dip English rejected, crime when swimming (9)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "15-down"
+            ],
+            "position": {
+                "x": 4,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "EPIDERMIC"
+        },
+        {
+            "id": "17-down",
+            "number": 17,
+            "humanNumber": "17",
+            "clue": "Surprisingly, nude male's found behind British chancellor's place? (9)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "17-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "BUNDESTAG"
+        },
+        {
+            "id": "19-down",
+            "number": 19,
+            "humanNumber": "19",
+            "clue": "Disputed a lot of lies (2,5)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "19-down"
+            ],
+            "position": {
+                "x": 6,
+                "y": 8
+            },
+            "separatorLocations": {
+                ",": [
+                    2
+                ]
+            },
+            "solution": "ATISSUE"
+        },
+        {
+            "id": "20-down",
+            "number": 20,
+            "humanNumber": "20",
+            "clue": "Like old written lang\u00aduage? Turn up a Master in Latin here (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "20-down"
+            ],
+            "position": {
+                "x": 8,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "OGHAMIC"
+        },
+        {
+            "id": "22-down",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "One abandoning throne, wanting occupation (2,3)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "22-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 10
+            },
+            "separatorLocations": {
+                ",": [
+                    2
+                ]
+            },
+            "solution": "TOLET"
+        },
+        {
+            "id": "23-down",
+            "number": 23,
+            "humanNumber": "23",
+            "clue": "Like girl, endlessly knocked back the sauce (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "23-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "SALSA"
+        }
+    ],
+    "solutionAvailable": true,
+    "dateSolutionAvailable": 1428447600000,
+    "dimensions": {
+        "cols": 15,
+        "rows": 15
+    },
+    "crosswordType": "cryptic",
+    "pdf": "http://static.guim.co.uk/crosswords/pdfs/gdn.cryptic.20150408.pdf",
+    "_gridType": "M10"
+}

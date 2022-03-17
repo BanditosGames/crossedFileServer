@@ -1,0 +1,476 @@
+{
+    "id": "crosswords/cryptic/25579",
+    "number": 25579,
+    "name": "Cryptic crossword No 25,579",
+    "creator": {
+        "name": "Shed",
+        "webUrl": "https://www.theguardian.com/profile/shed"
+    },
+    "date": 1331251200000,
+    "webPublicationDate": 1331251200000,
+    "entries": [
+        {
+            "id": "4-across",
+            "number": 4,
+            "humanNumber": "4",
+            "clue": "States circumvented by hasty retreat of gay character (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "4-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "HUSSAR"
+        },
+        {
+            "id": "6-across",
+            "number": 6,
+            "humanNumber": "6",
+            "clue": "Mutant 2 transmuted metal (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "6-across"
+            ],
+            "position": {
+                "x": 7,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "TITANIUM"
+        },
+        {
+            "id": "9-across",
+            "number": 9,
+            "humanNumber": "9, 1",
+            "clue": " Inquisitor wrecked Manx army jeep (6,6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "9-across",
+                "1-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 3
+            },
+            "separatorLocations": {
+                ",": [
+                    6
+                ]
+            },
+            "solution": "JEREMY"
+        },
+        {
+            "id": "10-across",
+            "number": 10,
+            "humanNumber": "10",
+            "clue": "Ecstatic about coiffure for prom (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "10-across"
+            ],
+            "position": {
+                "x": 7,
+                "y": 3
+            },
+            "separatorLocations": {},
+            "solution": "SEAFRONT"
+        },
+        {
+            "id": "11-across",
+            "number": 11,
+            "humanNumber": "11",
+            "clue": "Monarch caught by his opponent on air (7,4)",
+            "direction": "across",
+            "length": 11,
+            "group": [
+                "11-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 5
+            },
+            "separatorLocations": {
+                ",": [
+                    7
+                ]
+            },
+            "solution": "CROWNEDHEAD"
+        },
+        {
+            "id": "15-across",
+            "number": 15,
+            "humanNumber": "15",
+            "clue": "Discriminatory fifth-rankers catching seventh note (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "15-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "ELITIST"
+        },
+        {
+            "id": "17-across",
+            "number": 17,
+            "humanNumber": "17",
+            "clue": "Eg fungus-scavenger initially multiplied by 20 (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "17-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "CULTURE"
+        },
+        {
+            "id": "18-across",
+            "number": 18,
+            "humanNumber": "18",
+            "clue": "Dance mistress and dissolute priest on the job (11)",
+            "direction": "across",
+            "length": 11,
+            "group": [
+                "18-across"
+            ],
+            "position": {
+                "x": 4,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "TERPSICHORE"
+        },
+        {
+            "id": "22-across",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "What Syrinx did in 8? Yielded! (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "22-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "RETURNED"
+        },
+        {
+            "id": "23-across",
+            "number": 23,
+            "humanNumber": "23",
+            "clue": "Yob getting hold of New Order's 22 garment (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "23-across"
+            ],
+            "position": {
+                "x": 9,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "KIMONO"
+        },
+        {
+            "id": "24-across",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "Unfashionable subject's popular favourites (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "24-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 13
+            },
+            "separatorLocations": {},
+            "solution": "CLASSICS"
+        },
+        {
+            "id": "25-across",
+            "number": 25,
+            "humanNumber": "25",
+            "clue": "Polish writers wanting head of Polish painter (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "25-across"
+            ],
+            "position": {
+                "x": 9,
+                "y": 13
+            },
+            "separatorLocations": {},
+            "solution": "RUBENS"
+        },
+        {
+            "id": "1-down",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "See 9",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "9-across",
+                "1-down"
+            ],
+            "position": {
+                "x": 4,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": []
+            },
+            "solution": "PAXMAN"
+        },
+        {
+            "id": "2-down",
+            "number": 2,
+            "humanNumber": "2",
+            "clue": "Receivers receiving setter's payment, initially, in coins (10)",
+            "direction": "down",
+            "length": 10,
+            "group": [
+                "2-down"
+            ],
+            "position": {
+                "x": 8,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "FIVEPENCES"
+        },
+        {
+            "id": "3-down",
+            "number": 3,
+            "humanNumber": "3",
+            "clue": "Bulb in lift lifted in house (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "3-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "DAFFODIL"
+        },
+        {
+            "id": "4-down",
+            "number": 4,
+            "humanNumber": "4",
+            "clue": "Terrorist (cyber-criminal) embracing leaders of Islamic jihad (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "4-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "HIJACKER"
+        },
+        {
+            "id": "5-down",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "Pasquale, perhaps, cross-culturally cross-dressing, cold and dry (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "5-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "SARDONIC"
+        },
+        {
+            "id": "7-down",
+            "number": 7,
+            "humanNumber": "7",
+            "clue": "One-trick artist's creation (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "7-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "ICON"
+        },
+        {
+            "id": "8-down",
+            "number": 8,
+            "humanNumber": "8",
+            "clue": "Yen to interrupt thousandth tall tale? (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "8-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "MYTH"
+        },
+        {
+            "id": "12-down",
+            "number": 12,
+            "humanNumber": "12",
+            "clue": "Discouragement of French dramatist adopting recipe (10)",
+            "direction": "down",
+            "length": 10,
+            "group": [
+                "12-down"
+            ],
+            "position": {
+                "x": 6,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "DETERRENCE"
+        },
+        {
+            "id": "13-down",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "Feel bad about turning on gas in beleaguered economic area (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "13-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "EUROZONE"
+        },
+        {
+            "id": "14-down",
+            "number": 14,
+            "humanNumber": "14",
+            "clue": "Kind of ancient Roman people keeping half of 13 confused (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "14-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "GENEROUS"
+        },
+        {
+            "id": "16-down",
+            "number": 16,
+            "humanNumber": "16",
+            "clue": "Hobby generating unearned income (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "16-down"
+            ],
+            "position": {
+                "x": 4,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "INTEREST"
+        },
+        {
+            "id": "19-down",
+            "number": 19,
+            "humanNumber": "19",
+            "clue": "15 circle needing brains to crack this? (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "19-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "CLIQUE"
+        },
+        {
+            "id": "20-down",
+            "number": 20,
+            "humanNumber": "20",
+            "clue": "Idle, maybe, being possessed of infinite riches (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "20-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "ERIC"
+        },
+        {
+            "id": "21-down",
+            "number": 21,
+            "humanNumber": "21",
+            "clue": "Weasel docked in colonnade (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "21-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "STOA"
+        }
+    ],
+    "solutionAvailable": true,
+    "dateSolutionAvailable": 1331251200000,
+    "dimensions": {
+        "cols": 15,
+        "rows": 15
+    },
+    "crosswordType": "cryptic",
+    "pdf": "http://static.guim.co.uk/crosswords/pdfs/gdn.cryptic.20120309.pdf",
+    "_gridType": "M33"
+}

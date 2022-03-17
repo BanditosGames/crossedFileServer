@@ -1,0 +1,547 @@
+{
+    "id": "crosswords/cryptic/22853",
+    "number": 22853,
+    "name": "Cryptic crossword No 22,853",
+    "creator": {
+        "name": "Shed",
+        "webUrl": "https://www.theguardian.com/profile/shed"
+    },
+    "date": 1055203200000,
+    "webPublicationDate": 1055199600000,
+    "entries": [
+        {
+            "id": "1-across",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "Not abridged, containing nothing hot or vulgar (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "1-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "UNCOUTH"
+        },
+        {
+            "id": "5-across",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "Leave the country, making note sound discordant (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "5-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "MIGRATE"
+        },
+        {
+            "id": "9-across",
+            "number": 9,
+            "humanNumber": "9",
+            "clue": "Relieved student in credit notes bloom (9)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "9-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 2
+            },
+            "separatorLocations": {},
+            "solution": "GLADIOLUS"
+        },
+        {
+            "id": "10-across",
+            "number": 10,
+            "humanNumber": "10",
+            "clue": "See 14",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "14-across",
+                "10-across"
+            ],
+            "position": {
+                "x": 10,
+                "y": 2
+            },
+            "separatorLocations": {
+                ",": []
+            },
+            "solution": "EARTH"
+        },
+        {
+            "id": "11-across",
+            "number": 11,
+            "humanNumber": "11",
+            "clue": "Wanting life to be exact (4)",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "11-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 4
+            },
+            "separatorLocations": {},
+            "solution": "DEAD"
+        },
+        {
+            "id": "12-across",
+            "number": 12,
+            "humanNumber": "12",
+            "clue": "Firm, injurious, losing 1-0 to champion of 4 (10)",
+            "direction": "across",
+            "length": 10,
+            "group": [
+                "12-across"
+            ],
+            "position": {
+                "x": 5,
+                "y": 4
+            },
+            "separatorLocations": {},
+            "solution": "COPERNICUS"
+        },
+        {
+            "id": "14-across",
+            "number": 14,
+            "humanNumber": "14",
+            "clue": "Tolkien setting the converse of 4? (6,5)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "14-across",
+                "10-across"
+            ],
+            "position": {
+                "x": 1,
+                "y": 6
+            },
+            "separatorLocations": {
+                ",": [
+                    6
+                ]
+            },
+            "solution": "MIDDLE"
+        },
+        {
+            "id": "15-across",
+            "number": 15,
+            "humanNumber": "15",
+            "clue": "Look determined in Lewis's cupboards (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "15-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "CLOSETS"
+        },
+        {
+            "id": "16-across",
+            "number": 16,
+            "humanNumber": "16",
+            "clue": "Revolt in Hell? Blast! (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "16-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "DISGUST"
+        },
+        {
+            "id": "18-across",
+            "number": 18,
+            "humanNumber": "18",
+            "clue": "When to indicate or appoint (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "18-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "ASSIGN"
+        },
+        {
+            "id": "20-across",
+            "number": 20,
+            "humanNumber": "20",
+            "clue": "Revolutionary racket is interrupting gift-bearer (10)",
+            "direction": "across",
+            "length": 10,
+            "group": [
+                "20-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "SANDINISTA"
+        },
+        {
+            "id": "21-across",
+            "number": 21,
+            "humanNumber": "21",
+            "clue": "Almost crumble in fire (4)",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "21-across"
+            ],
+            "position": {
+                "x": 11,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "FLAK"
+        },
+        {
+            "id": "24-across",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "Letter of thanks appended to article (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "24-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 12
+            },
+            "separatorLocations": {},
+            "solution": "THETA"
+        },
+        {
+            "id": "25-across",
+            "number": 25,
+            "humanNumber": "25",
+            "clue": "Compiler's taking little time to recover by foul means (9)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "25-across"
+            ],
+            "position": {
+                "x": 6,
+                "y": 12
+            },
+            "separatorLocations": {},
+            "solution": "IMMORALLY"
+        },
+        {
+            "id": "26-across",
+            "number": 26,
+            "humanNumber": "26",
+            "clue": "Employ model that's wrong - his didn't involve 4 (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "26-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 14
+            },
+            "separatorLocations": {},
+            "solution": "PTOLEMY"
+        },
+        {
+            "id": "27-across",
+            "number": 27,
+            "humanNumber": "27",
+            "clue": "Fishermen's labour organisation? (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "27-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 14
+            },
+            "separatorLocations": {},
+            "solution": "NETWORK"
+        },
+        {
+            "id": "1-down",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "Encouraged - lost canoe, but still encouraged! (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "1-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "URGED"
+        },
+        {
+            "id": "2-down",
+            "number": 2,
+            "humanNumber": "2",
+            "clue": "Interlinked cap and hat with which I made bread (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "2-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "CHAPATI"
+        },
+        {
+            "id": "3-down",
+            "number": 3,
+            "humanNumber": "3",
+            "clue": "An integral component of munitions (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "3-down"
+            ],
+            "position": {
+                "x": 4,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "UNIT"
+        },
+        {
+            "id": "4-down",
+            "number": 4,
+            "humanNumber": "4",
+            "clue": "Man turned fuel to money and island state to metropolis at 12's suggestion (15)",
+            "direction": "down",
+            "length": 15,
+            "group": [
+                "4-down"
+            ],
+            "position": {
+                "x": 6,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "HELIOCENTRICITY"
+        },
+        {
+            "id": "5-down",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "Paper about flower and ship by island expert (6,9)",
+            "direction": "down",
+            "length": 15,
+            "group": [
+                "5-down"
+            ],
+            "position": {
+                "x": 8,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    6
+                ]
+            },
+            "solution": "MASTERCRAFTSMAN"
+        },
+        {
+            "id": "6-down",
+            "number": 6,
+            "humanNumber": "6",
+            "clue": "Naive sort of music with potentially catastrophic effect (10)",
+            "direction": "down",
+            "length": 10,
+            "group": [
+                "6-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "GREENHOUSE"
+        },
+        {
+            "id": "7-down",
+            "number": 7,
+            "humanNumber": "7",
+            "clue": "Gold staple pinning plate to ear (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "7-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "AURICLE"
+        },
+        {
+            "id": "8-down",
+            "number": 8,
+            "humanNumber": "8",
+            "clue": "Oriental pushes off to ancient city (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "8-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "EPHESUS"
+        },
+        {
+            "id": "13-down",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "Referee may notice Hardy hero embracing Italy fan (10)",
+            "direction": "down",
+            "length": 10,
+            "group": [
+                "13-down"
+            ],
+            "position": {
+                "x": 4,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "ADJUDICATE"
+        },
+        {
+            "id": "16-down",
+            "number": 16,
+            "humanNumber": "16",
+            "clue": "Silly sod kept publishing (sort of) (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "16-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "DESKTOP"
+        },
+        {
+            "id": "17-down",
+            "number": 17,
+            "humanNumber": "17",
+            "clue": "Headless horseman disturbed the resort (3,4)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "17-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 8
+            },
+            "separatorLocations": {
+                ",": [
+                    3
+                ]
+            },
+            "solution": "SANREMO"
+        },
+        {
+            "id": "19-down",
+            "number": 19,
+            "humanNumber": "19",
+            "clue": "One prisoner raised sign to champion of 4 (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "19-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "GALILEO"
+        },
+        {
+            "id": "22-down",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "Canoe unaffected by capsizing (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "22-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "KAYAK"
+        },
+        {
+            "id": "23-down",
+            "number": 23,
+            "humanNumber": "23",
+            "clue": "Feature of fingerboard causes worry (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "23-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "FRET"
+        }
+    ],
+    "solutionAvailable": true,
+    "dateSolutionAvailable": 1055199600000,
+    "dimensions": {
+        "cols": 15,
+        "rows": 15
+    },
+    "crosswordType": "cryptic",
+    "_gridType": "M36"
+}

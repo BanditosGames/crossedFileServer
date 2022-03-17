@@ -1,0 +1,519 @@
+{
+    "id": "crosswords/cryptic/22076",
+    "number": 22076,
+    "name": "Cryptic crossword No 22,076",
+    "creator": {
+        "name": "Orlando",
+        "webUrl": "https://www.theguardian.com/profile/orlando"
+    },
+    "date": 976233600000,
+    "webPublicationDate": 976233600000,
+    "entries": [
+        {
+            "id": "8-across",
+            "number": 8,
+            "humanNumber": "8",
+            "clue": "An animated film enthusiast is at a play (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "8-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "FANTASIA"
+        },
+        {
+            "id": "9-across",
+            "number": 9,
+            "humanNumber": "9",
+            "clue": "The capital of Greece and the capital of Albania followed by the capital of Serbia (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "9-across"
+            ],
+            "position": {
+                "x": 9,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "ATHENS"
+        },
+        {
+            "id": "10-across",
+            "number": 10,
+            "humanNumber": "10",
+            "clue": "An embarrassing incident heard or observed (4)",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "10-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 3
+            },
+            "separatorLocations": {},
+            "solution": "SEEN"
+        },
+        {
+            "id": "11-across",
+            "number": 11,
+            "humanNumber": "11",
+            "clue": "Old artiste doing a turn in the grave? (4,2,4)",
+            "direction": "across",
+            "length": 10,
+            "group": [
+                "11-across"
+            ],
+            "position": {
+                "x": 5,
+                "y": 3
+            },
+            "separatorLocations": {
+                ",": [
+                    4,
+                    6
+                ]
+            },
+            "solution": "LAIDTOREST"
+        },
+        {
+            "id": "12-across",
+            "number": 12,
+            "humanNumber": "12",
+            "clue": "Incendiary material can finish a tree (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "12-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "NAPALM"
+        },
+        {
+            "id": "14-across",
+            "number": 14,
+            "humanNumber": "14",
+            "clue": "Cigars with revolutionary origins (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "14-across"
+            ],
+            "position": {
+                "x": 7,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "CHEROOTS"
+        },
+        {
+            "id": "15-across",
+            "number": 15,
+            "humanNumber": "15",
+            "clue": "Rattle's false alarm (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "15-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "STARTLE"
+        },
+        {
+            "id": "17-across",
+            "number": 17,
+            "humanNumber": "17",
+            "clue": "Notices about \"Shine\", say, or \"Truly, Madly, Deeply\", for example (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "17-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "ADVERBS"
+        },
+        {
+            "id": "20-across",
+            "number": 20,
+            "humanNumber": "20",
+            "clue": "Greek island importing clean dressed hides (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "20-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "CONCEALS"
+        },
+        {
+            "id": "22-across",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "A woman in America or in another country (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "22-across"
+            ],
+            "position": {
+                "x": 9,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "ABROAD"
+        },
+        {
+            "id": "23-across",
+            "number": 23,
+            "humanNumber": "23",
+            "clue": "Odd sort of hand, etc (3,2,5)",
+            "direction": "across",
+            "length": 10,
+            "group": [
+                "23-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 11
+            },
+            "separatorLocations": {
+                ",": [
+                    3,
+                    5
+                ]
+            },
+            "solution": "ANDSOFORTH"
+        },
+        {
+            "id": "24-across",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "Snow used as fuel (4)",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "24-across"
+            ],
+            "position": {
+                "x": 11,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "COKE"
+        },
+        {
+            "id": "25-across",
+            "number": 25,
+            "humanNumber": "25",
+            "clue": "Poised, at ease, inwardly calm (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "25-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 13
+            },
+            "separatorLocations": {},
+            "solution": "SEDATE"
+        },
+        {
+            "id": "26-across",
+            "number": 26,
+            "humanNumber": "26",
+            "clue": "Covering: for example, covering northern bird (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "26-across"
+            ],
+            "position": {
+                "x": 7,
+                "y": 13
+            },
+            "separatorLocations": {},
+            "solution": "ENROBING"
+        },
+        {
+            "id": "1-down",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "Is flipping Tarzan right for the title role? (4,4)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "1-down"
+            ],
+            "position": {
+                "x": 1,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    4
+                ]
+            },
+            "solution": "NAMEPART"
+        },
+        {
+            "id": "2-down",
+            "number": 2,
+            "humanNumber": "2",
+            "clue": "Crazy about rock (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "2-down"
+            ],
+            "position": {
+                "x": 3,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "STUN"
+        },
+        {
+            "id": "3-down",
+            "number": 3,
+            "humanNumber": "3",
+            "clue": "Refuge for youth leader in a squalid district (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "3-down"
+            ],
+            "position": {
+                "x": 5,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "ASYLUM"
+        },
+        {
+            "id": "4-down",
+            "number": 4,
+            "humanNumber": "4",
+            "clue": "Dance about repeatedly on outskirts of Brazilian city (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "4-down"
+            ],
+            "position": {
+                "x": 7,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "CARIOCA"
+        },
+        {
+            "id": "5-down",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "Crazy, like \"The\" in the Guardian's logo? (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "5-down"
+            ],
+            "position": {
+                "x": 9,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "MASTHEAD"
+        },
+        {
+            "id": "6-down",
+            "number": 6,
+            "humanNumber": "6",
+            "clue": "Circus performer - a heretic or revolutionary (10)",
+            "direction": "down",
+            "length": 10,
+            "group": [
+                "6-down"
+            ],
+            "position": {
+                "x": 11,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "CHARIOTEER"
+        },
+        {
+            "id": "7-down",
+            "number": 7,
+            "humanNumber": "7",
+            "clue": "German and Swiss leader and French and Norwegian novelist (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "7-down"
+            ],
+            "position": {
+                "x": 13,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "UNDSET"
+        },
+        {
+            "id": "13-down",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "Throw in a religious medal (6,4)",
+            "direction": "down",
+            "length": 10,
+            "group": [
+                "13-down"
+            ],
+            "position": {
+                "x": 3,
+                "y": 5
+            },
+            "separatorLocations": {
+                ",": [
+                    6
+                ]
+            },
+            "solution": "AFRICASTAR"
+        },
+        {
+            "id": "16-down",
+            "number": 16,
+            "humanNumber": "16",
+            "clue": "Petrol for van costing nothing (4-4)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "16-down"
+            ],
+            "position": {
+                "x": 5,
+                "y": 7
+            },
+            "separatorLocations": {
+                "-": [
+                    4
+                ]
+            },
+            "solution": "LEADFREE"
+        },
+        {
+            "id": "18-down",
+            "number": 18,
+            "humanNumber": "18",
+            "clue": "Bishop without polish (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "18-down"
+            ],
+            "position": {
+                "x": 13,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "BLACKING"
+        },
+        {
+            "id": "19-down",
+            "number": 19,
+            "humanNumber": "19",
+            "clue": "Moneylender receiving pence he takes unlawfully (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "19-down"
+            ],
+            "position": {
+                "x": 7,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "USURPER"
+        },
+        {
+            "id": "21-down",
+            "number": 21,
+            "humanNumber": "21",
+            "clue": "Cats in the pound? (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "21-down"
+            ],
+            "position": {
+                "x": 1,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "OUNCES"
+        },
+        {
+            "id": "22-down",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "A prop on land (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "22-down"
+            ],
+            "position": {
+                "x": 9,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "ASHORE"
+        },
+        {
+            "id": "24-down",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "Young reporter on a Caribbean island (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "24-down"
+            ],
+            "position": {
+                "x": 11,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "CUBA"
+        }
+    ],
+    "solutionAvailable": true,
+    "dateSolutionAvailable": 976233600000,
+    "dimensions": {
+        "cols": 15,
+        "rows": 15
+    },
+    "crosswordType": "cryptic",
+    "_gridType": "M15"
+}

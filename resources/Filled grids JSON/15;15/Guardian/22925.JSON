@@ -1,0 +1,571 @@
+{
+    "id": "crosswords/cryptic/22925",
+    "number": 22925,
+    "name": "Cryptic crossword No 22,925",
+    "creator": {
+        "name": "Paul",
+        "webUrl": "https://www.theguardian.com/profile/paul"
+    },
+    "date": 1062460800000,
+    "webPublicationDate": 1062457200000,
+    "entries": [
+        {
+            "id": "1-across",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "5 across, or 24 (7,6)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "1-across",
+                "19-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    7
+                ]
+            },
+            "solution": "FASHION"
+        },
+        {
+            "id": "5-across",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "Partner of vice, church designer (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "5-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "VERSACE"
+        },
+        {
+            "id": "9-across",
+            "number": 9,
+            "humanNumber": "9",
+            "clue": "See 10",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "10-across",
+                "9-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 2
+            },
+            "separatorLocations": {},
+            "solution": "WELLS"
+        },
+        {
+            "id": "10-across",
+            "number": 10,
+            "humanNumber": "10",
+            "clue": "Letters of worst ugliness, befuddled git their creator? (9,2,9,5)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "10-across",
+                "18-across"
+            ],
+            "position": {
+                "x": 6,
+                "y": 2
+            },
+            "separatorLocations": {
+                ",": [
+                    9
+                ]
+            },
+            "solution": "DISGUSTED"
+        },
+        {
+            "id": "11-across",
+            "number": 11,
+            "humanNumber": "11",
+            "clue": "Chicken appeared tender stuffed into tree, needing no more temperature (7-3)",
+            "direction": "across",
+            "length": 10,
+            "group": [
+                "11-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 4
+            },
+            "separatorLocations": {
+                "-": [
+                    7
+                ]
+            },
+            "solution": "SCAREDYCAT"
+        },
+        {
+            "id": "12-across",
+            "number": 12,
+            "humanNumber": "12",
+            "clue": "The Guardian and the Queen are sort of friendly? (4)",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "12-across"
+            ],
+            "position": {
+                "x": 11,
+                "y": 4
+            },
+            "separatorLocations": {},
+            "solution": "USER"
+        },
+        {
+            "id": "14-across",
+            "number": 14,
+            "humanNumber": "14",
+            "clue": "Deception of Raj, or honest deception? (6,5)",
+            "direction": "across",
+            "length": 11,
+            "group": [
+                "14-across"
+            ],
+            "position": {
+                "x": 4,
+                "y": 6
+            },
+            "separatorLocations": {
+                ",": [
+                    6
+                ]
+            },
+            "solution": "TROJANHORSE"
+        },
+        {
+            "id": "18-across",
+            "number": 18,
+            "humanNumber": "18",
+            "clue": "See 10",
+            "direction": "across",
+            "length": 11,
+            "group": [
+                "10-across",
+                "18-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 8
+            },
+            "separatorLocations": {
+                ",": [
+                    2,
+                    11
+                ]
+            },
+            "solution": "OFTUNBRIDGE"
+        },
+        {
+            "id": "21-across",
+            "number": 21,
+            "humanNumber": "21",
+            "clue": "Recent killer of old emperors reported (4)",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "21-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "SARS"
+        },
+        {
+            "id": "22-across",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "Barrier providing cutting message? (6,4)",
+            "direction": "across",
+            "length": 10,
+            "group": [
+                "22-across"
+            ],
+            "position": {
+                "x": 5,
+                "y": 10
+            },
+            "separatorLocations": {
+                ",": [
+                    6
+                ]
+            },
+            "solution": "BARBEDWIRE"
+        },
+        {
+            "id": "25-across",
+            "number": 25,
+            "humanNumber": "25",
+            "clue": "Criticises bishops with one in tears (9)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "25-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 12
+            },
+            "separatorLocations": {},
+            "solution": "RUBBISHES"
+        },
+        {
+            "id": "26-across",
+            "number": 26,
+            "humanNumber": "26",
+            "clue": "Gaul, having lost 9, makes bloomer (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "26-across"
+            ],
+            "position": {
+                "x": 10,
+                "y": 12
+            },
+            "separatorLocations": {},
+            "solution": "ASTER"
+        },
+        {
+            "id": "27-across",
+            "number": 27,
+            "humanNumber": "27",
+            "clue": "One moving stealthily on foot in America (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "27-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 14
+            },
+            "separatorLocations": {},
+            "solution": "SNEAKER"
+        },
+        {
+            "id": "28-across",
+            "number": 28,
+            "humanNumber": "28",
+            "clue": "Time for Mahler composition, one currently uplifting? (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "28-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 14
+            },
+            "separatorLocations": {},
+            "solution": "THERMAL"
+        },
+        {
+            "id": "1-down",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "Partners to ram into newspaper at least (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "1-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "FEWEST"
+        },
+        {
+            "id": "2-down",
+            "number": 2,
+            "humanNumber": "2",
+            "clue": "Israeli king loses a brown sovereign (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "2-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "SULTAN"
+        },
+        {
+            "id": "3-down",
+            "number": 3,
+            "humanNumber": "3",
+            "clue": "Examiner's job is to replace sign around what helps to create jam (10)",
+            "direction": "down",
+            "length": 10,
+            "group": [
+                "3-down"
+            ],
+            "position": {
+                "x": 4,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "INSPECTING"
+        },
+        {
+            "id": "4-down",
+            "number": 4,
+            "humanNumber": "4",
+            "clue": "Children's favourite teacher turns up with empty diary (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "4-down"
+            ],
+            "position": {
+                "x": 6,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "NODDY"
+        },
+        {
+            "id": "5-down",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "Pass round university and face up to what's seen to be helpful (6,3)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "5-down"
+            ],
+            "position": {
+                "x": 8,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    6
+                ]
+            },
+            "solution": "VISUALAID"
+        },
+        {
+            "id": "6-down",
+            "number": 6,
+            "humanNumber": "6",
+            "clue": "Scrummy game involving love and kiss a basis for sauce (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "6-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "ROUX"
+        },
+        {
+            "id": "7-down",
+            "number": 7,
+            "humanNumber": "7",
+            "clue": "Brilliance of wandering star, one held to move heaven and earth (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "7-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "ARTISTRY"
+        },
+        {
+            "id": "8-down",
+            "number": 8,
+            "humanNumber": "8",
+            "clue": "Backs back with those eating 'ay? (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "8-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "ENDORSES"
+        },
+        {
+            "id": "13-down",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "Interpret stake pocketed by the poor (10)",
+            "direction": "down",
+            "length": 10,
+            "group": [
+                "13-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "THREADBARE"
+        },
+        {
+            "id": "15-down",
+            "number": 15,
+            "humanNumber": "15",
+            "clue": "Devious fraud virtually concealed by extra supplication (3,6)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "15-down"
+            ],
+            "position": {
+                "x": 6,
+                "y": 6
+            },
+            "separatorLocations": {
+                ",": [
+                    3
+                ]
+            },
+            "solution": "OURFATHER"
+        },
+        {
+            "id": "16-down",
+            "number": 16,
+            "humanNumber": "16",
+            "clue": "Those associating with criminal types (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "16-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "CONSORTS"
+        },
+        {
+            "id": "17-down",
+            "number": 17,
+            "humanNumber": "17",
+            "clue": "Gold in firm can be banked (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "17-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "STORABLE"
+        },
+        {
+            "id": "19-down",
+            "number": 19,
+            "humanNumber": "19",
+            "clue": "See 1 across",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "1-across",
+                "19-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 9
+            },
+            "separatorLocations": {
+                ",": []
+            },
+            "solution": "VICTIM"
+        },
+        {
+            "id": "20-down",
+            "number": 20,
+            "humanNumber": "20",
+            "clue": "Noncombatant, though heartless and impulsive? (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "20-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "NEURAL"
+        },
+        {
+            "id": "23-down",
+            "number": 23,
+            "humanNumber": "23",
+            "clue": "Troubled head of school gripped by alternative to cane (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "23-down"
+            ],
+            "position": {
+                "x": 8,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "BESET"
+        },
+        {
+            "id": "24-down",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "Useful for keeping some warm in Knightsbridge? (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "24-down"
+            ],
+            "position": {
+                "x": 4,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "MINK"
+        }
+    ],
+    "solutionAvailable": true,
+    "dateSolutionAvailable": 1062457200000,
+    "dimensions": {
+        "cols": 15,
+        "rows": 15
+    },
+    "crosswordType": "cryptic",
+    "_gridType": "M20"
+}

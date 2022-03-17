@@ -1,0 +1,554 @@
+{
+    "id": "crosswords/cryptic/23247",
+    "number": 23247,
+    "name": "Cryptic crossword No 23,247",
+    "creator": {
+        "name": "Paul",
+        "webUrl": "https://www.theguardian.com/profile/paul"
+    },
+    "date": 1095120000000,
+    "webPublicationDate": 1095116400000,
+    "entries": [
+        {
+            "id": "1-across",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "Throughout lap, I'm following (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "1-across"
+            ],
+            "position": {
+                "x": 1,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "PASSIM"
+        },
+        {
+            "id": "4-across",
+            "number": 4,
+            "humanNumber": "4",
+            "clue": "Criminal nicking first and sixth from another (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "4-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "MUGGER"
+        },
+        {
+            "id": "9-across",
+            "number": 9,
+            "humanNumber": "9",
+            "clue": "See 15 and 19",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "15-across",
+                "9-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 2
+            },
+            "separatorLocations": {},
+            "solution": "TOWN"
+        },
+        {
+            "id": "10-across",
+            "number": 10,
+            "humanNumber": "10",
+            "clue": "Main thing saw Tory leader quite socialist, not centre (10)",
+            "direction": "across",
+            "length": 10,
+            "group": [
+                "10-across"
+            ],
+            "position": {
+                "x": 5,
+                "y": 2
+            },
+            "separatorLocations": {},
+            "solution": "CUTTLEFISH"
+        },
+        {
+            "id": "11-across",
+            "number": 11,
+            "humanNumber": "11",
+            "clue": "Novelist to unite by fusion? (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "11-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 4
+            },
+            "separatorLocations": {},
+            "solution": "WELDON"
+        },
+        {
+            "id": "12-across",
+            "number": 12,
+            "humanNumber": "12",
+            "clue": "No one here sane (3,5)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "12-across"
+            ],
+            "position": {
+                "x": 7,
+                "y": 4
+            },
+            "separatorLocations": {
+                ",": [
+                    3
+                ]
+            },
+            "solution": "ALLTHERE"
+        },
+        {
+            "id": "13-across",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "Boast about French team ahead of English many years ago (6,3)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "13-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 6
+            },
+            "separatorLocations": {
+                ",": [
+                    6
+                ]
+            },
+            "solution": "BRONZEAGE"
+        },
+        {
+            "id": "15-across",
+            "number": 15,
+            "humanNumber": "15",
+            "clue": "Support turns in lower capital (8)",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "15-across",
+                "9-across"
+            ],
+            "position": {
+                "x": 10,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "FREE"
+        },
+        {
+            "id": "16-across",
+            "number": 16,
+            "humanNumber": "16",
+            "clue": "Bet the Euro's replaced it (4)",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "16-across"
+            ],
+            "position": {
+                "x": 1,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "PUNT"
+        },
+        {
+            "id": "17-across",
+            "number": 17,
+            "humanNumber": "17",
+            "clue": "Nervous house losing five to plague (3,2,4)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "17-across"
+            ],
+            "position": {
+                "x": 6,
+                "y": 8
+            },
+            "separatorLocations": {
+                ",": [
+                    3,
+                    5
+                ]
+            },
+            "solution": "ILLATEASE"
+        },
+        {
+            "id": "21-across",
+            "number": 21,
+            "humanNumber": "21",
+            "clue": "Measure of toe wrestling, so conducted? (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "21-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "BAREFOOT"
+        },
+        {
+            "id": "22-across",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "Plan contracted by a country (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "22-across"
+            ],
+            "position": {
+                "x": 9,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "GAMBIA"
+        },
+        {
+            "id": "24-across",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "The Guardian's about to cook food on the barbie? (3,2,5)",
+            "direction": "across",
+            "length": 10,
+            "group": [
+                "24-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 12
+            },
+            "separatorLocations": {
+                ",": [
+                    3,
+                    5
+                ]
+            },
+            "solution": "OUTOFDOORS"
+        },
+        {
+            "id": "25-across",
+            "number": 25,
+            "humanNumber": "25",
+            "clue": "Wear green (4)",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "25-across"
+            ],
+            "position": {
+                "x": 11,
+                "y": 12
+            },
+            "separatorLocations": {},
+            "solution": "JADE"
+        },
+        {
+            "id": "26-across",
+            "number": 26,
+            "humanNumber": "26",
+            "clue": "Relative to face Edison invention (4-2)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "26-across"
+            ],
+            "position": {
+                "x": 1,
+                "y": 14
+            },
+            "separatorLocations": {
+                "-": [
+                    4
+                ]
+            },
+            "solution": "SIDEON"
+        },
+        {
+            "id": "27-across",
+            "number": 27,
+            "humanNumber": "27",
+            "clue": "Element withdrawing support in party (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "27-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 14
+            },
+            "separatorLocations": {},
+            "solution": "CARBON"
+        },
+        {
+            "id": "1-down",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "Founder, as one punctures coastal feature (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "1-down"
+            ],
+            "position": {
+                "x": 1,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "PIONEER"
+        },
+        {
+            "id": "2-down",
+            "number": 2,
+            "humanNumber": "2",
+            "clue": "Autopsy - no doctor's admitted body to see (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "2-down"
+            ],
+            "position": {
+                "x": 3,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "SYNOD"
+        },
+        {
+            "id": "3-down",
+            "number": 3,
+            "humanNumber": "3",
+            "clue": "The smell of anger? (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "3-down"
+            ],
+            "position": {
+                "x": 5,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "INCENSE"
+        },
+        {
+            "id": "5-down",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "Caveman's comment's a bloomer in hideous manner (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "5-down"
+            ],
+            "position": {
+                "x": 9,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "UGLILY"
+        },
+        {
+            "id": "6-down",
+            "number": 6,
+            "humanNumber": "6",
+            "clue": "Bush harbours condition that's half Arab offered (4,5)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "6-down"
+            ],
+            "position": {
+                "x": 11,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    4
+                ]
+            },
+            "solution": "GIFTHORSE"
+        },
+        {
+            "id": "7-down",
+            "number": 7,
+            "humanNumber": "7",
+            "clue": "A further time, deliver book (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "7-down"
+            ],
+            "position": {
+                "x": 13,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "RESERVE"
+        },
+        {
+            "id": "8-down",
+            "number": 8,
+            "humanNumber": "8",
+            "clue": "Hurried to haul up into place restrictive practice (13)",
+            "direction": "down",
+            "length": 13,
+            "group": [
+                "8-down"
+            ],
+            "position": {
+                "x": 7,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "STRANGULATION"
+        },
+        {
+            "id": "14-down",
+            "number": 14,
+            "humanNumber": "14",
+            "clue": "Atop note amid new or old coin, one coined specially (5,4)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "14-down"
+            ],
+            "position": {
+                "x": 3,
+                "y": 6
+            },
+            "separatorLocations": {
+                ",": [
+                    5
+                ]
+            },
+            "solution": "NONCEWORD"
+        },
+        {
+            "id": "16-down",
+            "number": 16,
+            "humanNumber": "16",
+            "clue": "A few coppers strip (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "16-down"
+            ],
+            "position": {
+                "x": 1,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "PEANUTS"
+        },
+        {
+            "id": "18-down",
+            "number": 18,
+            "humanNumber": "18",
+            "clue": "Stately, a state capital (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "18-down"
+            ],
+            "position": {
+                "x": 9,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "AUGUSTA"
+        },
+        {
+            "id": "19-down",
+            "number": 19,
+            "humanNumber": "19",
+            "clue": "Team's broadcast contains what they do want and don't (7,4)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "19-down"
+            ],
+            "position": {
+                "x": 13,
+                "y": 8
+            },
+            "separatorLocations": {
+                ",": [
+                    7
+                ]
+            },
+            "solution": "SWINDON"
+        },
+        {
+            "id": "20-down",
+            "number": 20,
+            "humanNumber": "20",
+            "clue": "Last four rounds pinching many stools behind bars (3,3)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "20-down"
+            ],
+            "position": {
+                "x": 5,
+                "y": 9
+            },
+            "separatorLocations": {
+                ",": [
+                    3
+                ]
+            },
+            "solution": "ZOODOO"
+        },
+        {
+            "id": "23-down",
+            "number": 23,
+            "humanNumber": "23",
+            "clue": "Menial work caught Jack among rabble (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "23-down"
+            ],
+            "position": {
+                "x": 11,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "MCJOB"
+        }
+    ],
+    "solutionAvailable": true,
+    "dateSolutionAvailable": 1095116400000,
+    "dimensions": {
+        "cols": 15,
+        "rows": 15
+    },
+    "crosswordType": "cryptic",
+    "_gridType": "M28"
+}

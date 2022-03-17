@@ -1,0 +1,520 @@
+{
+    "id": "crosswords/cryptic/26455",
+    "number": 26455,
+    "name": "Cryptic crossword No 26,455",
+    "creator": {
+        "name": "Chifonie",
+        "webUrl": "https://www.theguardian.com/profile/chifonie"
+    },
+    "date": 1419897600000,
+    "webPublicationDate": 1419897600000,
+    "entries": [
+        {
+            "id": "1-across",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "Redhead enters a make-believe retreat (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "1-across"
+            ],
+            "position": {
+                "x": 1,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "ASHRAM"
+        },
+        {
+            "id": "5-across",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "Frank develops with time (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "5-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "HONEST"
+        },
+        {
+            "id": "8-across",
+            "number": 8,
+            "humanNumber": "8",
+            "clue": "Commando in Burma introduces Indian language to court (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "8-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 2
+            },
+            "separatorLocations": {},
+            "solution": "CHINDIT"
+        },
+        {
+            "id": "9-across",
+            "number": 9,
+            "humanNumber": "9",
+            "clue": "Stars, intrinsically American (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "9-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 2
+            },
+            "separatorLocations": {},
+            "solution": "PERSEUS"
+        },
+        {
+            "id": "11-across",
+            "number": 11,
+            "humanNumber": "11",
+            "clue": "Request reliable cooker or vessel (8,7)",
+            "direction": "across",
+            "length": 15,
+            "group": [
+                "11-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 4
+            },
+            "separatorLocations": {
+                ",": [
+                    8
+                ]
+            },
+            "solution": "PLEASURESTEAMER"
+        },
+        {
+            "id": "12-across",
+            "number": 12,
+            "humanNumber": "12",
+            "clue": "Peaceful flat (4)",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "12-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "EVEN"
+        },
+        {
+            "id": "13-across",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "Boy has pineapple with family? Potential upset! (6,4)",
+            "direction": "across",
+            "length": 10,
+            "group": [
+                "13-across"
+            ],
+            "position": {
+                "x": 5,
+                "y": 6
+            },
+            "separatorLocations": {
+                ",": [
+                    6
+                ]
+            },
+            "solution": "BANANASKIN"
+        },
+        {
+            "id": "17-across",
+            "number": 17,
+            "humanNumber": "17",
+            "clue": "Die when embracing Georgia in corridor (10)",
+            "direction": "across",
+            "length": 10,
+            "group": [
+                "17-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "PASSAGEWAY"
+        },
+        {
+            "id": "18-across",
+            "number": 18,
+            "humanNumber": "18",
+            "clue": "Border plant needs no introduction (4)",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "18-across"
+            ],
+            "position": {
+                "x": 11,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "EDGE"
+        },
+        {
+            "id": "20-across",
+            "number": 20,
+            "humanNumber": "20",
+            "clue": "Finished article with location in disarray (3,4,3,5)",
+            "direction": "across",
+            "length": 15,
+            "group": [
+                "20-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 10
+            },
+            "separatorLocations": {
+                ",": [
+                    3,
+                    7,
+                    10
+                ]
+            },
+            "solution": "ALLOVERTHEPLACE"
+        },
+        {
+            "id": "23-across",
+            "number": 23,
+            "humanNumber": "23",
+            "clue": "Promised to be busy (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "23-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 12
+            },
+            "separatorLocations": {},
+            "solution": "ENGAGED"
+        },
+        {
+            "id": "24-across",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "Performers' bad posture (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "24-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 12
+            },
+            "separatorLocations": {},
+            "solution": "TROUPES"
+        },
+        {
+            "id": "25-across",
+            "number": 25,
+            "humanNumber": "25",
+            "clue": "Nick priest who's working (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "25-across"
+            ],
+            "position": {
+                "x": 1,
+                "y": 14
+            },
+            "separatorLocations": {},
+            "solution": "PRISON"
+        },
+        {
+            "id": "26-across",
+            "number": 26,
+            "humanNumber": "26",
+            "clue": "Revolutionary queen's toast (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "26-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 14
+            },
+            "separatorLocations": {},
+            "solution": "CHEERS"
+        },
+        {
+            "id": "2-down",
+            "number": 2,
+            "humanNumber": "2",
+            "clue": "Old Bob sleeps in? Terribly weak! (9)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "2-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "SPINELESS"
+        },
+        {
+            "id": "3-down",
+            "number": 3,
+            "humanNumber": "3",
+            "clue": "Plant has detective covered in spots (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "3-down"
+            ],
+            "position": {
+                "x": 4,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "RADISH"
+        },
+        {
+            "id": "4-down",
+            "number": 4,
+            "humanNumber": "4",
+            "clue": "Trace room used for sports event (5,4)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "4-down"
+            ],
+            "position": {
+                "x": 6,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    5
+                ]
+            },
+            "solution": "MOTORRACE"
+        },
+        {
+            "id": "5-down",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "Grubs around plants initially and keeps fingers crossed (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "5-down"
+            ],
+            "position": {
+                "x": 8,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "HOPES"
+        },
+        {
+            "id": "6-down",
+            "number": 6,
+            "humanNumber": "6",
+            "clue": "Scandinavian orchestra leader admitted to bad manners (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "6-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "NORSEMAN"
+        },
+        {
+            "id": "7-down",
+            "number": 7,
+            "humanNumber": "7",
+            "clue": "Son comes upon gang in mist (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "7-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "STEAM"
+        },
+        {
+            "id": "8-down",
+            "number": 8,
+            "humanNumber": "8",
+            "clue": "Small change to portion of handwriting (11)",
+            "direction": "down",
+            "length": 11,
+            "group": [
+                "8-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 2
+            },
+            "separatorLocations": {},
+            "solution": "COPPERPLATE"
+        },
+        {
+            "id": "10-down",
+            "number": 10,
+            "humanNumber": "10",
+            "clue": "Emphasise taking in article with information about oddity (11)",
+            "direction": "down",
+            "length": 11,
+            "group": [
+                "10-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 2
+            },
+            "separatorLocations": {},
+            "solution": "STRANGENESS"
+        },
+        {
+            "id": "14-down",
+            "number": 14,
+            "humanNumber": "14",
+            "clue": "Chap ate it, involved or not involved (9)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "14-down"
+            ],
+            "position": {
+                "x": 8,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "APATHETIC"
+        },
+        {
+            "id": "15-down",
+            "number": 15,
+            "humanNumber": "15",
+            "clue": "Joiner upset when tucking into processed fish? That's criminal! (9)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "15-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "KIDNAPPER"
+        },
+        {
+            "id": "16-down",
+            "number": 16,
+            "humanNumber": "16",
+            "clue": "Girl embraces star here in the US (3,5)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "16-down"
+            ],
+            "position": {
+                "x": 4,
+                "y": 7
+            },
+            "separatorLocations": {
+                ",": [
+                    3
+                ]
+            },
+            "solution": "LASVEGAS"
+        },
+        {
+            "id": "19-down",
+            "number": 19,
+            "humanNumber": "19",
+            "clue": "Take on work with model (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "19-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "OPPOSE"
+        },
+        {
+            "id": "21-down",
+            "number": 21,
+            "humanNumber": "21",
+            "clue": "Drink left to mature? Right (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "21-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "LAGER"
+        },
+        {
+            "id": "22-down",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "Artist put on gas (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "22-down"
+            ],
+            "position": {
+                "x": 6,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "RADON"
+        }
+    ],
+    "solutionAvailable": true,
+    "dateSolutionAvailable": 1419897600000,
+    "dimensions": {
+        "cols": 15,
+        "rows": 15
+    },
+    "crosswordType": "cryptic",
+    "pdf": "http://static.guim.co.uk/crosswords/pdfs/gdn.cryptic.20141230.pdf",
+    "_gridType": "M38"
+}

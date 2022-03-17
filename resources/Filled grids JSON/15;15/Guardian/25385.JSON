@@ -1,0 +1,535 @@
+{
+    "id": "crosswords/cryptic/25385",
+    "number": 25385,
+    "name": "Cryptic crossword No 25,385",
+    "creator": {
+        "name": "Araucaria",
+        "webUrl": "https://www.theguardian.com/profile/araucaria"
+    },
+    "date": 1311724800000,
+    "webPublicationDate": 1311721200000,
+    "entries": [
+        {
+            "id": "1-across",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "Rule about part of tube that goes underground (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "1-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "SUBWAY"
+        },
+        {
+            "id": "4-across",
+            "number": 4,
+            "humanNumber": "4",
+            "clue": "Swindle repelled in country by alien of posh character (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "4-across"
+            ],
+            "position": {
+                "x": 7,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "UPMARKET"
+        },
+        {
+            "id": "9-across",
+            "number": 9,
+            "humanNumber": "9",
+            "clue": "Hidden person running religious business (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "9-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 2
+            },
+            "separatorLocations": {},
+            "solution": "OCCULT"
+        },
+        {
+            "id": "10-across",
+            "number": 10,
+            "humanNumber": "10",
+            "clue": "Separate gases from magic herb in exotic teas (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "10-across"
+            ],
+            "position": {
+                "x": 7,
+                "y": 2
+            },
+            "separatorLocations": {},
+            "solution": "ATMOLYSE"
+        },
+        {
+            "id": "11-across",
+            "number": 11,
+            "humanNumber": "11",
+            "clue": "Sedative for bird that's breached order to put note into singer (14)",
+            "direction": "across",
+            "length": 14,
+            "group": [
+                "11-across"
+            ],
+            "position": {
+                "x": 1,
+                "y": 4
+            },
+            "separatorLocations": {},
+            "solution": "PHENOBARBITONE"
+        },
+        {
+            "id": "13-across",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "Different artist left single girl to instincts going the other way (10)",
+            "direction": "across",
+            "length": 10,
+            "group": [
+                "13-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "DISSIMILAR"
+        },
+        {
+            "id": "14-across",
+            "number": 14,
+            "humanNumber": "14",
+            "clue": "Tendency of footballer to have swapped poles with one in 8 (4)",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "14-across"
+            ],
+            "position": {
+                "x": 11,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "BENT"
+        },
+        {
+            "id": "16-across",
+            "number": 16,
+            "humanNumber": "16",
+            "clue": "Substitute for bad habit? (4)",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "16-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "VICE"
+        },
+        {
+            "id": "18-across",
+            "number": 18,
+            "humanNumber": "18",
+            "clue": "A beast or two going round deserted village with low frequency (6,4)",
+            "direction": "across",
+            "length": 10,
+            "group": [
+                "18-across"
+            ],
+            "position": {
+                "x": 5,
+                "y": 8
+            },
+            "separatorLocations": {
+                ",": [
+                    6
+                ]
+            },
+            "solution": "TIMBERWOLF"
+        },
+        {
+            "id": "21-across",
+            "number": 21,
+            "humanNumber": "21",
+            "clue": "Invisible writer backs my way with quote turning into cesspool (11,3)",
+            "direction": "across",
+            "length": 14,
+            "group": [
+                "21-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 10
+            },
+            "separatorLocations": {
+                ",": [
+                    11
+                ]
+            },
+            "solution": "SYMPATHETICINK"
+        },
+        {
+            "id": "23-across",
+            "number": 23,
+            "humanNumber": "23",
+            "clue": "Sailor finds worthy folk a lot to stomach (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "23-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 12
+            },
+            "separatorLocations": {},
+            "solution": "ABOMASUM"
+        },
+        {
+            "id": "24-across",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "Style with ornament or otherwise with 2 2s? (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "24-across"
+            ],
+            "position": {
+                "x": 9,
+                "y": 12
+            },
+            "separatorLocations": {},
+            "solution": "ROCOCO"
+        },
+        {
+            "id": "25-across",
+            "number": 25,
+            "humanNumber": "25",
+            "clue": "The Spanish sheep have tangled hair (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "25-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 14
+            },
+            "separatorLocations": {},
+            "solution": "ELFLOCKS"
+        },
+        {
+            "id": "26-across",
+            "number": 26,
+            "humanNumber": "26",
+            "clue": "Speculation about the sick getting lodging (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "26-across"
+            ],
+            "position": {
+                "x": 9,
+                "y": 14
+            },
+            "separatorLocations": {},
+            "solution": "BILLET"
+        },
+        {
+            "id": "1-down",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "Try to get warmer than swarm? (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "1-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "SHOT"
+        },
+        {
+            "id": "2-down",
+            "number": 2,
+            "humanNumber": "2",
+            "clue": "Audible supporters of deity? (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "2-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "BACCHUS"
+        },
+        {
+            "id": "3-down",
+            "number": 3,
+            "humanNumber": "3",
+            "clue": "Lost land last carved up without objector (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "3-down"
+            ],
+            "position": {
+                "x": 4,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "ATLANTIS"
+        },
+        {
+            "id": "5-down",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "Land amid a lot of stones: it was chronicled by Potter (5,6)",
+            "direction": "down",
+            "length": 11,
+            "group": [
+                "5-down"
+            ],
+            "position": {
+                "x": 8,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    5
+                ]
+            },
+            "solution": "PETERRABBIT"
+        },
+        {
+            "id": "6-down",
+            "number": 6,
+            "humanNumber": "6",
+            "clue": "Exemplar of beauty, a tonic when evil turns up (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "6-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "ADONIS"
+        },
+        {
+            "id": "7-down",
+            "number": 7,
+            "humanNumber": "7",
+            "clue": "Surgery that's transparent when unoccupied? (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "7-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "KEYHOLE"
+        },
+        {
+            "id": "8-down",
+            "number": 8,
+            "humanNumber": "8, 12",
+            "clue": " Ironic wish for food \u2014 eating shrub's rubbish, concealing go-slow among detectives and pupil (3,4,2,7,4)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "8-down",
+                "12-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    3,
+                    7,
+                    9
+                ]
+            },
+            "solution": "THEBESTOF"
+        },
+        {
+            "id": "12-down",
+            "number": 12,
+            "humanNumber": "12",
+            "clue": "See 8",
+            "direction": "down",
+            "length": 11,
+            "group": [
+                "8-down",
+                "12-down"
+            ],
+            "position": {
+                "x": 6,
+                "y": 4
+            },
+            "separatorLocations": {
+                ",": [
+                    7
+                ]
+            },
+            "solution": "BRITISHLUCK"
+        },
+        {
+            "id": "13-down",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "Destroy pictures of Hindu deity (9)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "13-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "DEVASTATE"
+        },
+        {
+            "id": "15-down",
+            "number": 15,
+            "humanNumber": "15",
+            "clue": "Vegetable for Manx badger with species of bacterium (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "15-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "BROCCOLI"
+        },
+        {
+            "id": "17-down",
+            "number": 17,
+            "humanNumber": "17",
+            "clue": "Be substituted and succeed \u2014 it follows with scepticism (4,3)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "17-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 8
+            },
+            "separatorLocations": {
+                ",": [
+                    4
+                ]
+            },
+            "solution": "COMEOFF"
+        },
+        {
+            "id": "19-down",
+            "number": 19,
+            "humanNumber": "19",
+            "clue": "Bird covering north Indian region, 1 down in the 22 with the 22? (3,4)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "19-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 8
+            },
+            "separatorLocations": {
+                ",": [
+                    3
+                ]
+            },
+            "solution": "OWNGOAL"
+        },
+        {
+            "id": "20-down",
+            "number": 20,
+            "humanNumber": "20",
+            "clue": "Attempted to be hard on a rude Latin (3,1,2)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "20-down"
+            ],
+            "position": {
+                "x": 4,
+                "y": 9
+            },
+            "separatorLocations": {
+                ",": [
+                    3,
+                    4
+                ]
+            },
+            "solution": "HADAGO"
+        },
+        {
+            "id": "22-down",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "Party leader once on the ball? (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "22-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "FOOT"
+        }
+    ],
+    "solutionAvailable": true,
+    "dateSolutionAvailable": 1311721200000,
+    "dimensions": {
+        "cols": 15,
+        "rows": 15
+    },
+    "crosswordType": "cryptic",
+    "pdf": "http://static.guim.co.uk/crosswords/pdfs/gdn.cryptic.20110727.pdf",
+    "_gridType": "M41"
+}

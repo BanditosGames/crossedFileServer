@@ -1,0 +1,499 @@
+{
+    "id": "crosswords/cryptic/23159",
+    "number": 23159,
+    "name": "Cryptic crossword No 23,159",
+    "creator": {
+        "name": "Logodaedalus",
+        "webUrl": "https://www.theguardian.com/profile/logodaedalus"
+    },
+    "date": 1086220800000,
+    "webPublicationDate": 1086217200000,
+    "entries": [
+        {
+            "id": "5-across",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "Escape with policeman no longer in power (3-3)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "5-across"
+            ],
+            "position": {
+                "x": 1,
+                "y": 1
+            },
+            "separatorLocations": {
+                "-": [
+                    3
+                ]
+            },
+            "solution": "COPOUT"
+        },
+        {
+            "id": "6-across",
+            "number": 6,
+            "humanNumber": "6",
+            "clue": "To be on the go is, maybe, subtle (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "6-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "BUSTLE"
+        },
+        {
+            "id": "9-across",
+            "number": 9,
+            "humanNumber": "9",
+            "clue": "Originally, Patsy Cline could have been a writer (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "9-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 3
+            },
+            "separatorLocations": {},
+            "solution": "PENCIL"
+        },
+        {
+            "id": "10-across",
+            "number": 10,
+            "humanNumber": "10",
+            "clue": "Persistent decaying vegetable matter seen in the grass (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "10-across"
+            ],
+            "position": {
+                "x": 7,
+                "y": 3
+            },
+            "separatorLocations": {},
+            "solution": "REPEATED"
+        },
+        {
+            "id": "11-across",
+            "number": 11,
+            "humanNumber": "11",
+            "clue": "Basil, perhaps, is exposed by Father Brown (4)",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "11-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "HERB"
+        },
+        {
+            "id": "12-across",
+            "number": 12,
+            "humanNumber": "12",
+            "clue": "Asian poets might be emotional (10)",
+            "direction": "across",
+            "length": 10,
+            "group": [
+                "12-across"
+            ],
+            "position": {
+                "x": 5,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "PASSIONATE"
+        },
+        {
+            "id": "13-across",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "Part of the theatre treat - going to \"The Ring\" (5,6)",
+            "direction": "across",
+            "length": 11,
+            "group": [
+                "13-across"
+            ],
+            "position": {
+                "x": 2,
+                "y": 7
+            },
+            "separatorLocations": {
+                ",": [
+                    5
+                ]
+            },
+            "solution": "DRESSCIRCLE"
+        },
+        {
+            "id": "18-across",
+            "number": 18,
+            "humanNumber": "18",
+            "clue": "Stay with baby almost to the end (4-6)",
+            "direction": "across",
+            "length": 10,
+            "group": [
+                "18-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 9
+            },
+            "separatorLocations": {
+                "-": [
+                    4
+                ]
+            },
+            "solution": "LASTMINUTE"
+        },
+        {
+            "id": "21-across",
+            "number": 21,
+            "humanNumber": "21",
+            "clue": "Women's punishment, having stole (4)",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "21-across"
+            ],
+            "position": {
+                "x": 11,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "WRAP"
+        },
+        {
+            "id": "22-across",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "Footballer accepts order for keeping feet warm (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "22-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "BEDSOCKS"
+        },
+        {
+            "id": "23-across",
+            "number": 23,
+            "humanNumber": "23",
+            "clue": "Europeans wanting end of disgusting smells (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "23-across"
+            ],
+            "position": {
+                "x": 9,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "GREEKS"
+        },
+        {
+            "id": "24-across",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "Time taken by Spartan serf to get everything (3,3)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "24-across"
+            ],
+            "position": {
+                "x": 1,
+                "y": 13
+            },
+            "separatorLocations": {
+                ",": [
+                    3
+                ]
+            },
+            "solution": "THELOT"
+        },
+        {
+            "id": "25-across",
+            "number": 25,
+            "humanNumber": "25",
+            "clue": "Good or bad chap has wine-based drink in small container (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "25-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 13
+            },
+            "separatorLocations": {},
+            "solution": "EGGCUP"
+        },
+        {
+            "id": "1-down",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "Pa needs braces adjusted and every typist knows it (5,3)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "1-down"
+            ],
+            "position": {
+                "x": 3,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    5
+                ]
+            },
+            "solution": "SPACEBAR"
+        },
+        {
+            "id": "2-down",
+            "number": 2,
+            "humanNumber": "2",
+            "clue": "Come to a halt, whichever way you like (4,2)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "2-down"
+            ],
+            "position": {
+                "x": 5,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    4
+                ]
+            },
+            "solution": "PULLUP"
+        },
+        {
+            "id": "3-down",
+            "number": 3,
+            "humanNumber": "3",
+            "clue": "One taken in by more flexible wholesaler (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "3-down"
+            ],
+            "position": {
+                "x": 9,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "SUPPLIER"
+        },
+        {
+            "id": "4-down",
+            "number": 4,
+            "humanNumber": "4",
+            "clue": "Make the utmost effort in variety (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "4-down"
+            ],
+            "position": {
+                "x": 11,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "STRAIN"
+        },
+        {
+            "id": "5-down",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "Intelligent but caught with jemmy (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "5-down"
+            ],
+            "position": {
+                "x": 1,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "CLEVER"
+        },
+        {
+            "id": "7-down",
+            "number": 7,
+            "humanNumber": "7",
+            "clue": "Smooth stone turned over in more than one contest (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "7-down"
+            ],
+            "position": {
+                "x": 13,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "EVENTS"
+        },
+        {
+            "id": "8-down",
+            "number": 8,
+            "humanNumber": "8",
+            "clue": "Intensive study leading to failure on the way (5,6)",
+            "direction": "down",
+            "length": 11,
+            "group": [
+                "8-down"
+            ],
+            "position": {
+                "x": 7,
+                "y": 2
+            },
+            "separatorLocations": {
+                ",": [
+                    5
+                ]
+            },
+            "solution": "CRASHCOURSE"
+        },
+        {
+            "id": "14-down",
+            "number": 14,
+            "humanNumber": "14",
+            "clue": "Boy embraces woman in black to get going (6,2)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "14-down"
+            ],
+            "position": {
+                "x": 5,
+                "y": 7
+            },
+            "separatorLocations": {
+                ",": [
+                    6
+                ]
+            },
+            "solution": "SWITCHON"
+        },
+        {
+            "id": "15-down",
+            "number": 15,
+            "humanNumber": "15",
+            "clue": "Author and wife about to break a long spear (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "15-down"
+            ],
+            "position": {
+                "x": 11,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "LAWRENCE"
+        },
+        {
+            "id": "16-down",
+            "number": 16,
+            "humanNumber": "16",
+            "clue": "Warning to vacate compound (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "16-down"
+            ],
+            "position": {
+                "x": 1,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "CAVEAT"
+        },
+        {
+            "id": "17-down",
+            "number": 17,
+            "humanNumber": "17",
+            "clue": "Honour card promoted in raise (4,2)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "17-down"
+            ],
+            "position": {
+                "x": 13,
+                "y": 8
+            },
+            "separatorLocations": {
+                ",": [
+                    4
+                ]
+            },
+            "solution": "JACKUP"
+        },
+        {
+            "id": "19-down",
+            "number": 19,
+            "humanNumber": "19",
+            "clue": "Free sample found in Queer Street (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "19-down"
+            ],
+            "position": {
+                "x": 3,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "TESTER"
+        },
+        {
+            "id": "20-down",
+            "number": 20,
+            "humanNumber": "20",
+            "clue": "England takes a long time to win (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "20-down"
+            ],
+            "position": {
+                "x": 9,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "ENGAGE"
+        }
+    ],
+    "solutionAvailable": true,
+    "dateSolutionAvailable": 1086217200000,
+    "dimensions": {
+        "cols": 15,
+        "rows": 15
+    },
+    "crosswordType": "cryptic",
+    "_gridType": "M31"
+}

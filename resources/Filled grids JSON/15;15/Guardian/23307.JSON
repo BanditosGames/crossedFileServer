@@ -1,0 +1,483 @@
+{
+    "id": "crosswords/cryptic/23307",
+    "number": 23307,
+    "name": "Cryptic crossword No 23,307",
+    "creator": {
+        "name": "Paul",
+        "webUrl": "https://www.theguardian.com/profile/paul"
+    },
+    "date": 1101168000000,
+    "webPublicationDate": 1101168000000,
+    "entries": [
+        {
+            "id": "5-across",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "Vaccine holding choler back not so well? Cause of many deaths (6,6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "5-across",
+                "6-across"
+            ],
+            "position": {
+                "x": 1,
+                "y": 1
+            },
+            "separatorLocations": {
+                ",": [
+                    6
+                ]
+            },
+            "solution": "SERIAL"
+        },
+        {
+            "id": "6-across",
+            "number": 6,
+            "humanNumber": "6",
+            "clue": "See 5",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "5-across",
+                "6-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 1
+            },
+            "separatorLocations": {
+                ",": []
+            },
+            "solution": "KILLER"
+        },
+        {
+            "id": "9-across",
+            "number": 9,
+            "humanNumber": "9",
+            "clue": "Air waltz (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "9-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 3
+            },
+            "separatorLocations": {},
+            "solution": "BREEZE"
+        },
+        {
+            "id": "10-across",
+            "number": 10,
+            "humanNumber": "10",
+            "clue": "Green track over in west, east of motorway going west (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "10-across"
+            ],
+            "position": {
+                "x": 7,
+                "y": 3
+            },
+            "separatorLocations": {},
+            "solution": "IMMATURE"
+        },
+        {
+            "id": "11-across",
+            "number": 11,
+            "humanNumber": "11",
+            "clue": "Understand it's sticky? (4)",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "11-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "TWIG"
+        },
+        {
+            "id": "12-across",
+            "number": 12,
+            "humanNumber": "12",
+            "clue": "Worth getting older to be prepared for afterlife (5,5)",
+            "direction": "across",
+            "length": 10,
+            "group": [
+                "12-across"
+            ],
+            "position": {
+                "x": 5,
+                "y": 5
+            },
+            "separatorLocations": {
+                ",": [
+                    5
+                ]
+            },
+            "solution": "OTHERWORLD"
+        },
+        {
+            "id": "13-across",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "Clinton was half a 25? (8,3)",
+            "direction": "across",
+            "length": 11,
+            "group": [
+                "13-across"
+            ],
+            "position": {
+                "x": 2,
+                "y": 7
+            },
+            "separatorLocations": {
+                ",": [
+                    8
+                ]
+            },
+            "solution": "COMEBACKKID"
+        },
+        {
+            "id": "18-across",
+            "number": 18,
+            "humanNumber": "18",
+            "clue": "When rambling, sort out map (A to H) to show city (10)",
+            "direction": "across",
+            "length": 10,
+            "group": [
+                "18-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "PORTSMOUTH"
+        },
+        {
+            "id": "21-across",
+            "number": 21,
+            "humanNumber": "21",
+            "clue": "Unwatered cattle (4)",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "21-across"
+            ],
+            "position": {
+                "x": 11,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "NEAT"
+        },
+        {
+            "id": "22-across",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "Priest stashing pot attending hospital in capital (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "22-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "HELSINKI"
+        },
+        {
+            "id": "23-across",
+            "number": 23,
+            "humanNumber": "23",
+            "clue": "Something to lay, given end of life, laid in anger (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "23-across"
+            ],
+            "position": {
+                "x": 9,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "WREATH"
+        },
+        {
+            "id": "24-across",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "Chicken like canary? (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "24-across"
+            ],
+            "position": {
+                "x": 1,
+                "y": 13
+            },
+            "separatorLocations": {},
+            "solution": "YELLOW"
+        },
+        {
+            "id": "25-across",
+            "number": 25,
+            "humanNumber": "25",
+            "clue": "African native oddly drinks doubles (3-3)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "25-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 13
+            },
+            "separatorLocations": {
+                "-": [
+                    3
+                ]
+            },
+            "solution": "DIKDIK"
+        },
+        {
+            "id": "1-down",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "A pro, I suspect, about to encourage noted exercise (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "1-down"
+            ],
+            "position": {
+                "x": 3,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "ARPEGGIO"
+        },
+        {
+            "id": "2-down",
+            "number": 2,
+            "humanNumber": "2",
+            "clue": "Texas city's big, but not good, party (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "2-down"
+            ],
+            "position": {
+                "x": 5,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "LAREDO"
+        },
+        {
+            "id": "3-down",
+            "number": 3,
+            "humanNumber": "3",
+            "clue": "German leader's forces ascendant flanked by endless transport (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "3-down"
+            ],
+            "position": {
+                "x": 9,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "BISMARCK"
+        },
+        {
+            "id": "4-down",
+            "number": 4,
+            "humanNumber": "4",
+            "clue": "Wasted billion on million-to-one chance (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "4-down"
+            ],
+            "position": {
+                "x": 11,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "BLOTTO"
+        },
+        {
+            "id": "5-down",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "Twisted, like something threaded? (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "5-down"
+            ],
+            "position": {
+                "x": 1,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "SCREWY"
+        },
+        {
+            "id": "7-down",
+            "number": 7,
+            "humanNumber": "7",
+            "clue": "How often is steak served? (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "7-down"
+            ],
+            "position": {
+                "x": 13,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "RARELY"
+        },
+        {
+            "id": "8-down",
+            "number": 8,
+            "humanNumber": "8",
+            "clue": "Expensive mistake, left moving to centre, in appearing pompous (11)",
+            "direction": "down",
+            "length": 11,
+            "group": [
+                "8-down"
+            ],
+            "position": {
+                "x": 7,
+                "y": 2
+            },
+            "separatorLocations": {},
+            "solution": "HIGHFALUTIN"
+        },
+        {
+            "id": "14-down",
+            "number": 14,
+            "humanNumber": "14",
+            "clue": "North American city where little devil misses English in school (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "14-down"
+            ],
+            "position": {
+                "x": 5,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "EDMONTON"
+        },
+        {
+            "id": "15-down",
+            "number": 15,
+            "humanNumber": "15",
+            "clue": "Single nun's wobbly bottom love, nudge nudge, wink wink (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "15-down"
+            ],
+            "position": {
+                "x": 11,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "INNUENDO"
+        },
+        {
+            "id": "16-down",
+            "number": 16,
+            "humanNumber": "16",
+            "clue": "Shy touring area of Ibiza - that's funny (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "16-down"
+            ],
+            "position": {
+                "x": 1,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "COMEDY"
+        },
+        {
+            "id": "17-down",
+            "number": 17,
+            "humanNumber": "17",
+            "clue": "Simpson, OJ's successor who's composed (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "17-down"
+            ],
+            "position": {
+                "x": 13,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "BARTOK"
+        },
+        {
+            "id": "19-down",
+            "number": 19,
+            "humanNumber": "19",
+            "clue": "Central to British American deal to lose a fight (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "19-down"
+            ],
+            "position": {
+                "x": 3,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "TUSSLE"
+        },
+        {
+            "id": "20-down",
+            "number": 20,
+            "humanNumber": "20",
+            "clue": "Fruit - one inferior to perfect state (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "20-down"
+            ],
+            "position": {
+                "x": 9,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "HAWAII"
+        }
+    ],
+    "solutionAvailable": true,
+    "dateSolutionAvailable": 1101168000000,
+    "dimensions": {
+        "cols": 15,
+        "rows": 15
+    },
+    "crosswordType": "cryptic",
+    "_gridType": "M31"
+}

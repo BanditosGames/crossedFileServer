@@ -1,0 +1,521 @@
+{
+    "id": "crosswords/cryptic/22314",
+    "number": 22314,
+    "name": "Cryptic crossword No 22,314",
+    "creator": {
+        "name": "Mercury",
+        "webUrl": "https://www.theguardian.com/profile/mercury"
+    },
+    "date": 1000425600000,
+    "webPublicationDate": 1000422000000,
+    "entries": [
+        {
+            "id": "1-across",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "Blinking hooter is hard to find! (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "1-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "OWLISH"
+        },
+        {
+            "id": "4-across",
+            "number": 4,
+            "humanNumber": "4",
+            "clue": "Inside stone front door it rattled (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "4-across"
+            ],
+            "position": {
+                "x": 7,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "AGITATED"
+        },
+        {
+            "id": "9-across",
+            "number": 9,
+            "humanNumber": "9",
+            "clue": "Queen holds medal found in fireplace (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "9-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 2
+            },
+            "separatorLocations": {},
+            "solution": "EMBER"
+        },
+        {
+            "id": "10-across",
+            "number": 10,
+            "humanNumber": "10",
+            "clue": "Companion wants cool tea, stirred and sweet (9)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "10-across"
+            ],
+            "position": {
+                "x": 6,
+                "y": 2
+            },
+            "separatorLocations": {},
+            "solution": "CHOCOLATE"
+        },
+        {
+            "id": "11-across",
+            "number": 11,
+            "humanNumber": "11",
+            "clue": "Copper put \"rain ruined start of play\" (7,2)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "11-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 4
+            },
+            "separatorLocations": {
+                ",": [
+                    7
+                ]
+            },
+            "solution": "CURTAINUP"
+        },
+        {
+            "id": "12-across",
+            "number": 12,
+            "humanNumber": "12",
+            "clue": "Talked of using pole to dig with (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "12-across"
+            ],
+            "position": {
+                "x": 10,
+                "y": 4
+            },
+            "separatorLocations": {},
+            "solution": "SPOKE"
+        },
+        {
+            "id": "13-across",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "Armed when going to a funeral? (8,4)",
+            "direction": "across",
+            "length": 12,
+            "group": [
+                "13-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 6
+            },
+            "separatorLocations": {
+                ",": [
+                    8
+                ]
+            },
+            "solution": "MOURNINGBAND"
+        },
+        {
+            "id": "17-across",
+            "number": 17,
+            "humanNumber": "17",
+            "clue": "Glue with scent is upsetting tiny pets (5,7)",
+            "direction": "across",
+            "length": 12,
+            "group": [
+                "17-across"
+            ],
+            "position": {
+                "x": 3,
+                "y": 8
+            },
+            "separatorLocations": {
+                ",": [
+                    5
+                ]
+            },
+            "solution": "STICKINSECTS"
+        },
+        {
+            "id": "20-across",
+            "number": 20,
+            "humanNumber": "20",
+            "clue": "An unmarried mother is different (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "20-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "OTHER"
+        },
+        {
+            "id": "21-across",
+            "number": 21,
+            "humanNumber": "21",
+            "clue": "Where you'll find trees scattered round frozen water (9)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "21-across"
+            ],
+            "position": {
+                "x": 6,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "LEICESTER"
+        },
+        {
+            "id": "23-across",
+            "number": 23,
+            "humanNumber": "23",
+            "clue": "Politician follows everyone into backstreet to see invention (4,5)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "23-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 12
+            },
+            "separatorLocations": {
+                ",": [
+                    4
+                ]
+            },
+            "solution": "TALLSTORY"
+        },
+        {
+            "id": "24-across",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "Giant thing in bronze (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "24-across"
+            ],
+            "position": {
+                "x": 10,
+                "y": 12
+            },
+            "separatorLocations": {},
+            "solution": "TITAN"
+        },
+        {
+            "id": "25-across",
+            "number": 25,
+            "humanNumber": "25",
+            "clue": "One painting lines with great skill (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "25-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 14
+            },
+            "separatorLocations": {},
+            "solution": "ARTISTRY"
+        },
+        {
+            "id": "26-across",
+            "number": 26,
+            "humanNumber": "26",
+            "clue": "One advising one to leave the Spanish capital when rejected (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "26-across"
+            ],
+            "position": {
+                "x": 9,
+                "y": 14
+            },
+            "separatorLocations": {},
+            "solution": "ORACLE"
+        },
+        {
+            "id": "1-down",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "Beat vicar and ring up, getting firm with me (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "1-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "OVERCOME"
+        },
+        {
+            "id": "2-down",
+            "number": 2,
+            "humanNumber": "2",
+            "clue": "Timber supplier wanted chimney to have a light in (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "2-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "LABURNUM"
+        },
+        {
+            "id": "3-down",
+            "number": 3,
+            "humanNumber": "3",
+            "clue": "Country's uplifting tunes about the Fourth of July (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "3-down"
+            ],
+            "position": {
+                "x": 4,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "SYRIA"
+        },
+        {
+            "id": "5-down",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "Waving toy dog, I get people inside - which helps sales! (4,9)",
+            "direction": "down",
+            "length": 13,
+            "group": [
+                "5-down"
+            ],
+            "position": {
+                "x": 8,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    4
+                ]
+            },
+            "solution": "GOODPUBLICITY"
+        },
+        {
+            "id": "6-down",
+            "number": 6,
+            "humanNumber": "6",
+            "clue": "Lots of you, once on beaches (9)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "6-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "THOUSANDS"
+        },
+        {
+            "id": "7-down",
+            "number": 7,
+            "humanNumber": "7",
+            "clue": "If a drink's wanted, there''s bags in this (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "7-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "TEAPOT"
+        },
+        {
+            "id": "8-down",
+            "number": 8,
+            "humanNumber": "8",
+            "clue": "Declines to go with the foreign lorry driver (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "8-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "DIESEL"
+        },
+        {
+            "id": "10-down",
+            "number": 10,
+            "humanNumber": "10",
+            "clue": "Time for prayer for church dignitary, one time outside California (9,4)",
+            "direction": "down",
+            "length": 13,
+            "group": [
+                "10-down"
+            ],
+            "position": {
+                "x": 6,
+                "y": 2
+            },
+            "separatorLocations": {
+                ",": [
+                    9
+                ]
+            },
+            "solution": "CANONICALHOUR"
+        },
+        {
+            "id": "14-down",
+            "number": 14,
+            "humanNumber": "14",
+            "clue": "Nothing goes on in their camps (9)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "14-down"
+            ],
+            "position": {
+                "x": 4,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "NATURISTS"
+        },
+        {
+            "id": "15-down",
+            "number": 15,
+            "humanNumber": "15",
+            "clue": "Elated, but still after church backing (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "15-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "ECSTATIC"
+        },
+        {
+            "id": "16-down",
+            "number": 16,
+            "humanNumber": "16",
+            "clue": "Field behind East Street is cut off (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "16-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "ESTRANGE"
+        },
+        {
+            "id": "18-down",
+            "number": 18,
+            "humanNumber": "18",
+            "clue": "Stands in for Jethro straight away (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "18-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "ROSTRA"
+        },
+        {
+            "id": "19-down",
+            "number": 19,
+            "humanNumber": "19",
+            "clue": "Holiday accommodation hired after tea (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "19-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "CHALET"
+        },
+        {
+            "id": "22-down",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "About ten engineers turned to go in (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "22-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "ENTER"
+        }
+    ],
+    "solutionAvailable": true,
+    "dateSolutionAvailable": 1000422000000,
+    "dimensions": {
+        "cols": 15,
+        "rows": 15
+    },
+    "crosswordType": "cryptic",
+    "_gridType": "M45"
+}

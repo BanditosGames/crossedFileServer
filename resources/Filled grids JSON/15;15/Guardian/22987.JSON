@@ -1,0 +1,529 @@
+{
+    "id": "crosswords/cryptic/22987",
+    "number": 22987,
+    "name": "Cryptic crossword No 22,987",
+    "creator": {
+        "name": "Orlando",
+        "webUrl": "https://www.theguardian.com/profile/orlando"
+    },
+    "date": 1068681600000,
+    "webPublicationDate": 1068681600000,
+    "entries": [
+        {
+            "id": "7-across",
+            "number": 7,
+            "humanNumber": "7",
+            "clue": "Oil producer making composer take a test (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "7-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "BERGAMOT"
+        },
+        {
+            "id": "9-across",
+            "number": 9,
+            "humanNumber": "9",
+            "clue": "Get out of bed for our pot shot? (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "9-across"
+            ],
+            "position": {
+                "x": 9,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "UPROOT"
+        },
+        {
+            "id": "10-across",
+            "number": 10,
+            "humanNumber": "10",
+            "clue": "Be very heartless in company (4)",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "10-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 3
+            },
+            "separatorLocations": {},
+            "solution": "BEVY"
+        },
+        {
+            "id": "11-across",
+            "number": 11,
+            "humanNumber": "11",
+            "clue": "Author having go as gender bender (6,4)",
+            "direction": "across",
+            "length": 10,
+            "group": [
+                "11-across"
+            ],
+            "position": {
+                "x": 5,
+                "y": 3
+            },
+            "separatorLocations": {
+                ",": [
+                    6
+                ]
+            },
+            "solution": "GEORGESAND"
+        },
+        {
+            "id": "12-across",
+            "number": 12,
+            "humanNumber": "12",
+            "clue": "Monster with no drink to knock back? (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "12-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "GORGON"
+        },
+        {
+            "id": "14-across",
+            "number": 14,
+            "humanNumber": "14",
+            "clue": "In harmony with one in a new key (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "14-across"
+            ],
+            "position": {
+                "x": 7,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "AGREEING"
+        },
+        {
+            "id": "15-across",
+            "number": 15,
+            "humanNumber": "15",
+            "clue": "A painter is artificial, if not natural (6-6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "15-across",
+                "17-across"
+            ],
+            "position": {
+                "x": 1,
+                "y": 7
+            },
+            "separatorLocations": {
+                "-": [
+                    6
+                ]
+            },
+            "solution": "FANTIN"
+        },
+        {
+            "id": "17-across",
+            "number": 17,
+            "humanNumber": "17",
+            "clue": "See 15",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "15-across",
+                "17-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 7
+            },
+            "separatorLocations": {
+                "-": []
+            },
+            "solution": "LATOUR"
+        },
+        {
+            "id": "20-across",
+            "number": 20,
+            "humanNumber": "20",
+            "clue": "Burn more than a pirate (3,5)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "20-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 9
+            },
+            "separatorLocations": {
+                ",": [
+                    3
+                ]
+            },
+            "solution": "SEAROVER"
+        },
+        {
+            "id": "22-across",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "Mock some travellers at Zeebrugge (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "22-across"
+            ],
+            "position": {
+                "x": 9,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "ERSATZ"
+        },
+        {
+            "id": "23-across",
+            "number": 23,
+            "humanNumber": "23",
+            "clue": "Wicked home in America without love (10)",
+            "direction": "across",
+            "length": 10,
+            "group": [
+                "23-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "VILLAINOUS"
+        },
+        {
+            "id": "24-across",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "Undemonstrative Conservative getting on with it (4)",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "24-across"
+            ],
+            "position": {
+                "x": 11,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "COLD"
+        },
+        {
+            "id": "25-across",
+            "number": 25,
+            "humanNumber": "25",
+            "clue": "Artist holding recipe for soup (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "25-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 13
+            },
+            "separatorLocations": {},
+            "solution": "BORSCH"
+        },
+        {
+            "id": "26-across",
+            "number": 26,
+            "humanNumber": "26",
+            "clue": "Bell sounds for fight (4-4)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "26-across"
+            ],
+            "position": {
+                "x": 7,
+                "y": 13
+            },
+            "separatorLocations": {
+                "-": [
+                    4
+                ]
+            },
+            "solution": "DINGDONG"
+        },
+        {
+            "id": "1-down",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "We raised a bloom, a monster (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "1-down"
+            ],
+            "position": {
+                "x": 1,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "WEREWOLF"
+        },
+        {
+            "id": "2-down",
+            "number": 2,
+            "humanNumber": "2",
+            "clue": "Community centre, by golly, oddly unattractive (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "2-down"
+            ],
+            "position": {
+                "x": 3,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "UGLY"
+        },
+        {
+            "id": "3-down",
+            "number": 3,
+            "humanNumber": "3",
+            "clue": "Shakespearean king's daughter depicted by Stubbs (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "3-down"
+            ],
+            "position": {
+                "x": 5,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "IMOGEN"
+        },
+        {
+            "id": "4-down",
+            "number": 4,
+            "humanNumber": "4",
+            "clue": "Womble country (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "4-down"
+            ],
+            "position": {
+                "x": 9,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "BULGARIA"
+        },
+        {
+            "id": "5-down",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "Successful prose pours out (10)",
+            "direction": "down",
+            "length": 10,
+            "group": [
+                "5-down"
+            ],
+            "position": {
+                "x": 11,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "PROSPEROUS"
+        },
+        {
+            "id": "6-down",
+            "number": 6,
+            "humanNumber": "6",
+            "clue": "Intrude for an hour mid-morning (4,2)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "6-down"
+            ],
+            "position": {
+                "x": 13,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    4
+                ]
+            },
+            "solution": "HORNIN"
+        },
+        {
+            "id": "8-down",
+            "number": 8,
+            "humanNumber": "8",
+            "clue": "Old headmaster giving Orlando maths revision (6,6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "8-down",
+                "19-down"
+            ],
+            "position": {
+                "x": 7,
+                "y": 1
+            },
+            "separatorLocations": {
+                ",": [
+                    6
+                ]
+            },
+            "solution": "THOMAS"
+        },
+        {
+            "id": "13-down",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "An officer is beginning to train one without special skills (10)",
+            "direction": "down",
+            "length": 10,
+            "group": [
+                "13-down"
+            ],
+            "position": {
+                "x": 3,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "GENERALIST"
+        },
+        {
+            "id": "16-down",
+            "number": 16,
+            "humanNumber": "16",
+            "clue": "Given a shiny loco without any rails (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "16-down"
+            ],
+            "position": {
+                "x": 5,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "INVEIGHS"
+        },
+        {
+            "id": "18-down",
+            "number": 18,
+            "humanNumber": "18",
+            "clue": "Making a noise? Jolly good! (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "18-down"
+            ],
+            "position": {
+                "x": 13,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "RATTLING"
+        },
+        {
+            "id": "19-down",
+            "number": 19,
+            "humanNumber": "19",
+            "clue": "See 8",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "8-down",
+                "19-down"
+            ],
+            "position": {
+                "x": 7,
+                "y": 8
+            },
+            "separatorLocations": {
+                ",": []
+            },
+            "solution": "ARNOLD"
+        },
+        {
+            "id": "21-down",
+            "number": 21,
+            "humanNumber": "21",
+            "clue": "Shakespearean king's mother going up river or down under (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "21-down"
+            ],
+            "position": {
+                "x": 1,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "ELINOR"
+        },
+        {
+            "id": "22-down",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "Moving cautiously, say, to admit a transgression (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "22-down"
+            ],
+            "position": {
+                "x": 9,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "EASING"
+        },
+        {
+            "id": "24-down",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "Blighters start to court publicity (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "24-down"
+            ],
+            "position": {
+                "x": 11,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "CADS"
+        }
+    ],
+    "solutionAvailable": true,
+    "dateSolutionAvailable": 1068681600000,
+    "dimensions": {
+        "cols": 15,
+        "rows": 15
+    },
+    "crosswordType": "cryptic",
+    "_gridType": "M30"
+}

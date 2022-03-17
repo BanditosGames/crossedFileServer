@@ -1,0 +1,601 @@
+{
+    "id": "crosswords/prize/25885",
+    "number": 25885,
+    "name": "Prize crossword No 25,885",
+    "creator": {
+        "name": "Puck",
+        "webUrl": "https://www.theguardian.com/profile/puck"
+    },
+    "date": 1362182400000,
+    "webPublicationDate": 1362182400000,
+    "entries": [
+        {
+            "id": "1-across",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "Staffs man employed in counting sheep, originally (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "1-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "CROOKS"
+        },
+        {
+            "id": "4-across",
+            "number": 4,
+            "humanNumber": "4",
+            "clue": "See 12",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "12-across",
+                "4-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    3
+                ]
+            },
+            "solution": "THEHOOP"
+        },
+        {
+            "id": "9-across",
+            "number": 9,
+            "humanNumber": "9",
+            "clue": "Bacchanalian celebration beginning after giro blown on wine (9)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "9-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 2
+            },
+            "separatorLocations": {},
+            "solution": "ORGIASTIC"
+        },
+        {
+            "id": "10-across",
+            "number": 10,
+            "humanNumber": "10",
+            "clue": "Film on cross-dressers seen here? (2,3)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "10-across"
+            ],
+            "position": {
+                "x": 10,
+                "y": 2
+            },
+            "separatorLocations": {
+                ",": [
+                    2
+                ]
+            },
+            "solution": "TVSET"
+        },
+        {
+            "id": "11-across",
+            "number": 11,
+            "humanNumber": "11",
+            "clue": "Extremely uneven unlit B-road (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "11-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 4
+            },
+            "separatorLocations": {},
+            "solution": "ULTRA"
+        },
+        {
+            "id": "12-across",
+            "number": 12,
+            "humanNumber": "12, 4",
+            "clue": " Barbarian taking crude photo? He managed to undergo ordeal, as must 1 down 24 repeatedly (2,7,3,4)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "12-across",
+                "4-across"
+            ],
+            "position": {
+                "x": 6,
+                "y": 4
+            },
+            "separatorLocations": {
+                ",": [
+                    2,
+                    9
+                ]
+            },
+            "solution": "GOTHROUGH"
+        },
+        {
+            "id": "13-across",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "Offensive article about two females going after adult material (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "13-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "TAFFETA"
+        },
+        {
+            "id": "15-across",
+            "number": 15,
+            "humanNumber": "15",
+            "clue": "Disease vet identified initially in a pair of horses? (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "15-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "SPAVIN"
+        },
+        {
+            "id": "17-across",
+            "number": 17,
+            "humanNumber": "17",
+            "clue": "Capital from turnover of work unit in Barry (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "17-across"
+            ],
+            "position": {
+                "x": 1,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "ZAGREB"
+        },
+        {
+            "id": "19-across",
+            "number": 19,
+            "humanNumber": "19",
+            "clue": "Maintained Welsh boy's eaten a bit of chicken (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "19-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "ALLEGED"
+        },
+        {
+            "id": "22-across",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "Huge bird unhappy over new location for zoo (9)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "22-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "EDINBURGH"
+        },
+        {
+            "id": "24-across",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "Bottle bank's half full? That's half empty, son (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "24-across"
+            ],
+            "position": {
+                "x": 10,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "BALLS"
+        },
+        {
+            "id": "26-across",
+            "number": 26,
+            "humanNumber": "26",
+            "clue": "Ape tucking its tail inside vital body part (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "26-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 12
+            },
+            "separatorLocations": {},
+            "solution": "ORGAN"
+        },
+        {
+            "id": "27-across",
+            "number": 27,
+            "humanNumber": "27",
+            "clue": "Row of bushes has more than its share of 1 down 24? (9)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "27-across"
+            ],
+            "position": {
+                "x": 6,
+                "y": 12
+            },
+            "separatorLocations": {},
+            "solution": "HEDGEHOGS"
+        },
+        {
+            "id": "28-across",
+            "number": 28,
+            "humanNumber": "28",
+            "clue": "Fought with unruly youth about Soviets finally changing sides (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "28-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 14
+            },
+            "separatorLocations": {},
+            "solution": "TUSSLED"
+        },
+        {
+            "id": "29-across",
+            "number": 29,
+            "humanNumber": "29",
+            "clue": "Artificial stimulant once put in port (3,3)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "29-across"
+            ],
+            "position": {
+                "x": 9,
+                "y": 14
+            },
+            "separatorLocations": {
+                ",": [
+                    3
+                ]
+            },
+            "solution": "SEXAID"
+        },
+        {
+            "id": "1-down",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "Cheese's left out for after start of chess game (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "1-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "CROQUET"
+        },
+        {
+            "id": "2-down",
+            "number": 2,
+            "humanNumber": "2",
+            "clue": "Auxiliary indicating one should 12 4 across, centrally (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "2-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "OUGHT"
+        },
+        {
+            "id": "3-down",
+            "number": 3,
+            "humanNumber": "3",
+            "clue": "Animal found swimming in a lake or a bay, primarily (5,4)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "3-down"
+            ],
+            "position": {
+                "x": 4,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    5
+                ]
+            },
+            "solution": "KOALABEAR"
+        },
+        {
+            "id": "4-down",
+            "number": 4,
+            "humanNumber": "4",
+            "clue": "Roman sporting catsuit (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "4-down"
+            ],
+            "position": {
+                "x": 8,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "TACITUS"
+        },
+        {
+            "id": "5-down",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "Become member of board (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "5-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "ENTER"
+        },
+        {
+            "id": "6-down",
+            "number": 6,
+            "humanNumber": "6",
+            "clue": "Hiding given by wielding short scourge in first of beatings (9)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "6-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "OBSCURING"
+        },
+        {
+            "id": "7-down",
+            "number": 7,
+            "humanNumber": "7",
+            "clue": "Yacht with power supply that's irregular (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "7-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "PATCHY"
+        },
+        {
+            "id": "8-down",
+            "number": 8,
+            "humanNumber": "8",
+            "clue": "Mark fools about to a degree (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "8-down"
+            ],
+            "position": {
+                "x": 6,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "STIGMA"
+        },
+        {
+            "id": "14-down",
+            "number": 14,
+            "humanNumber": "14",
+            "clue": "Ruddy huge game birds used to hit 27 (9)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "14-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "FLAMINGOS"
+        },
+        {
+            "id": "16-down",
+            "number": 16,
+            "humanNumber": "16",
+            "clue": "Knocked up some satire, verbal lampooning in double quick time (4,5)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "16-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 6
+            },
+            "separatorLocations": {
+                ",": [
+                    4
+                ]
+            },
+            "solution": "ALLABREVE"
+        },
+        {
+            "id": "18-down",
+            "number": 18,
+            "humanNumber": "18",
+            "clue": "Beaten in game, not having doubled spades in time (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "18-down"
+            ],
+            "position": {
+                "x": 6,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "BIRCHED"
+        },
+        {
+            "id": "19-down",
+            "number": 19,
+            "humanNumber": "19",
+            "clue": "Bugs concealed by soprano under a piano (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "19-down"
+            ],
+            "position": {
+                "x": 8,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "APHIDS"
+        },
+        {
+            "id": "20-down",
+            "number": 20,
+            "humanNumber": "20",
+            "clue": "Olympic event not initially covered \u2014 journalist no longer working (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "20-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "DISUSED"
+        },
+        {
+            "id": "21-down",
+            "number": 21,
+            "humanNumber": "21",
+            "clue": "I moved into place to finish at 1 down (3,3)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "21-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 9
+            },
+            "separatorLocations": {
+                ",": [
+                    3
+                ]
+            },
+            "solution": "PEGOUT"
+        },
+        {
+            "id": "23-down",
+            "number": 23,
+            "humanNumber": "23",
+            "clue": "Commonplace name held by god (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "23-down"
+            ],
+            "position": {
+                "x": 4,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "BANAL"
+        },
+        {
+            "id": "25-down",
+            "number": 25,
+            "humanNumber": "25",
+            "clue": "Liberal party having a little party with a naturally occurring drug (1-4)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "25-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 10
+            },
+            "separatorLocations": {
+                "-": [
+                    1
+                ]
+            },
+            "solution": "LDOPA"
+        }
+    ],
+    "solutionAvailable": true,
+    "dateSolutionAvailable": 1362787200000,
+    "dimensions": {
+        "cols": 15,
+        "rows": 15
+    },
+    "crosswordType": "prize",
+    "pdf": "http://static.guim.co.uk/crosswords/pdfs/gdn.cryptic.20130302.pdf",
+    "_gridType": "M34"
+}

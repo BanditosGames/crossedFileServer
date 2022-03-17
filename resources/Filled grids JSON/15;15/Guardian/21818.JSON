@@ -1,0 +1,518 @@
+{
+    "id": "crosswords/cryptic/21818",
+    "number": 21818,
+    "name": "Cryptic crossword No 21,818",
+    "creator": {
+        "name": "Araucaria",
+        "webUrl": "https://www.theguardian.com/profile/araucaria"
+    },
+    "date": 950227200000,
+    "webPublicationDate": 950227200000,
+    "entries": [
+        {
+            "id": "1-across",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "Make some 14, say... (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "1-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "MULTIPLE"
+        },
+        {
+            "id": "5-across",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "...with heartless 22 15... (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "5-across"
+            ],
+            "position": {
+                "x": 9,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "CHOICE"
+        },
+        {
+            "id": "9-across",
+            "number": 9,
+            "humanNumber": "9",
+            "clue": "...and 20 for self-reversal? - ???... (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "9-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 2
+            },
+            "separatorLocations": {},
+            "solution": "QUESTION"
+        },
+        {
+            "id": "10-across",
+            "number": 10,
+            "humanNumber": "10",
+            "clue": "...Tally - is it A, B, C or D? Not B, C (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "10-across"
+            ],
+            "position": {
+                "x": 9,
+                "y": 2
+            },
+            "separatorLocations": {},
+            "solution": "ACCORD"
+        },
+        {
+            "id": "11-across",
+            "number": 11,
+            "humanNumber": "11",
+            "clue": "Dine out, entertaining three kings in a dream (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "11-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 4
+            },
+            "separatorLocations": {},
+            "solution": "IMAGINED"
+        },
+        {
+            "id": "12-across",
+            "number": 12,
+            "humanNumber": "12",
+            "clue": "Answer: cancel resignation? (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "12-across"
+            ],
+            "position": {
+                "x": 9,
+                "y": 4
+            },
+            "separatorLocations": {},
+            "solution": "REJOIN"
+        },
+        {
+            "id": "14-across",
+            "number": 14,
+            "humanNumber": "14",
+            "clue": "Hot drink for Northumbrian king held by German 26 endlessly (6,4)",
+            "direction": "across",
+            "length": 10,
+            "group": [
+                "14-across"
+            ],
+            "position": {
+                "x": 5,
+                "y": 6
+            },
+            "separatorLocations": {
+                ",": [
+                    6
+                ]
+            },
+            "solution": "MULLEDWINE"
+        },
+        {
+            "id": "18-across",
+            "number": 18,
+            "humanNumber": "18",
+            "clue": "Fellow sailors on boat, chiropodist and harvester? (4-6)",
+            "direction": "across",
+            "length": 10,
+            "group": [
+                "18-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 8
+            },
+            "separatorLocations": {
+                "-": [
+                    4
+                ]
+            },
+            "solution": "CORNCUTTER"
+        },
+        {
+            "id": "22-across",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "Tucked in to fish, partly dressed (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "22-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "COATED"
+        },
+        {
+            "id": "23-across",
+            "number": 23,
+            "humanNumber": "23",
+            "clue": "Refrain about English ancestor (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "23-across"
+            ],
+            "position": {
+                "x": 7,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "FOREBEAR"
+        },
+        {
+            "id": "24-across",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "Swear at light's flowing out (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "24-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 12
+            },
+            "separatorLocations": {},
+            "solution": "EFFLUX"
+        },
+        {
+            "id": "25-across",
+            "number": 25,
+            "humanNumber": "25",
+            "clue": "Prison for Miss Philips, back holding head of loved pet (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "25-across"
+            ],
+            "position": {
+                "x": 7,
+                "y": 12
+            },
+            "separatorLocations": {},
+            "solution": "ALCATRAZ"
+        },
+        {
+            "id": "26-across",
+            "number": 26,
+            "humanNumber": "26",
+            "clue": "Runner, about 50, could use a stone (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "26-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 14
+            },
+            "separatorLocations": {},
+            "solution": "MILLER"
+        },
+        {
+            "id": "27-across",
+            "number": 27,
+            "humanNumber": "27",
+            "clue": "German girl with information about attempt to throw up (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "27-across"
+            ],
+            "position": {
+                "x": 7,
+                "y": 14
+            },
+            "separatorLocations": {},
+            "solution": "GRETCHEN"
+        },
+        {
+            "id": "1-down",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "Titled gentleman losing right to go underground (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "1-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "MAQUIS"
+        },
+        {
+            "id": "2-down",
+            "number": 2,
+            "humanNumber": "2",
+            "clue": "Shelter on the road to be made up? (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "2-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "LEEWAY"
+        },
+        {
+            "id": "3-down",
+            "number": 3,
+            "humanNumber": "3",
+            "clue": "Know at once that resident of 21 land keeps time (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "3-down"
+            ],
+            "position": {
+                "x": 4,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "INTUIT"
+        },
+        {
+            "id": "4-down",
+            "number": 4,
+            "humanNumber": "4",
+            "clue": "Privy page follows new duke to be respected (6,2,2)",
+            "direction": "down",
+            "length": 10,
+            "group": [
+                "4-down"
+            ],
+            "position": {
+                "x": 6,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    6,
+                    8
+                ]
+            },
+            "solution": "LOOKEDUPTO"
+        },
+        {
+            "id": "6-down",
+            "number": 6,
+            "humanNumber": "6",
+            "clue": "Ranch house had a nice aspect (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "6-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "HACIENDA"
+        },
+        {
+            "id": "7-down",
+            "number": 7,
+            "humanNumber": "7",
+            "clue": "I like this theme; it's concerned with what might be radioactive (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "7-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "ISOTOPIC"
+        },
+        {
+            "id": "8-down",
+            "number": 8,
+            "humanNumber": "8",
+            "clue": "Risk bad feeling after conclusion (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "8-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "ENDANGER"
+        },
+        {
+            "id": "13-down",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "Unskilled group circulating changed locale (4-6)",
+            "direction": "down",
+            "length": 10,
+            "group": [
+                "13-down"
+            ],
+            "position": {
+                "x": 8,
+                "y": 5
+            },
+            "separatorLocations": {
+                "-": [
+                    4
+                ]
+            },
+            "solution": "BLUECOLLAR"
+        },
+        {
+            "id": "15-down",
+            "number": 15,
+            "humanNumber": "15",
+            "clue": "Diamonds for the elite that's sweet and 21 (3,5)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "15-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 7
+            },
+            "separatorLocations": {
+                ",": [
+                    3
+                ]
+            },
+            "solution": "ICECREAM"
+        },
+        {
+            "id": "16-down",
+            "number": 16,
+            "humanNumber": "16",
+            "clue": "Doctor with feudal manner - appalling! (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "16-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "DREADFUL"
+        },
+        {
+            "id": "17-down",
+            "number": 17,
+            "humanNumber": "17",
+            "clue": "Plan for audience you'll shed when the order's changed (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "17-down"
+            ],
+            "position": {
+                "x": 4,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "SCHEDULE"
+        },
+        {
+            "id": "19-down",
+            "number": 19,
+            "humanNumber": "19",
+            "clue": "Permit includes transport to Near East (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "19-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "LEVANT"
+        },
+        {
+            "id": "20-down",
+            "number": 20,
+            "humanNumber": "20",
+            "clue": "Try to find and brand the church (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "20-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "SEARCH"
+        },
+        {
+            "id": "21-down",
+            "number": 21,
+            "humanNumber": "21",
+            "clue": "Away with Buddhism! It's very cold (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "21-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "FROZEN"
+        }
+    ],
+    "solutionAvailable": true,
+    "dateSolutionAvailable": 950227200000,
+    "dimensions": {
+        "cols": 15,
+        "rows": 15
+    },
+    "crosswordType": "cryptic",
+    "_gridType": null
+}

@@ -1,0 +1,590 @@
+{
+    "id": "crosswords/cryptic/27945",
+    "number": 27945,
+    "name": "Cryptic crossword No 27,945",
+    "creator": {
+        "name": "Brendan",
+        "webUrl": "https://www.theguardian.com/profile/brendan"
+    },
+    "date": 1570406400000,
+    "webPublicationDate": 1570402836000,
+    "entries": [
+        {
+            "id": "1-across",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "America's first couple on aircraft discarded material (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "1-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "JETSAM"
+        },
+        {
+            "id": "4-across",
+            "number": 4,
+            "humanNumber": "4",
+            "clue": "Kind of desk disreputable female just needs time to shift (4-3)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "4-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 0
+            },
+            "separatorLocations": {
+                "-": [
+                    4
+                ]
+            },
+            "solution": "ROLLTOP"
+        },
+        {
+            "id": "9-across",
+            "number": 9,
+            "humanNumber": "9",
+            "clue": "Provided with assistance, having shaped up the dole (6,3)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "9-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 2
+            },
+            "separatorLocations": {
+                ",": [
+                    6
+                ]
+            },
+            "solution": "HELPEDOUT"
+        },
+        {
+            "id": "10-across",
+            "number": 10,
+            "humanNumber": "10, 26",
+            "clue": " It parallels Number Ten \u2014 as its occupants do in today's solutions (5,5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "10-across",
+                "26-across"
+            ],
+            "position": {
+                "x": 10,
+                "y": 2
+            },
+            "separatorLocations": {
+                ",": [
+                    5
+                ]
+            },
+            "solution": "WHITE"
+        },
+        {
+            "id": "11-across",
+            "number": 11,
+            "humanNumber": "11",
+            "clue": "More confident as litigant, suppressing resistance (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "11-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 4
+            },
+            "separatorLocations": {},
+            "solution": "SURER"
+        },
+        {
+            "id": "12-across",
+            "number": 12,
+            "humanNumber": "12",
+            "clue": "Like some music or, perhaps after initial cuts, like some poetry (9)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "12-across"
+            ],
+            "position": {
+                "x": 6,
+                "y": 4
+            },
+            "separatorLocations": {},
+            "solution": "RHAPSODIC"
+        },
+        {
+            "id": "13-across",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "Write backing melody for final movement of suite (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "13-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "NEPTUNE"
+        },
+        {
+            "id": "15-across",
+            "number": 15,
+            "humanNumber": "15",
+            "clue": "Clean house again (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "15-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "HOOVER"
+        },
+        {
+            "id": "17-across",
+            "number": 17,
+            "humanNumber": "17",
+            "clue": "Predecessor of 1 down on both sides of the pond (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "17-across"
+            ],
+            "position": {
+                "x": 1,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "WILSON"
+        },
+        {
+            "id": "19-across",
+            "number": 19,
+            "humanNumber": "19",
+            "clue": "Like position of moderate, as shown in recent rally (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "19-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "CENTRAL"
+        },
+        {
+            "id": "22-across",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "Muscle 19 down turned to right (9)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "22-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "RETRACTOR"
+        },
+        {
+            "id": "24-across",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "Some propagandist not operating in good faith? (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "24-across"
+            ],
+            "position": {
+                "x": 10,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "PAGAN"
+        },
+        {
+            "id": "26-across",
+            "number": 26,
+            "humanNumber": "26",
+            "clue": "See 10",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "10-across",
+                "26-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 12
+            },
+            "separatorLocations": {
+                ",": []
+            },
+            "solution": "HOUSE"
+        },
+        {
+            "id": "27-across",
+            "number": 27,
+            "humanNumber": "27",
+            "clue": "Article Cameron edited, con\u00adsuming one kind of coffee (9)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "27-across"
+            ],
+            "position": {
+                "x": 6,
+                "y": 12
+            },
+            "separatorLocations": {},
+            "solution": "AMERICANO"
+        },
+        {
+            "id": "28-across",
+            "number": 28,
+            "humanNumber": "28",
+            "clue": "Phrase otherwise concerning Washington, for example (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "28-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 14
+            },
+            "separatorLocations": {},
+            "solution": "RESTATE"
+        },
+        {
+            "id": "29-across",
+            "number": 29,
+            "humanNumber": "29",
+            "clue": "Not conversant with name for a mathematician and physicist (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "29-across"
+            ],
+            "position": {
+                "x": 9,
+                "y": 14
+            },
+            "separatorLocations": {},
+            "solution": "NEWTON"
+        },
+        {
+            "id": "1-down",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "Playwright, for audience, author of meaningful work? (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "1-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "JOHNSON"
+        },
+        {
+            "id": "2-down",
+            "number": 2,
+            "humanNumber": "2",
+            "clue": "Thatcher's rival, so-called? Leading rebel (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "2-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "TYLER"
+        },
+        {
+            "id": "3-down",
+            "number": 3,
+            "humanNumber": "3",
+            "clue": "GOP argues falsely they break people down (3,6)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "3-down"
+            ],
+            "position": {
+                "x": 4,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    3
+                ]
+            },
+            "solution": "AGEGROUPS"
+        },
+        {
+            "id": "4-down",
+            "number": 4,
+            "humanNumber": "4",
+            "clue": "After briefly not working, a head is in school again (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "4-down"
+            ],
+            "position": {
+                "x": 8,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "RETEACH"
+        },
+        {
+            "id": "5-down",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "First or last name, or character of Oxford writer (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "5-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "LEWIS"
+        },
+        {
+            "id": "6-down",
+            "number": 6,
+            "humanNumber": "6",
+            "clue": "Driver may change into this kind of party clothing (5,4)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "6-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    5
+                ]
+            },
+            "solution": "THIRDGEAR"
+        },
+        {
+            "id": "7-down",
+            "number": 7,
+            "humanNumber": "7",
+            "clue": "Knight, say, capturing rook to make a breakthrough (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "7-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "PIERCE"
+        },
+        {
+            "id": "8-down",
+            "number": 8,
+            "humanNumber": "8",
+            "clue": "Astronomer has star confused with this star, oddly (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "8-down"
+            ],
+            "position": {
+                "x": 6,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "MONROE"
+        },
+        {
+            "id": "14-down",
+            "number": 14,
+            "humanNumber": "14",
+            "clue": "Sets about Republican involved with hard copies (9)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "14-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "PRINTOUTS"
+        },
+        {
+            "id": "16-down",
+            "number": 16,
+            "humanNumber": "16",
+            "clue": "Reds fan, perhaps, I help when distressed after 1-0 upset (9)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "16-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "OENOPHILE"
+        },
+        {
+            "id": "18-down",
+            "number": 18,
+            "humanNumber": "18",
+            "clue": "No Trump action about WMD material? He's crazy (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "18-down"
+            ],
+            "position": {
+                "x": 6,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "NUTCASE"
+        },
+        {
+            "id": "19-down",
+            "number": 19,
+            "humanNumber": "19",
+            "clue": "Driver of one vehicle or another over short period (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "19-down"
+            ],
+            "position": {
+                "x": 8,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "CARTER"
+        },
+        {
+            "id": "20-down",
+            "number": 20,
+            "humanNumber": "20",
+            "clue": "Line in column on Northern or Eastern city (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "20-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "LINCOLN"
+        },
+        {
+            "id": "21-down",
+            "number": 21,
+            "humanNumber": "21",
+            "clue": "Top man in legendary dining circle (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "21-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "ARTHUR"
+        },
+        {
+            "id": "23-down",
+            "number": 23,
+            "humanNumber": "23",
+            "clue": "Bring up a time and a place for spectacle (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "23-down"
+            ],
+            "position": {
+                "x": 4,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "ARENA"
+        },
+        {
+            "id": "25-down",
+            "number": 25,
+            "humanNumber": "25",
+            "clue": "Allow wild speech supporting head of government (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "25-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "GRANT"
+        }
+    ],
+    "solutionAvailable": true,
+    "dateSolutionAvailable": 1570402800000,
+    "dimensions": {
+        "cols": 15,
+        "rows": 15
+    },
+    "crosswordType": "cryptic",
+    "pdf": "https://crosswords-static.guim.co.uk/gdn.cryptic.20191007.pdf",
+    "_gridType": "M34"
+}

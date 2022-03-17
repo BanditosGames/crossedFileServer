@@ -1,0 +1,590 @@
+{
+    "id": "crosswords/prize/22643",
+    "number": 22643,
+    "name": "Prize crossword No 22,643",
+    "creator": {
+        "name": "Araucaria",
+        "webUrl": "https://www.theguardian.com/profile/araucaria"
+    },
+    "date": 1033776000000,
+    "webPublicationDate": 1033772400000,
+    "entries": [
+        {
+            "id": "1-across",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "18 what will 11 the Queen (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "1-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "PESTER"
+        },
+        {
+            "id": "4-across",
+            "number": 4,
+            "humanNumber": "4",
+            "clue": "18 forward, somewhat of the city (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "4-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "PERTURB"
+        },
+        {
+            "id": "9-across",
+            "number": 9,
+            "humanNumber": "9",
+            "clue": "Break in time: 18 4ac when detailed (9)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "9-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 2
+            },
+            "separatorLocations": {},
+            "solution": "INTERRUPT"
+        },
+        {
+            "id": "10-across",
+            "number": 10,
+            "humanNumber": "10",
+            "clue": "18 inverted arrangement (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "10-across"
+            ],
+            "position": {
+                "x": 10,
+                "y": 2
+            },
+            "separatorLocations": {},
+            "solution": "UPSET"
+        },
+        {
+            "id": "11-across",
+            "number": 11,
+            "humanNumber": "11",
+            "clue": "18 doesn't start the public address system (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "11-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 4
+            },
+            "separatorLocations": {},
+            "solution": "ANNOY"
+        },
+        {
+            "id": "12-across",
+            "number": 12,
+            "humanNumber": "12",
+            "clue": "Poem with limited access to point over 18 (9)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "12-across"
+            ],
+            "position": {
+                "x": 6,
+                "y": 4
+            },
+            "separatorLocations": {},
+            "solution": "EPICENTRE"
+        },
+        {
+            "id": "13-across",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "Away from the kerb is  24-26 (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "13-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "OFFSIDE"
+        },
+        {
+            "id": "15-across",
+            "number": 15,
+            "humanNumber": "15",
+            "clue": "18 for theologian embraced by drug carrier (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "15-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "MUDDLE"
+        },
+        {
+            "id": "17-across",
+            "number": 17,
+            "humanNumber": "17",
+            "clue": "Tick for direct 18 (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "17-across"
+            ],
+            "position": {
+                "x": 1,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "CREDIT"
+        },
+        {
+            "id": "19-across",
+            "number": 19,
+            "humanNumber": "19",
+            "clue": "Elizabeth eats fish as well (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "19-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "BESIDES"
+        },
+        {
+            "id": "22-across",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "Starch stirred twa or three times (9)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "22-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "ARROWROOT"
+        },
+        {
+            "id": "24-across",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "Guardian's about to make its way over ecstasy, which is unacceptable (3,2,5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "24-across",
+                "26-across"
+            ],
+            "position": {
+                "x": 10,
+                "y": 10
+            },
+            "separatorLocations": {
+                ",": [
+                    3,
+                    5
+                ]
+            },
+            "solution": "OUTOF"
+        },
+        {
+            "id": "26-across",
+            "number": 26,
+            "humanNumber": "26",
+            "clue": "See 24 (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "24-across",
+                "26-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 12
+            },
+            "separatorLocations": {
+                ",": []
+            },
+            "solution": "ORDER"
+        },
+        {
+            "id": "27-across",
+            "number": 27,
+            "humanNumber": "27",
+            "clue": "A fen in 18 during creature's celebration (9)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "27-across"
+            ],
+            "position": {
+                "x": 6,
+                "y": 12
+            },
+            "separatorLocations": {},
+            "solution": "BEANFEAST"
+        },
+        {
+            "id": "28-across",
+            "number": 28,
+            "humanNumber": "28",
+            "clue": "Prophetic gift reported by Saga (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "28-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 14
+            },
+            "separatorLocations": {},
+            "solution": "FORSYTE"
+        },
+        {
+            "id": "29-across",
+            "number": 29,
+            "humanNumber": "29",
+            "clue": "Volunteers left in heaven had literary company (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "29-across"
+            ],
+            "position": {
+                "x": 9,
+                "y": 14
+            },
+            "separatorLocations": {},
+            "solution": "STALKY"
+        },
+        {
+            "id": "1-down",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "My friend from Panama is an ordinary (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "1-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "PAISANO"
+        },
+        {
+            "id": "2-down",
+            "number": 2,
+            "humanNumber": "2",
+            "clue": "18 maker took a pew and a pole (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "2-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "SATAN"
+        },
+        {
+            "id": "3-down",
+            "number": 3,
+            "humanNumber": "3",
+            "clue": "Helicopter reportedly wouldn't start, which was a lark (5,4)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "3-down"
+            ],
+            "position": {
+                "x": 4,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    5
+                ]
+            },
+            "solution": "EARLYBIRD"
+        },
+        {
+            "id": "4-down",
+            "number": 4,
+            "humanNumber": "4",
+            "clue": "200-year-old political creed had Florentine picture palace's number (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "4-down"
+            ],
+            "position": {
+                "x": 8,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "PITTISM"
+        },
+        {
+            "id": "5-down",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "Wake up running through York (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "5-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "ROUSE"
+        },
+        {
+            "id": "6-down",
+            "number": 6,
+            "humanNumber": "6",
+            "clue": "Not a colony to be 18-ed (9)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "6-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "UNSETTLED"
+        },
+        {
+            "id": "7-down",
+            "number": 7,
+            "humanNumber": "7",
+            "clue": "Fly female 18 (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "7-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "BOTHER"
+        },
+        {
+            "id": "8-down",
+            "number": 8,
+            "humanNumber": "8",
+            "clue": "Unusual demand to investigate as before (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "8-down"
+            ],
+            "position": {
+                "x": 6,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "QUAERE"
+        },
+        {
+            "id": "14-down",
+            "number": 14,
+            "humanNumber": "14",
+            "clue": "Turf out artist and colour up pelt-monger (3,6)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "14-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 6
+            },
+            "separatorLocations": {
+                ",": [
+                    3
+                ]
+            },
+            "solution": "FURTRADER"
+        },
+        {
+            "id": "16-down",
+            "number": 16,
+            "humanNumber": "16",
+            "clue": "18 makes hell sweet (9)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "16-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "DISCOMFIT"
+        },
+        {
+            "id": "18-down",
+            "number": 18,
+            "humanNumber": "18",
+            "clue": "The French minstrel's half on top of the problem (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "18-down"
+            ],
+            "position": {
+                "x": 6,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "TROUBLE"
+        },
+        {
+            "id": "19-down",
+            "number": 19,
+            "humanNumber": "19",
+            "clue": "Give away money staked on fish (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "19-down"
+            ],
+            "position": {
+                "x": 8,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "BETRAY"
+        },
+        {
+            "id": "20-down",
+            "number": 20,
+            "humanNumber": "20",
+            "clue": "Musically lower than your first - about forte - should be safe for children (4,3)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "20-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 8
+            },
+            "separatorLocations": {
+                ",": [
+                    4
+                ]
+            },
+            "solution": "SOFTTOY"
+        },
+        {
+            "id": "21-down",
+            "number": 21,
+            "humanNumber": "21",
+            "clue": "Don't hedge! (3,3)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "21-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 9
+            },
+            "separatorLocations": {
+                ",": [
+                    3
+                ]
+            },
+            "solution": "LAYOFF"
+        },
+        {
+            "id": "23-down",
+            "number": 23,
+            "humanNumber": "23",
+            "clue": "18 has a line each way (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "23-down"
+            ],
+            "position": {
+                "x": 4,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "WORRY"
+        },
+        {
+            "id": "25-down",
+            "number": 25,
+            "humanNumber": "25",
+            "clue": "Be losing the way (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "25-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "TRAIL"
+        }
+    ],
+    "solutionAvailable": true,
+    "dateSolutionAvailable": 1034377200000,
+    "dimensions": {
+        "cols": 15,
+        "rows": 15
+    },
+    "crosswordType": "prize",
+    "_gridType": "M34"
+}

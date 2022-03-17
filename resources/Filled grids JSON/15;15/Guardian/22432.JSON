@@ -1,0 +1,505 @@
+{
+    "id": "crosswords/cryptic/22432",
+    "number": 22432,
+    "name": "Cryptic crossword No 22,432",
+    "creator": {
+        "name": "Taupi",
+        "webUrl": "https://www.theguardian.com/profile/taupi"
+    },
+    "date": 1012521600000,
+    "webPublicationDate": 1012521600000,
+    "entries": [
+        {
+            "id": "1-across",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "Be near front of sheep fold (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "1-across"
+            ],
+            "position": {
+                "x": 1,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "SCRIMP"
+        },
+        {
+            "id": "5-across",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "Well-built vehicle's in decline (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "5-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "ROBUST"
+        },
+        {
+            "id": "8-across",
+            "number": 8,
+            "humanNumber": "8",
+            "clue": "Rush around barrier, or duck (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "8-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 2
+            },
+            "separatorLocations": {},
+            "solution": "GADWALL"
+        },
+        {
+            "id": "9-across",
+            "number": 9,
+            "humanNumber": "9",
+            "clue": "Backtracks in attempt to cause trouble (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "9-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 2
+            },
+            "separatorLocations": {},
+            "solution": "DISTURB"
+        },
+        {
+            "id": "11-across",
+            "number": 11,
+            "humanNumber": "11",
+            "clue": "In which one wants an empty chamber (7,8)",
+            "direction": "across",
+            "length": 15,
+            "group": [
+                "11-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 4
+            },
+            "separatorLocations": {
+                ",": [
+                    7
+                ]
+            },
+            "solution": "RUSSIANROULETTE"
+        },
+        {
+            "id": "12-across",
+            "number": 12,
+            "humanNumber": "12",
+            "clue": "This has three feet and an arm (4)",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "12-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "YARD"
+        },
+        {
+            "id": "13-across",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "Fool them out and about (10)",
+            "direction": "across",
+            "length": 10,
+            "group": [
+                "13-across"
+            ],
+            "position": {
+                "x": 5,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "MUTTONHEAD"
+        },
+        {
+            "id": "17-across",
+            "number": 17,
+            "humanNumber": "17",
+            "clue": "Bats over fields - that's one's game (3-7)",
+            "direction": "across",
+            "length": 10,
+            "group": [
+                "17-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 8
+            },
+            "separatorLocations": {
+                "-": [
+                    3
+                ]
+            },
+            "solution": "ALLROUNDER"
+        },
+        {
+            "id": "18-across",
+            "number": 18,
+            "humanNumber": "18",
+            "clue": "Norse god is said to be restrained (4)",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "18-across"
+            ],
+            "position": {
+                "x": 11,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "LOKI"
+        },
+        {
+            "id": "20-across",
+            "number": 20,
+            "humanNumber": "20",
+            "clue": "Those submerging one story with a variation (15)",
+            "direction": "across",
+            "length": 15,
+            "group": [
+                "20-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "DIVERSIFICATION"
+        },
+        {
+            "id": "23-across",
+            "number": 23,
+            "humanNumber": "23",
+            "clue": "Go through again to take point with ease (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "23-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 12
+            },
+            "separatorLocations": {},
+            "solution": "RELIEVE"
+        },
+        {
+            "id": "24-across",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "Reader of current issue? (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "24-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 12
+            },
+            "separatorLocations": {},
+            "solution": "AMMETER"
+        },
+        {
+            "id": "25-across",
+            "number": 25,
+            "humanNumber": "25",
+            "clue": "Part of boat protecting sailors inside shell (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "25-across"
+            ],
+            "position": {
+                "x": 1,
+                "y": 14
+            },
+            "separatorLocations": {},
+            "solution": "KERNEL"
+        },
+        {
+            "id": "26-across",
+            "number": 26,
+            "humanNumber": "26",
+            "clue": "10-1 it's a good combination (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "26-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 14
+            },
+            "separatorLocations": {},
+            "solution": "TENACE"
+        },
+        {
+            "id": "2-down",
+            "number": 2,
+            "humanNumber": "2",
+            "clue": "Dealt a last card, showing value of holding (9)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "2-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "CADASTRAL"
+        },
+        {
+            "id": "3-down",
+            "number": 3,
+            "humanNumber": "3",
+            "clue": "In a type of list (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "3-down"
+            ],
+            "position": {
+                "x": 4,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "ITALIC"
+        },
+        {
+            "id": "4-down",
+            "number": 4,
+            "humanNumber": "4",
+            "clue": "Scheme to kidnap adult one of five in litter (9)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "4-down"
+            ],
+            "position": {
+                "x": 6,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "PALANQUIN"
+        },
+        {
+            "id": "5-down",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "Show by mounted band? (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "5-down"
+            ],
+            "position": {
+                "x": 8,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "RODEO"
+        },
+        {
+            "id": "6-down",
+            "number": 6,
+            "humanNumber": "6",
+            "clue": "Black grease drops against end of court (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "6-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "BASELINE"
+        },
+        {
+            "id": "7-down",
+            "number": 7,
+            "humanNumber": "7",
+            "clue": "Exploit dwarf (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "7-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "STUNT"
+        },
+        {
+            "id": "8-down",
+            "number": 8,
+            "humanNumber": "8",
+            "clue": "Manipulate lines in German with the appropriate article (11)",
+            "direction": "down",
+            "length": 11,
+            "group": [
+                "8-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 2
+            },
+            "separatorLocations": {},
+            "solution": "GERRYMANDER"
+        },
+        {
+            "id": "10-down",
+            "number": 10,
+            "humanNumber": "10",
+            "clue": "One who earns drink holds promotion closer to heart (11)",
+            "direction": "down",
+            "length": 11,
+            "group": [
+                "10-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 2
+            },
+            "separatorLocations": {},
+            "solution": "BREADWINNER"
+        },
+        {
+            "id": "14-down",
+            "number": 14,
+            "humanNumber": "14",
+            "clue": "New doctor/patient relationship's shaky (9)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "14-down"
+            ],
+            "position": {
+                "x": 8,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "TREPIDANT"
+        },
+        {
+            "id": "15-down",
+            "number": 15,
+            "humanNumber": "15",
+            "clue": "Cities got sacked in vain (9)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "15-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "EGOTISTIC"
+        },
+        {
+            "id": "16-down",
+            "number": 16,
+            "humanNumber": "16",
+            "clue": "One under this is thought unlucky (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "16-down"
+            ],
+            "position": {
+                "x": 4,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "FOURTEEN"
+        },
+        {
+            "id": "19-down",
+            "number": 19,
+            "humanNumber": "19",
+            "clue": "Joint game, if back first (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "19-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "GAMMON"
+        },
+        {
+            "id": "21-down",
+            "number": 21,
+            "humanNumber": "21",
+            "clue": "Dean eats 5 from part of shell (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "21-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "VALVE"
+        },
+        {
+            "id": "22-down",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "Perfect for a trade (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "22-down"
+            ],
+            "position": {
+                "x": 6,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "IDEAL"
+        }
+    ],
+    "solutionAvailable": true,
+    "dateSolutionAvailable": 1012521600000,
+    "dimensions": {
+        "cols": 15,
+        "rows": 15
+    },
+    "crosswordType": "cryptic",
+    "_gridType": "M38"
+}

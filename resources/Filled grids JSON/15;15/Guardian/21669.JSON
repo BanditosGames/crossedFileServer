@@ -1,0 +1,505 @@
+{
+    "id": "crosswords/cryptic/21669",
+    "number": 21669,
+    "name": "Cryptic crossword No 21,669",
+    "creator": {
+        "name": "Logodaedalus",
+        "webUrl": "https://www.theguardian.com/profile/logodaedalus"
+    },
+    "date": 935107200000,
+    "webPublicationDate": 935103600000,
+    "entries": [
+        {
+            "id": "1-across",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "Limp little books found in dingy place (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "1-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "HOBBLE"
+        },
+        {
+            "id": "5-across",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "Contrite writer, one seen in front of canvas dwelling (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "5-across"
+            ],
+            "position": {
+                "x": 7,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "PENITENT"
+        },
+        {
+            "id": "9-across",
+            "number": 9,
+            "humanNumber": "9",
+            "clue": "Bottle or tin kept in check (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "9-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 2
+            },
+            "separatorLocations": {},
+            "solution": "DECANTER"
+        },
+        {
+            "id": "10-across",
+            "number": 10,
+            "humanNumber": "10",
+            "clue": "Turned to me to get into religious eduction, though far away (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "10-across"
+            ],
+            "position": {
+                "x": 9,
+                "y": 2
+            },
+            "separatorLocations": {},
+            "solution": "REMOTE"
+        },
+        {
+            "id": "11-across",
+            "number": 11,
+            "humanNumber": "11",
+            "clue": "This for a honeymoon, but the record was faulty (6,1,5)",
+            "direction": "across",
+            "length": 12,
+            "group": [
+                "11-across"
+            ],
+            "position": {
+                "x": 3,
+                "y": 4
+            },
+            "separatorLocations": {
+                ",": [
+                    6,
+                    7
+                ]
+            },
+            "solution": "THREESACROWD"
+        },
+        {
+            "id": "13-across",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "Cooker turns iron hot and cold (4)",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "13-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "CHEF"
+        },
+        {
+            "id": "14-across",
+            "number": 14,
+            "humanNumber": "14",
+            "clue": "Mere talk describes this turn in skiing (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "14-across"
+            ],
+            "position": {
+                "x": 7,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "TELEMARK"
+        },
+        {
+            "id": "17-across",
+            "number": 17,
+            "humanNumber": "17",
+            "clue": "A good man, a lieutenant, holding combat to be courageous (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "17-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "STALWART"
+        },
+        {
+            "id": "18-across",
+            "number": 18,
+            "humanNumber": "18",
+            "clue": "Thus half one's home is in this part of London (4)",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "18-across"
+            ],
+            "position": {
+                "x": 11,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "SOHO"
+        },
+        {
+            "id": "20-across",
+            "number": 20,
+            "humanNumber": "20",
+            "clue": "Summary law gives less than the correct amount (5,7)",
+            "direction": "across",
+            "length": 12,
+            "group": [
+                "20-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 10
+            },
+            "separatorLocations": {
+                ",": [
+                    5
+                ]
+            },
+            "solution": "SHORTMEASURE"
+        },
+        {
+            "id": "23-across",
+            "number": 23,
+            "humanNumber": "23",
+            "clue": "Good backlog not finished for tradesman (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "23-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 12
+            },
+            "separatorLocations": {},
+            "solution": "GROCER"
+        },
+        {
+            "id": "24-across",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "Morally suspect behaviour of departing boy (6-2)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "24-across"
+            ],
+            "position": {
+                "x": 7,
+                "y": 12
+            },
+            "separatorLocations": {
+                "-": [
+                    6
+                ]
+            },
+            "solution": "GOINGSON"
+        },
+        {
+            "id": "25-across",
+            "number": 25,
+            "humanNumber": "25",
+            "clue": "Bonnet, perhaps, hides top set of wheels (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "25-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 14
+            },
+            "separatorLocations": {},
+            "solution": "HEADGEAR"
+        },
+        {
+            "id": "26-across",
+            "number": 26,
+            "humanNumber": "26",
+            "clue": "Short journey made for another in Clermont-Ferrand (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "26-across"
+            ],
+            "position": {
+                "x": 9,
+                "y": 14
+            },
+            "separatorLocations": {},
+            "solution": "ERRAND"
+        },
+        {
+            "id": "2-down",
+            "number": 2,
+            "humanNumber": "2",
+            "clue": "Maiden, perhaps, says it's your turn to speak (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "2-down"
+            ],
+            "position": {
+                "x": 1,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "OVER"
+        },
+        {
+            "id": "3-down",
+            "number": 3,
+            "humanNumber": "3",
+            "clue": "A fuel tub I mended is not ugly (9)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "3-down"
+            ],
+            "position": {
+                "x": 3,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "BEAUTIFUL"
+        },
+        {
+            "id": "4-down",
+            "number": 4,
+            "humanNumber": "4",
+            "clue": "Absolute savage in tree (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "4-down"
+            ],
+            "position": {
+                "x": 5,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "ENTIRE"
+        },
+        {
+            "id": "5-down",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "True street guide - you don't know him from Adam (7,8)",
+            "direction": "down",
+            "length": 15,
+            "group": [
+                "5-down"
+            ],
+            "position": {
+                "x": 7,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    7
+                ]
+            },
+            "solution": "PERFECTSTRANGER"
+        },
+        {
+            "id": "6-down",
+            "number": 6,
+            "humanNumber": "6",
+            "clue": "Number: a thousand in a gathering as a rule (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "6-down"
+            ],
+            "position": {
+                "x": 9,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "NORMALLY"
+        },
+        {
+            "id": "7-down",
+            "number": 7,
+            "humanNumber": "7",
+            "clue": "Settle up for a clocklike device (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "7-down"
+            ],
+            "position": {
+                "x": 11,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "TIMER"
+        },
+        {
+            "id": "8-down",
+            "number": 8,
+            "humanNumber": "8",
+            "clue": "Remarkable school put up with a local celebrity (10)",
+            "direction": "down",
+            "length": 10,
+            "group": [
+                "8-down"
+            ],
+            "position": {
+                "x": 13,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "NOTEWORTHY"
+        },
+        {
+            "id": "12-down",
+            "number": 12,
+            "humanNumber": "12",
+            "clue": "Wave to attract pale animal (5,5)",
+            "direction": "down",
+            "length": 10,
+            "group": [
+                "12-down"
+            ],
+            "position": {
+                "x": 1,
+                "y": 5
+            },
+            "separatorLocations": {
+                ",": [
+                    5
+                ]
+            },
+            "solution": "WHITEHORSE"
+        },
+        {
+            "id": "15-down",
+            "number": 15,
+            "humanNumber": "15",
+            "clue": "Delivery boy holding pickle, green as it might be (9)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "15-down"
+            ],
+            "position": {
+                "x": 11,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "MESSENGER"
+        },
+        {
+            "id": "16-down",
+            "number": 16,
+            "humanNumber": "16",
+            "clue": "Friend with moving meter provides symbol of success (4-4)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "16-down"
+            ],
+            "position": {
+                "x": 5,
+                "y": 7
+            },
+            "separatorLocations": {
+                "-": [
+                    4
+                ]
+            },
+            "solution": "PALMTREE"
+        },
+        {
+            "id": "19-down",
+            "number": 19,
+            "humanNumber": "19",
+            "clue": "I'm like a stalactite in dark red volcanic rock (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "19-down"
+            ],
+            "position": {
+                "x": 9,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "PUMICE"
+        },
+        {
+            "id": "21-down",
+            "number": 21,
+            "humanNumber": "21",
+            "clue": "Hurried to get account in the red (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "21-down"
+            ],
+            "position": {
+                "x": 3,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "RACED"
+        },
+        {
+            "id": "22-down",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "Blue Western concealed by university teacher (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "22-down"
+            ],
+            "position": {
+                "x": 13,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "DOWN"
+        }
+    ],
+    "solutionAvailable": true,
+    "dateSolutionAvailable": 935103600000,
+    "dimensions": {
+        "cols": 15,
+        "rows": 15
+    },
+    "crosswordType": "cryptic",
+    "_gridType": "M19"
+}

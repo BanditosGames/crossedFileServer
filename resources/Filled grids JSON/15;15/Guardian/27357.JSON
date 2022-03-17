@@ -1,0 +1,571 @@
+{
+    "id": "crosswords/cryptic/27357",
+    "number": 27357,
+    "name": "Cryptic crossword No 27,357",
+    "creator": {
+        "name": "Paul",
+        "webUrl": "https://www.theguardian.com/profile/paul"
+    },
+    "date": 1510876800000,
+    "webPublicationDate": 1510876809000,
+    "entries": [
+        {
+            "id": "1-across",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "Labyrinth here? Almost recognise one direction \u2014 help! (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "1-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "KNOSSOS"
+        },
+        {
+            "id": "5-across",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "But this cuckoo is a songbird (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "5-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "BUSHTIT"
+        },
+        {
+            "id": "9-across",
+            "number": 9,
+            "humanNumber": "9",
+            "clue": "See 17",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "17-down",
+                "9-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 2
+            },
+            "separatorLocations": {
+                ",": []
+            },
+            "solution": "BANDA"
+        },
+        {
+            "id": "10-across",
+            "number": 10,
+            "humanNumber": "10, 21",
+            "clue": " Producer of huge shock is electric \u2014 and yet shocking! (9,4)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "10-across",
+                "21-across"
+            ],
+            "position": {
+                "x": 6,
+                "y": 2
+            },
+            "separatorLocations": {
+                ",": [
+                    9
+                ]
+            },
+            "solution": "LEICESTER"
+        },
+        {
+            "id": "11-across",
+            "number": 11,
+            "humanNumber": "11",
+            "clue": "Introduced to hunts, minor tragedy at first beguiles (5-5)",
+            "direction": "across",
+            "length": 10,
+            "group": [
+                "11-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 4
+            },
+            "separatorLocations": {
+                "-": [
+                    5
+                ]
+            },
+            "solution": "SWEETTALKS"
+        },
+        {
+            "id": "12-across",
+            "number": 12,
+            "humanNumber": "12",
+            "clue": "Bear right entering Trump's country (4)",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "12-across"
+            ],
+            "position": {
+                "x": 11,
+                "y": 4
+            },
+            "separatorLocations": {},
+            "solution": "URSA"
+        },
+        {
+            "id": "14-across",
+            "number": 14,
+            "humanNumber": "14",
+            "clue": "For African natives, if  left imprisoned, could I be described as a funky Asian dictator? (11)",
+            "direction": "across",
+            "length": 11,
+            "group": [
+                "14-across"
+            ],
+            "position": {
+                "x": 4,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "HIPPOPOTAMI"
+        },
+        {
+            "id": "18-across",
+            "number": 18,
+            "humanNumber": "18",
+            "clue": "Candid in flyer? (5-6)",
+            "direction": "across",
+            "length": 11,
+            "group": [
+                "18-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 8
+            },
+            "separatorLocations": {
+                "-": [
+                    5
+                ]
+            },
+            "solution": "PLAINSPOKEN"
+        },
+        {
+            "id": "21-across",
+            "number": 21,
+            "humanNumber": "21",
+            "clue": "See 10",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "10-across",
+                "21-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 10
+            },
+            "separatorLocations": {
+                ",": []
+            },
+            "solution": "CITY"
+        },
+        {
+            "id": "22-across",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "Beelzebub, one probably now healed? (3,7)",
+            "direction": "across",
+            "length": 10,
+            "group": [
+                "22-across"
+            ],
+            "position": {
+                "x": 5,
+                "y": 10
+            },
+            "separatorLocations": {
+                ",": [
+                    3
+                ]
+            },
+            "solution": "OLDSCRATCH"
+        },
+        {
+            "id": "25-across",
+            "number": 25,
+            "humanNumber": "25",
+            "clue": "Spooner's sticky thing doubly distant \u2014 that's not peculiar? (5,2-2)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "25-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 12
+            },
+            "separatorLocations": {
+                ",": [
+                    5
+                ],
+                "-": [
+                    7
+                ]
+            },
+            "solution": "FUNNYHAHA"
+        },
+        {
+            "id": "26-across",
+            "number": 26,
+            "humanNumber": "26",
+            "clue": "Received by monarchy, perhaps overly excited? (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "26-across"
+            ],
+            "position": {
+                "x": 10,
+                "y": 12
+            },
+            "separatorLocations": {},
+            "solution": "HYPER"
+        },
+        {
+            "id": "27-across",
+            "number": 27,
+            "humanNumber": "27",
+            "clue": "Detention sounding saucy? (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "27-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 14
+            },
+            "separatorLocations": {},
+            "solution": "CUSTODY"
+        },
+        {
+            "id": "28-across",
+            "number": 28,
+            "humanNumber": "28",
+            "clue": "Flies parted, I pissed (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "28-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 14
+            },
+            "separatorLocations": {},
+            "solution": "DIPTERA"
+        },
+        {
+            "id": "1-down",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "Stop child wiping bottom on bunk (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "1-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "KIBOSH"
+        },
+        {
+            "id": "2-down",
+            "number": 2,
+            "humanNumber": "2",
+            "clue": "Writer's requirement to go through dictionary sounded beastly (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "2-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "OINKED"
+        },
+        {
+            "id": "3-down",
+            "number": 3,
+            "humanNumber": "3",
+            "clue": "Mobile home's part converted to accommodate an unspecified number (10)",
+            "direction": "down",
+            "length": 10,
+            "group": [
+                "3-down"
+            ],
+            "position": {
+                "x": 4,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "SMARTPHONE"
+        },
+        {
+            "id": "4-down",
+            "number": 4,
+            "humanNumber": "4",
+            "clue": "Sauce primarily, furthermore (nothing less), a dance (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "4-down"
+            ],
+            "position": {
+                "x": 6,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "SALSA"
+        },
+        {
+            "id": "5-down",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "Between back walls, stack and line up masonry (9)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "5-down"
+            ],
+            "position": {
+                "x": 8,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "BRICKWORK"
+        },
+        {
+            "id": "6-down",
+            "number": 6,
+            "humanNumber": "6",
+            "clue": "Slough hut (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "6-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "SHED"
+        },
+        {
+            "id": "7-down",
+            "number": 7,
+            "humanNumber": "7",
+            "clue": "Old King Cole's heart inspiring uplifting tune \u2014 class! (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "7-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "TUTORIAL"
+        },
+        {
+            "id": "8-down",
+            "number": 8,
+            "humanNumber": "8",
+            "clue": "Quiet inland swimmer (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "8-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "TERRAPIN"
+        },
+        {
+            "id": "13-down",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "Local store has shaved the fuzz for Spooner? (6,4)",
+            "direction": "down",
+            "length": 10,
+            "group": [
+                "13-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 5
+            },
+            "separatorLocations": {
+                ",": [
+                    6
+                ]
+            },
+            "solution": "CORNERSHOP"
+        },
+        {
+            "id": "15-down",
+            "number": 15,
+            "humanNumber": "15",
+            "clue": "Offer money to pen column describing tiny nipples (9)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "15-down"
+            ],
+            "position": {
+                "x": 6,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "PAPILLARY"
+        },
+        {
+            "id": "16-down",
+            "number": 16,
+            "humanNumber": "16",
+            "clue": "Particular muscle providing parts thus (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "16-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "SPECIFIC"
+        },
+        {
+            "id": "17-down",
+            "number": 17,
+            "humanNumber": "17, 9",
+            "clue": " Company in battle, you might say, overcoming a former African leader (8,5)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "17-down",
+                "9-across"
+            ],
+            "position": {
+                "x": 2,
+                "y": 7
+            },
+            "separatorLocations": {
+                ",": [
+                    8
+                ]
+            },
+            "solution": "HASTINGS"
+        },
+        {
+            "id": "19-down",
+            "number": 19,
+            "humanNumber": "19",
+            "clue": "Basic connector (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "19-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "STAPLE"
+        },
+        {
+            "id": "20-down",
+            "number": 20,
+            "humanNumber": "20",
+            "clue": "Mountain porter perhaps missing peak badly (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "20-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "SHERPA"
+        },
+        {
+            "id": "23-down",
+            "number": 23,
+            "humanNumber": "23",
+            "clue": "Grass proves attractive when coming up (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "23-down"
+            ],
+            "position": {
+                "x": 8,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "SWARD"
+        },
+        {
+            "id": "24-down",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "Once called the universal doner, reportedly a mistake (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "24-down"
+            ],
+            "position": {
+                "x": 4,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "TYPO"
+        }
+    ],
+    "solutionAvailable": true,
+    "dateSolutionAvailable": 1510876800000,
+    "dimensions": {
+        "cols": 15,
+        "rows": 15
+    },
+    "crosswordType": "cryptic",
+    "pdf": "https://crosswords-static.guim.co.uk/gdn.cryptic.20171117.pdf",
+    "_gridType": "M20"
+}

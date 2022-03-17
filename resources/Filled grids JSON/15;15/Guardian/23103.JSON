@@ -1,0 +1,488 @@
+{
+    "id": "crosswords/cryptic/23103",
+    "number": 23103,
+    "name": "Cryptic crossword No 23,103",
+    "creator": {
+        "name": "Bunthorne",
+        "webUrl": "https://www.theguardian.com/profile/bunthorne"
+    },
+    "date": 1080604800000,
+    "webPublicationDate": 1080601200000,
+    "entries": [
+        {
+            "id": "5-across",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "Exert a force over the opinion seeker (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "5-across"
+            ],
+            "position": {
+                "x": 1,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "GALLUP"
+        },
+        {
+            "id": "6-across",
+            "number": 6,
+            "humanNumber": "6",
+            "clue": "Jumbo pilot turning radio operator away (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "6-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "MAHOUT"
+        },
+        {
+            "id": "9-across",
+            "number": 9,
+            "humanNumber": "9",
+            "clue": "Girl amusing G-man and other agents (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "9-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 3
+            },
+            "separatorLocations": {},
+            "solution": "ALICIA"
+        },
+        {
+            "id": "10-across",
+            "number": 10,
+            "humanNumber": "10",
+            "clue": "One about to leave a French concert with a soft-pedal (3,5)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "10-across"
+            ],
+            "position": {
+                "x": 7,
+                "y": 3
+            },
+            "separatorLocations": {
+                ",": [
+                    3
+                ]
+            },
+            "solution": "UNACORDA"
+        },
+        {
+            "id": "11-across",
+            "number": 11,
+            "humanNumber": "11",
+            "clue": "Alliance following a boundary reversion (4)",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "11-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "AXIS"
+        },
+        {
+            "id": "12-across",
+            "number": 12,
+            "humanNumber": "12",
+            "clue": "One thumbing through the guide to the 5 down? (10)",
+            "direction": "across",
+            "length": 10,
+            "group": [
+                "12-across"
+            ],
+            "position": {
+                "x": 5,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "HITCHHIKER"
+        },
+        {
+            "id": "13-across",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "Politician and dramatist have left following holiday, carrying the can (6,5)",
+            "direction": "across",
+            "length": 11,
+            "group": [
+                "13-across"
+            ],
+            "position": {
+                "x": 2,
+                "y": 7
+            },
+            "separatorLocations": {
+                ",": [
+                    6
+                ]
+            },
+            "solution": "VACLAVHAVEL"
+        },
+        {
+            "id": "18-across",
+            "number": 18,
+            "humanNumber": "18",
+            "clue": "Two sources of light water emergency (5,5)",
+            "direction": "across",
+            "length": 10,
+            "group": [
+                "18-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 9
+            },
+            "separatorLocations": {
+                ",": [
+                    5
+                ]
+            },
+            "solution": "FLASHFLOOD"
+        },
+        {
+            "id": "21-across",
+            "number": 21,
+            "humanNumber": "21",
+            "clue": "No young shaver, this biblical twin? (4)",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "21-across"
+            ],
+            "position": {
+                "x": 11,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "ESAU"
+        },
+        {
+            "id": "22-across",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "Flora's 14 has sent one mad (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "22-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "ANTHESIS"
+        },
+        {
+            "id": "23-across",
+            "number": 23,
+            "humanNumber": "23",
+            "clue": "Bunthorne's first work accepted on sight, with difficulty (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "23-across"
+            ],
+            "position": {
+                "x": 9,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "MYOPIA"
+        },
+        {
+            "id": "24-across",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "He discovered New Zealand since breaking timepiece (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "24-across"
+            ],
+            "position": {
+                "x": 1,
+                "y": 13
+            },
+            "separatorLocations": {},
+            "solution": "TASMAN"
+        },
+        {
+            "id": "25-across",
+            "number": 25,
+            "humanNumber": "25",
+            "clue": "Collect one's suit (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "25-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 13
+            },
+            "separatorLocations": {},
+            "solution": "PRAYER"
+        },
+        {
+            "id": "1-down",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "No white water activity here then? (5,3)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "1-down"
+            ],
+            "position": {
+                "x": 3,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    5
+                ]
+            },
+            "solution": "BLACKSEA"
+        },
+        {
+            "id": "2-down",
+            "number": 2,
+            "humanNumber": "2",
+            "clue": "Hard homme de lettres climbing a tree (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "2-down"
+            ],
+            "position": {
+                "x": 5,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "SUMACH"
+        },
+        {
+            "id": "3-down",
+            "number": 3,
+            "humanNumber": "3",
+            "clue": "It provides suits for lawyers at hearing no call (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "3-down"
+            ],
+            "position": {
+                "x": 9,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "BARATHEA"
+        },
+        {
+            "id": "4-down",
+            "number": 4,
+            "humanNumber": "4",
+            "clue": "Primates pass on black magic (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "4-down"
+            ],
+            "position": {
+                "x": 11,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "COLOBI"
+        },
+        {
+            "id": "5-down",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "Celebrities en masse? Heavens above! (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "5-down"
+            ],
+            "position": {
+                "x": 1,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "GALAXY"
+        },
+        {
+            "id": "7-down",
+            "number": 7,
+            "humanNumber": "7",
+            "clue": "But did he made hay with his bombers? (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "7-down"
+            ],
+            "position": {
+                "x": 13,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "TEDDER"
+        },
+        {
+            "id": "8-down",
+            "number": 8,
+            "humanNumber": "8",
+            "clue": "Smashing Gatso TV, lush driven to note the 16s was he? (6,5)",
+            "direction": "down",
+            "length": 11,
+            "group": [
+                "8-down"
+            ],
+            "position": {
+                "x": 7,
+                "y": 2
+            },
+            "separatorLocations": {
+                ",": [
+                    6
+                ]
+            },
+            "solution": "GUSTAVHOLST"
+        },
+        {
+            "id": "14-down",
+            "number": 14,
+            "humanNumber": "14",
+            "clue": "Left one at Ironbridge with time to draw breath (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "14-down"
+            ],
+            "position": {
+                "x": 5,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "LIFESPAN"
+        },
+        {
+            "id": "15-down",
+            "number": 15,
+            "humanNumber": "15",
+            "clue": "So seeing agreement in confrontation (3,2,3)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "15-down"
+            ],
+            "position": {
+                "x": 11,
+                "y": 7
+            },
+            "separatorLocations": {
+                ",": [
+                    3,
+                    5
+                ]
+            },
+            "solution": "EYETOEYE"
+        },
+        {
+            "id": "16-down",
+            "number": 16,
+            "humanNumber": "16",
+            "clue": "Chart alien from whence he came? (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "16-down"
+            ],
+            "position": {
+                "x": 1,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "PLANET"
+        },
+        {
+            "id": "17-down",
+            "number": 17,
+            "humanNumber": "17",
+            "clue": "King with a mole under one arm (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "17-down"
+            ],
+            "position": {
+                "x": 13,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "RAPIER"
+        },
+        {
+            "id": "19-down",
+            "number": 19,
+            "humanNumber": "19",
+            "clue": "Split in Brunelleschi's masterpiece (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "19-down"
+            ],
+            "position": {
+                "x": 3,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "SCHISM"
+        },
+        {
+            "id": "20-down",
+            "number": 20,
+            "humanNumber": "20",
+            "clue": "Fight shy of English for \"shy\" (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "20-down"
+            ],
+            "position": {
+                "x": 9,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "DEMURE"
+        }
+    ],
+    "solutionAvailable": true,
+    "dateSolutionAvailable": 1080601200000,
+    "dimensions": {
+        "cols": 15,
+        "rows": 15
+    },
+    "crosswordType": "cryptic",
+    "_gridType": "M31"
+}

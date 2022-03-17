@@ -1,0 +1,568 @@
+{
+    "id": "crosswords/prize/24593",
+    "number": 24593,
+    "name": "Prize crossword No 24,593",
+    "creator": {
+        "name": "Paul",
+        "webUrl": "https://www.theguardian.com/profile/paul"
+    },
+    "date": 1231545600000,
+    "webPublicationDate": 1231545600000,
+    "entries": [
+        {
+            "id": "1-across",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "Need to imprison individual, given bird for current transgressions? (5,4)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "1-across"
+            ],
+            "position": {
+                "x": 1,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    5
+                ]
+            },
+            "solution": "CRIMEWAVE"
+        },
+        {
+            "id": "6-across",
+            "number": 6,
+            "humanNumber": "6",
+            "clue": "Turn left for 18's work (4,8)",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "6-across",
+                "8-across"
+            ],
+            "position": {
+                "x": 11,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    4
+                ]
+            },
+            "solution": "BEND"
+        },
+        {
+            "id": "8-across",
+            "number": 8,
+            "humanNumber": "8",
+            "clue": "See 6",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "6-across",
+                "8-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 2
+            },
+            "separatorLocations": {
+                ",": []
+            },
+            "solution": "SINISTER"
+        },
+        {
+            "id": "9-across",
+            "number": 9,
+            "humanNumber": "9",
+            "clue": "Old airline approaching a country (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "9-across"
+            ],
+            "position": {
+                "x": 9,
+                "y": 2
+            },
+            "separatorLocations": {},
+            "solution": "PANAMA"
+        },
+        {
+            "id": "10-across",
+            "number": 10,
+            "humanNumber": "10",
+            "clue": "See books, then a work of 18 (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "10-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 4
+            },
+            "separatorLocations": {},
+            "solution": "LOLITA"
+        },
+        {
+            "id": "11-across",
+            "number": 11,
+            "humanNumber": "11",
+            "clue": "Post sack, work of 18 (4,4)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "11-across"
+            ],
+            "position": {
+                "x": 7,
+                "y": 4
+            },
+            "separatorLocations": {
+                ",": [
+                    4
+                ]
+            },
+            "solution": "PALEFIRE"
+        },
+        {
+            "id": "12-across",
+            "number": 12,
+            "humanNumber": "12",
+            "clue": "Man finally after scarf to get hot (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "12-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "STOLEN"
+        },
+        {
+            "id": "15-across",
+            "number": 15,
+            "humanNumber": "15",
+            "clue": "Watch muscle getting into condition (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "15-across"
+            ],
+            "position": {
+                "x": 7,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "SPECTATE"
+        },
+        {
+            "id": "16-across",
+            "number": 16,
+            "humanNumber": "16",
+            "clue": "Noble sailors in the wake of rotten stink (4-4)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "16-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 8
+            },
+            "separatorLocations": {
+                "-": [
+                    4
+                ]
+            },
+            "solution": "HIGHBORN"
+        },
+        {
+            "id": "19-across",
+            "number": 19,
+            "humanNumber": "19",
+            "clue": "Field where Kipling's Khan holds power (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "19-across"
+            ],
+            "position": {
+                "x": 9,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "SPHERE"
+        },
+        {
+            "id": "21-across",
+            "number": 21,
+            "humanNumber": "21",
+            "clue": "Mass killer won't initiate search alongside a grave (4,4)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "21-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 10
+            },
+            "separatorLocations": {
+                ",": [
+                    4
+                ]
+            },
+            "solution": "ATOMBOMB"
+        },
+        {
+            "id": "22-across",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "Given a very meticulous leader, I'm backing plant (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "22-across"
+            ],
+            "position": {
+                "x": 9,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "MIMOSA"
+        },
+        {
+            "id": "24-across",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "Enemy in action, one from Sana'a, perhaps (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "24-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 12
+            },
+            "separatorLocations": {},
+            "solution": "YEMENI"
+        },
+        {
+            "id": "25-across",
+            "number": 25,
+            "humanNumber": "25",
+            "clue": "Dish bound to pong, ending at the front (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "25-across"
+            ],
+            "position": {
+                "x": 7,
+                "y": 12
+            },
+            "separatorLocations": {},
+            "solution": "KEDGEREE"
+        },
+        {
+            "id": "26-across",
+            "number": 26,
+            "humanNumber": "26",
+            "clue": "Still go (4)",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "26-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 14
+            },
+            "separatorLocations": {},
+            "solution": "SHOT"
+        },
+        {
+            "id": "27-across",
+            "number": 27,
+            "humanNumber": "27",
+            "clue": "Great player has to fight in Balkan city (5,4)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "27-across"
+            ],
+            "position": {
+                "x": 5,
+                "y": 14
+            },
+            "separatorLocations": {
+                ",": [
+                    5
+                ]
+            },
+            "solution": "MOVIESTAR"
+        },
+        {
+            "id": "1-down",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "\"Punch\" has old material (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "1-down"
+            ],
+            "position": {
+                "x": 1,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "CHINO"
+        },
+        {
+            "id": "2-down",
+            "number": 2,
+            "humanNumber": "2",
+            "clue": "First (which you have to be to win it), one takes nearly everything (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "2-down"
+            ],
+            "position": {
+                "x": 3,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "INITIAL"
+        },
+        {
+            "id": "3-down",
+            "number": 3,
+            "humanNumber": "3",
+            "clue": "More subordinate to a 27? (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "3-down"
+            ],
+            "position": {
+                "x": 5,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "EXTRA"
+        },
+        {
+            "id": "4-down",
+            "number": 4,
+            "humanNumber": "4",
+            "clue": "Fitting a support, large fitting (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "4-down"
+            ],
+            "position": {
+                "x": 7,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "APROPOS"
+        },
+        {
+            "id": "5-down",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "Shift lies with spare trainers (9)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "5-down"
+            ],
+            "position": {
+                "x": 9,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "ESPALIERS"
+        },
+        {
+            "id": "6-down",
+            "number": 6,
+            "humanNumber": "6",
+            "clue": "Use stake to secure fine tangle (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "6-down"
+            ],
+            "position": {
+                "x": 11,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "BENEFIT"
+        },
+        {
+            "id": "7-down",
+            "number": 7,
+            "humanNumber": "7",
+            "clue": "Miners muse over conclusion of Thatcher, appearing superior figure (9)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "7-down"
+            ],
+            "position": {
+                "x": 13,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "NUMERATOR"
+        },
+        {
+            "id": "13-down",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "Pearl divers hit their target, primarily (9)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "13-down"
+            ],
+            "position": {
+                "x": 1,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "THIRTIETH"
+        },
+        {
+            "id": "14-down",
+            "number": 14,
+            "humanNumber": "14",
+            "clue": "Economy at first breaking no record is beginning to mint fresh coinage? (9)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "14-down"
+            ],
+            "position": {
+                "x": 5,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "NEOLOGISM"
+        },
+        {
+            "id": "17-down",
+            "number": 17,
+            "humanNumber": "17",
+            "clue": "Lover of 10, one hitching from Hull, perhaps, heading for Torquay (7,7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "17-down",
+                "20-down"
+            ],
+            "position": {
+                "x": 3,
+                "y": 8
+            },
+            "separatorLocations": {
+                ",": [
+                    7
+                ]
+            },
+            "solution": "HUMBERT"
+        },
+        {
+            "id": "18-down",
+            "number": 18,
+            "humanNumber": "18",
+            "clue": "Writer brings to mouth very fine port (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "18-down"
+            ],
+            "position": {
+                "x": 7,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "NABOKOV"
+        },
+        {
+            "id": "20-down",
+            "number": 20,
+            "humanNumber": "20",
+            "clue": "See 17",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "17-down",
+                "20-down"
+            ],
+            "position": {
+                "x": 11,
+                "y": 8
+            },
+            "separatorLocations": {
+                ",": []
+            },
+            "solution": "HUMBERT"
+        },
+        {
+            "id": "22-down",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "Little thing that bites short dwarf (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "22-down"
+            ],
+            "position": {
+                "x": 9,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "MIDGE"
+        },
+        {
+            "id": "23-down",
+            "number": 23,
+            "humanNumber": "23",
+            "clue": "Downright thin (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "23-down"
+            ],
+            "position": {
+                "x": 13,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "SHEER"
+        }
+    ],
+    "solutionAvailable": true,
+    "dateSolutionAvailable": 1232150400000,
+    "dimensions": {
+        "cols": 15,
+        "rows": 15
+    },
+    "crosswordType": "prize",
+    "instructions": "Click <a href=\"http://image.guardian.co.uk/sys-files/Guardian/documents/2009/01/07/xwPrize100124593.pdf\">here</a> for a printable version of this crossword.",
+    "_gridType": null
+}

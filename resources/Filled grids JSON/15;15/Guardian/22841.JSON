@@ -1,0 +1,513 @@
+{
+    "id": "crosswords/cryptic/22841",
+    "number": 22841,
+    "name": "Cryptic crossword No 22,841",
+    "creator": {
+        "name": "Araucaria",
+        "webUrl": "https://www.theguardian.com/profile/araucaria"
+    },
+    "date": 1053993600000,
+    "webPublicationDate": 1053990000000,
+    "entries": [
+        {
+            "id": "4-across",
+            "number": 4,
+            "humanNumber": "4",
+            "clue": "Engaged with reporter's stronghold (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "4-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "FOUGHT"
+        },
+        {
+            "id": "6-across",
+            "number": 6,
+            "humanNumber": "6",
+            "clue": "See 13 (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "13-down",
+                "6-across"
+            ],
+            "position": {
+                "x": 7,
+                "y": 1
+            },
+            "separatorLocations": {
+                ",": [
+                    2
+                ]
+            },
+            "solution": "OFHEALTH"
+        },
+        {
+            "id": "9-across",
+            "number": 9,
+            "humanNumber": "9",
+            "clue": "Very brief support (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "9-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 3
+            },
+            "separatorLocations": {},
+            "solution": "SECOND"
+        },
+        {
+            "id": "10-across",
+            "number": 10,
+            "humanNumber": "10",
+            "clue": "Soviet leader to fall within a month (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "10-across"
+            ],
+            "position": {
+                "x": 7,
+                "y": 3
+            },
+            "separatorLocations": {},
+            "solution": "ANDROPOV"
+        },
+        {
+            "id": "11-across",
+            "number": 11,
+            "humanNumber": "11",
+            "clue": "Same changes in time and money to swallow (5,6)",
+            "direction": "across",
+            "length": 11,
+            "group": [
+                "11-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 5
+            },
+            "separatorLocations": {
+                ",": [
+                    5
+                ]
+            },
+            "solution": "HOUSEMARTIN"
+        },
+        {
+            "id": "15-across",
+            "number": 15,
+            "humanNumber": "15",
+            "clue": "See 1 (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "1-down",
+                "15-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 7
+            },
+            "separatorLocations": {
+                ",": [
+                    5,
+                    7
+                ]
+            },
+            "solution": "WOULDBE"
+        },
+        {
+            "id": "17-across",
+            "number": 17,
+            "humanNumber": "17",
+            "clue": "Inside - almost outside - the front page is lacking in taste (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "17-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "INSIPID"
+        },
+        {
+            "id": "18-across",
+            "number": 18,
+            "humanNumber": "18",
+            "clue": "Unusually vigorous work of a model student in Greece (11)",
+            "direction": "across",
+            "length": 11,
+            "group": [
+                "18-across"
+            ],
+            "position": {
+                "x": 4,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "EMERGETICAL"
+        },
+        {
+            "id": "22-across",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "Greek island sound with Method actors on the move (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "22-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "ROADSHOW"
+        },
+        {
+            "id": "23-across",
+            "number": 23,
+            "humanNumber": "23",
+            "clue": "How much for a horse? (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "23-across"
+            ],
+            "position": {
+                "x": 9,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "AMOUNT"
+        },
+        {
+            "id": "24-across",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "Hustling needed to get heater (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "24-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 13
+            },
+            "separatorLocations": {},
+            "solution": "SUNLIGHT"
+        },
+        {
+            "id": "25-across",
+            "number": 25,
+            "humanNumber": "25",
+            "clue": "Half 19 having a peep at you (revised version) (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "25-across"
+            ],
+            "position": {
+                "x": 9,
+                "y": 13
+            },
+            "separatorLocations": {},
+            "solution": "VOYEUR"
+        },
+        {
+            "id": "1-down",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "Risk a penalty without aspiring to be slim and good? Impossible! (6,5,2,1,4,5)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "1-down",
+                "15-across"
+            ],
+            "position": {
+                "x": 4,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    6
+                ]
+            },
+            "solution": "CHANCE"
+        },
+        {
+            "id": "2-down",
+            "number": 2,
+            "humanNumber": "2",
+            "clue": "See1 (1,4,5)",
+            "direction": "down",
+            "length": 10,
+            "group": [
+                "2-down"
+            ],
+            "position": {
+                "x": 8,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    1,
+                    5
+                ]
+            },
+            "solution": "AFINETHING"
+        },
+        {
+            "id": "3-down",
+            "number": 3,
+            "humanNumber": "3",
+            "clue": "Directions in heraldry (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "3-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "BEARINGS"
+        },
+        {
+            "id": "4-down",
+            "number": 4,
+            "humanNumber": "4",
+            "clue": "Seek compliments and purchaser for recovered raptor (4,4)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "4-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 1
+            },
+            "separatorLocations": {
+                ",": [
+                    4
+                ]
+            },
+            "solution": "FISHHAWK"
+        },
+        {
+            "id": "5-down",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "Greasy hook lifted out to be inserted (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "5-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "UNCTUOUS"
+        },
+        {
+            "id": "7-down",
+            "number": 7,
+            "humanNumber": "7",
+            "clue": "Take long strides to cut-off point (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "7-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "LOPE"
+        },
+        {
+            "id": "8-down",
+            "number": 8,
+            "humanNumber": "8",
+            "clue": "Construct a heaven for people who are puzzling to an establishment that keeps them at a little distance and see what's in it for you (4,2,3,2,3,4,6)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "8-down",
+                "21-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 1
+            },
+            "separatorLocations": {
+                ",": [
+                    4
+                ]
+            },
+            "solution": "HAVE"
+        },
+        {
+            "id": "12-down",
+            "number": 12,
+            "humanNumber": "12",
+            "clue": "See 8 (10)",
+            "direction": "down",
+            "length": 10,
+            "group": [
+                "8-down",
+                "12-down"
+            ],
+            "position": {
+                "x": 6,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "ANEYETOTHE"
+        },
+        {
+            "id": "13-down",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "Beekeeping (apart from mid-July with nothing to half the effect) is blooming (1,7,2,6)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "13-down",
+                "6-across"
+            ],
+            "position": {
+                "x": 12,
+                "y": 6
+            },
+            "separatorLocations": {
+                ",": [
+                    1,
+                    8
+                ]
+            },
+            "solution": "APICTURE"
+        },
+        {
+            "id": "14-down",
+            "number": 14,
+            "humanNumber": "14",
+            "clue": "I'm on my knees and my performance is deferred (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "14-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "IDOLATER"
+        },
+        {
+            "id": "16-down",
+            "number": 16,
+            "humanNumber": "16",
+            "clue": "Hide from horned beast (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "16-down"
+            ],
+            "position": {
+                "x": 4,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "DEERSKIN"
+        },
+        {
+            "id": "19-down",
+            "number": 19,
+            "humanNumber": "19",
+            "clue": "Drum generated by piper? (3-3)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "19-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 9
+            },
+            "separatorLocations": {
+                "-": [
+                    3
+                ]
+            },
+            "solution": "TOMTOM"
+        },
+        {
+            "id": "20-down",
+            "number": 20,
+            "humanNumber": "20",
+            "clue": "Members getting their 3? (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "20-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "ARMS"
+        },
+        {
+            "id": "21-down",
+            "number": 21,
+            "humanNumber": "21",
+            "clue": "See 8 (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "8-down",
+                "21-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 10
+            },
+            "separatorLocations": {
+                ",": [
+                    2
+                ]
+            },
+            "solution": "MAIN"
+        }
+    ],
+    "solutionAvailable": true,
+    "dateSolutionAvailable": 1053990000000,
+    "dimensions": {
+        "cols": 15,
+        "rows": 15
+    },
+    "crosswordType": "cryptic",
+    "_gridType": "M33"
+}

@@ -1,0 +1,522 @@
+{
+    "id": "crosswords/cryptic/22313",
+    "number": 22313,
+    "name": "Cryptic crossword No 22,313",
+    "creator": {
+        "name": "Pasquale",
+        "webUrl": "https://www.theguardian.com/profile/pasquale"
+    },
+    "date": 1000339200000,
+    "webPublicationDate": 1000335600000,
+    "entries": [
+        {
+            "id": "1-across",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "Bound to deal with dull hair that lies flat in the boudoir? (6,8)",
+            "direction": "across",
+            "length": 14,
+            "group": [
+                "1-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    6
+                ]
+            },
+            "solution": "SPRINGMATTRESS"
+        },
+        {
+            "id": "9-across",
+            "number": 9,
+            "humanNumber": "9",
+            "clue": "Pub with no parking, no lager - shambolic place for a drink! (6,3)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "9-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 2
+            },
+            "separatorLocations": {
+                ",": [
+                    6
+                ]
+            },
+            "solution": "LOUNGEBAR"
+        },
+        {
+            "id": "10-across",
+            "number": 10,
+            "humanNumber": "10",
+            "clue": "Irrefutable findings from staff in a laboratory (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "10-across"
+            ],
+            "position": {
+                "x": 10,
+                "y": 2
+            },
+            "separatorLocations": {},
+            "solution": "FINAL"
+        },
+        {
+            "id": "11-across",
+            "number": 11,
+            "humanNumber": "11",
+            "clue": "Expert in a small part of the company (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "11-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 4
+            },
+            "separatorLocations": {},
+            "solution": "ADEPT"
+        },
+        {
+            "id": "12-across",
+            "number": 12,
+            "humanNumber": "12",
+            "clue": "Girl's mood conveyed in paint (9)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "12-across"
+            ],
+            "position": {
+                "x": 6,
+                "y": 4
+            },
+            "separatorLocations": {},
+            "solution": "DISTEMPER"
+        },
+        {
+            "id": "13-across",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "Ship seen in channel around spring (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "13-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "DISPATCH"
+        },
+        {
+            "id": "14-across",
+            "number": 14,
+            "humanNumber": "14",
+            "clue": "Stop army male becoming aggressive little fellow? (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "14-across"
+            ],
+            "position": {
+                "x": 9,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "BANTAM"
+        },
+        {
+            "id": "17-across",
+            "number": 17,
+            "humanNumber": "17",
+            "clue": "King's one overthrown in modern republic (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "17-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "ISRAEL"
+        },
+        {
+            "id": "19-across",
+            "number": 19,
+            "humanNumber": "19",
+            "clue": "Savage, being sorrowful, is twitching (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "19-across"
+            ],
+            "position": {
+                "x": 7,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "SADISTIC"
+        },
+        {
+            "id": "22-across",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "Glee about foreign character's attempt to imitate someone good? (9)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "22-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "EMULATION"
+        },
+        {
+            "id": "24-across",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "Thick-skinned type in Augustine's home (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "24-across"
+            ],
+            "position": {
+                "x": 10,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "HIPPO"
+        },
+        {
+            "id": "25-across",
+            "number": 25,
+            "humanNumber": "25",
+            "clue": "Cause to feel embarrassed in a social event (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "25-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 12
+            },
+            "separatorLocations": {},
+            "solution": "ABASH"
+        },
+        {
+            "id": "26-across",
+            "number": 26,
+            "humanNumber": "26",
+            "clue": "A country boy about to embrace a spiritual leader (5,4)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "26-across"
+            ],
+            "position": {
+                "x": 6,
+                "y": 12
+            },
+            "separatorLocations": {
+                ",": [
+                    5
+                ]
+            },
+            "solution": "DALAILAMA"
+        },
+        {
+            "id": "27-across",
+            "number": 27,
+            "humanNumber": "27",
+            "clue": "Foremost of impressionists in Tate deserving somehow to be looked at again (14)",
+            "direction": "across",
+            "length": 14,
+            "group": [
+                "27-across"
+            ],
+            "position": {
+                "x": 1,
+                "y": 14
+            },
+            "separatorLocations": {},
+            "solution": "REINVESTIGATED"
+        },
+        {
+            "id": "1-down",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "Vandals tearing apart items in fast-food outlet (4,3,7)",
+            "direction": "down",
+            "length": 14,
+            "group": [
+                "1-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    4,
+                    7
+                ]
+            },
+            "solution": "SALTANDVINEGAR"
+        },
+        {
+            "id": "2-down",
+            "number": 2,
+            "humanNumber": "2",
+            "clue": "True stories neglected - so it possibly may not be the agency (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "2-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "REUTERS"
+        },
+        {
+            "id": "3-down",
+            "number": 3,
+            "humanNumber": "3",
+            "clue": "Not wanting say to be stifled, I had to discuss terms (9)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "3-down"
+            ],
+            "position": {
+                "x": 4,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "NEGOTIATE"
+        },
+        {
+            "id": "4-down",
+            "number": 4,
+            "humanNumber": "4",
+            "clue": "Man hides disgusting body - a huge white flabby thing? (4,4)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "4-down"
+            ],
+            "position": {
+                "x": 6,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    4
+                ]
+            },
+            "solution": "MOBYDICK"
+        },
+        {
+            "id": "5-down",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "The short run made by one in flight? (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "5-down"
+            ],
+            "position": {
+                "x": 8,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "THRUSH"
+        },
+        {
+            "id": "6-down",
+            "number": 6,
+            "humanNumber": "6",
+            "clue": "Gun left buried in common (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "6-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "RIFLE"
+        },
+        {
+            "id": "7-down",
+            "number": 7,
+            "humanNumber": "7",
+            "clue": "In which one sees gritty performances from youngsters? (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "7-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "SANDPIT"
+        },
+        {
+            "id": "8-down",
+            "number": 8,
+            "humanNumber": "8",
+            "clue": "Heroine from clan of old with drama unfolding (5,9)",
+            "direction": "down",
+            "length": 14,
+            "group": [
+                "8-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 1
+            },
+            "separatorLocations": {
+                ",": [
+                    5
+                ]
+            },
+            "solution": "FLORAMACDONALD"
+        },
+        {
+            "id": "15-down",
+            "number": 15,
+            "humanNumber": "15",
+            "clue": "A lamp at home hangs above grand landing (9)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "15-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "ALIGHTING"
+        },
+        {
+            "id": "16-down",
+            "number": 16,
+            "humanNumber": "16",
+            "clue": "It's taken up as a challenge, but it''s punishing for runners (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "16-down"
+            ],
+            "position": {
+                "x": 8,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "GAUNTLET"
+        },
+        {
+            "id": "18-down",
+            "number": 18,
+            "humanNumber": "18",
+            "clue": "Debauched man eating boy's food (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "18-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "ROULADE"
+        },
+        {
+            "id": "20-down",
+            "number": 20,
+            "humanNumber": "20",
+            "clue": "In tribute, Blair gives high-level support for sailors (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "20-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "TOPMAST"
+        },
+        {
+            "id": "21-down",
+            "number": 21,
+            "humanNumber": "21",
+            "clue": "Theologian exposed in papers as cheat (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "21-down"
+            ],
+            "position": {
+                "x": 6,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "FIDDLE"
+        },
+        {
+            "id": "23-down",
+            "number": 23,
+            "humanNumber": "23",
+            "clue": "Like tree drained of colour? (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "23-down"
+            ],
+            "position": {
+                "x": 4,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "ASHEN"
+        }
+    ],
+    "solutionAvailable": true,
+    "dateSolutionAvailable": 1000335600000,
+    "dimensions": {
+        "cols": 15,
+        "rows": 15
+    },
+    "crosswordType": "cryptic",
+    "_gridType": "M04"
+}

@@ -1,0 +1,521 @@
+{
+    "id": "crosswords/cryptic/23929",
+    "number": 23929,
+    "name": "Cryptic crossword No 23,929",
+    "creator": {
+        "name": "Paul",
+        "webUrl": "https://www.theguardian.com/profile/paul"
+    },
+    "date": 1164067200000,
+    "webPublicationDate": 1164067200000,
+    "entries": [
+        {
+            "id": "1-across",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "Seize greeting card! (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "1-across"
+            ],
+            "position": {
+                "x": 1,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "HIJACK"
+        },
+        {
+            "id": "4-across",
+            "number": 4,
+            "humanNumber": "4",
+            "clue": "Buy shares, perhaps, though seen to have lost shirt? (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "4-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "INVEST"
+        },
+        {
+            "id": "9-across",
+            "number": 9,
+            "humanNumber": "9",
+            "clue": "Neither radio nor wireless! (5,10)",
+            "direction": "across",
+            "length": 15,
+            "group": [
+                "9-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 2
+            },
+            "separatorLocations": {
+                ",": [
+                    5
+                ]
+            },
+            "solution": "CABLETELEVISION"
+        },
+        {
+            "id": "10-across",
+            "number": 10,
+            "humanNumber": "10",
+            "clue": "Funny Peter appearing in dictionary, it's granted (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "10-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 4
+            },
+            "separatorLocations": {},
+            "solution": "OKAYED"
+        },
+        {
+            "id": "11-across",
+            "number": 11,
+            "humanNumber": "11",
+            "clue": "Boobs on page three, perhaps (8,6)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "11-across",
+                "26-across"
+            ],
+            "position": {
+                "x": 7,
+                "y": 4
+            },
+            "separatorLocations": {
+                ",": [
+                    8
+                ]
+            },
+            "solution": "PRINTING"
+        },
+        {
+            "id": "12-across",
+            "number": 12,
+            "humanNumber": "12",
+            "clue": "Girl approaches university friend every so often (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "12-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "ANNUALLY"
+        },
+        {
+            "id": "14-across",
+            "number": 14,
+            "humanNumber": "14",
+            "clue": "With less fat, pound off stew (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "14-across"
+            ],
+            "position": {
+                "x": 9,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "SIMMER"
+        },
+        {
+            "id": "15-across",
+            "number": 15,
+            "humanNumber": "15",
+            "clue": "Poor stiff, finished (4,2)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "15-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 8
+            },
+            "separatorLocations": {
+                ",": [
+                    4
+                ]
+            },
+            "solution": "HARDUP"
+        },
+        {
+            "id": "18-across",
+            "number": 18,
+            "humanNumber": "18",
+            "clue": "Heading for drink such as this, sadly (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "18-across"
+            ],
+            "position": {
+                "x": 7,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "DOLOROSO"
+        },
+        {
+            "id": "21-across",
+            "number": 21,
+            "humanNumber": "21",
+            "clue": "Month spent with rogue, popular though cheesy (2,6)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "21-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 10
+            },
+            "separatorLocations": {
+                ",": [
+                    2
+                ]
+            },
+            "solution": "AUGRATIN"
+        },
+        {
+            "id": "22-across",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "Festival axes a lot of stars (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "22-across"
+            ],
+            "position": {
+                "x": 9,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "GALAXY"
+        },
+        {
+            "id": "24-across",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "Bizarre finale to paint nudes pistachio green (15)",
+            "direction": "across",
+            "length": 15,
+            "group": [
+                "24-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 12
+            },
+            "separatorLocations": {},
+            "solution": "UNSOPHISTICATED"
+        },
+        {
+            "id": "25-across",
+            "number": 25,
+            "humanNumber": "25",
+            "clue": "Joggers get so horribly wet, say (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "25-across"
+            ],
+            "position": {
+                "x": 1,
+                "y": 14
+            },
+            "separatorLocations": {},
+            "solution": "SWEATY"
+        },
+        {
+            "id": "26-across",
+            "number": 26,
+            "humanNumber": "26",
+            "clue": "See 11",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "11-across",
+                "26-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 14
+            },
+            "separatorLocations": {
+                ",": []
+            },
+            "solution": "ERRORS"
+        },
+        {
+            "id": "1-down",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "Attend to layer protecting English ship (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "1-down"
+            ],
+            "position": {
+                "x": 1,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "HEARKEN"
+        },
+        {
+            "id": "2-down",
+            "number": 2,
+            "humanNumber": "2",
+            "clue": "Very happy (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "2-down"
+            ],
+            "position": {
+                "x": 3,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "JOLLY"
+        },
+        {
+            "id": "3-down",
+            "number": 3,
+            "humanNumber": "3",
+            "clue": "Quote about promotion supported by Leninite leader in the Kremlin (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "3-down"
+            ],
+            "position": {
+                "x": 5,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "CITADEL"
+        },
+        {
+            "id": "5-down",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "The labourers in front set up contests (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "5-down"
+            ],
+            "position": {
+                "x": 9,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "NAVVIES"
+        },
+        {
+            "id": "6-down",
+            "number": 6,
+            "humanNumber": "6",
+            "clue": "I matter, so poor a country (4,5)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "6-down"
+            ],
+            "position": {
+                "x": 11,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    4
+                ]
+            },
+            "solution": "EASTTIMOR"
+        },
+        {
+            "id": "7-down",
+            "number": 7,
+            "humanNumber": "7",
+            "clue": "Oz following on after opener in test gaining runs, bringing defeat (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "7-down"
+            ],
+            "position": {
+                "x": 13,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "TROUNCE"
+        },
+        {
+            "id": "8-down",
+            "number": 8,
+            "humanNumber": "8",
+            "clue": "Careless to cut into eye (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "8-down"
+            ],
+            "position": {
+                "x": 7,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "SLOPPY"
+        },
+        {
+            "id": "13-down",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "Where teeth filed, one finds hidden colour (9)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "13-down"
+            ],
+            "position": {
+                "x": 3,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "UNDERTONE"
+        },
+        {
+            "id": "16-down",
+            "number": 16,
+            "humanNumber": "16",
+            "clue": "He's studied what blows smoke through hole (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "16-down"
+            ],
+            "position": {
+                "x": 1,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "ALUMNUS"
+        },
+        {
+            "id": "17-down",
+            "number": 17,
+            "humanNumber": "17",
+            "clue": "Injection of drug? Crack (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "17-down"
+            ],
+            "position": {
+                "x": 5,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "POTSHOT"
+        },
+        {
+            "id": "18-down",
+            "number": 18,
+            "humanNumber": "18",
+            "clue": "European was obliged to admit crime, suffering fate of Mussolini? (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "18-down"
+            ],
+            "position": {
+                "x": 7,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "DANISH"
+        },
+        {
+            "id": "19-down",
+            "number": 19,
+            "humanNumber": "19",
+            "clue": "Oval object that is secured by both sides with longer pins (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "19-down"
+            ],
+            "position": {
+                "x": 9,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "LEGGIER"
+        },
+        {
+            "id": "20-down",
+            "number": 20,
+            "humanNumber": "20",
+            "clue": "Son in first relationship, but still a virgin? (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "20-down"
+            ],
+            "position": {
+                "x": 13,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "SEXLESS"
+        },
+        {
+            "id": "23-down",
+            "number": 23,
+            "humanNumber": "23",
+            "clue": "Some diagonal lines drawn up, it's plain to see (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "23-down"
+            ],
+            "position": {
+                "x": 11,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "LLANO"
+        }
+    ],
+    "solutionAvailable": true,
+    "dateSolutionAvailable": 1164067200000,
+    "dimensions": {
+        "cols": 15,
+        "rows": 15
+    },
+    "crosswordType": "cryptic",
+    "_gridType": "M32"
+}

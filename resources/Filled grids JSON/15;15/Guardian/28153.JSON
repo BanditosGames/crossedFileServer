@@ -1,0 +1,615 @@
+{
+    "id": "crosswords/prize/28153",
+    "number": 28153,
+    "name": "Prize crossword No 28,153",
+    "creator": {
+        "name": "Paul",
+        "webUrl": "https://www.theguardian.com/profile/paul"
+    },
+    "date": 1591401600000,
+    "webPublicationDate": 1591398006000,
+    "entries": [
+        {
+            "id": "9-across",
+            "number": 9,
+            "humanNumber": "9",
+            "clue": "Hearts, say, fit: officer leads (5,4)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "9-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 1
+            },
+            "separatorLocations": {
+                ",": [
+                    5
+                ]
+            },
+            "solution": "MAJORSUIT"
+        },
+        {
+            "id": "10-across",
+            "number": 10,
+            "humanNumber": "10",
+            "clue": "See 22",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "22-across",
+                "10-across"
+            ],
+            "position": {
+                "x": 10,
+                "y": 1
+            },
+            "separatorLocations": {
+                ",": [
+                    1
+                ]
+            },
+            "solution": "AHOPE"
+        },
+        {
+            "id": "11-across",
+            "number": 11,
+            "humanNumber": "11",
+            "clue": "Band that's tough is flipping fresh (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "11-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 3
+            },
+            "separatorLocations": {},
+            "solution": "SINEW"
+        },
+        {
+            "id": "12-across",
+            "number": 12,
+            "humanNumber": "12",
+            "clue": "Secretly at home, soldier (2,7)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "12-across"
+            ],
+            "position": {
+                "x": 6,
+                "y": 3
+            },
+            "separatorLocations": {
+                ",": [
+                    2
+                ]
+            },
+            "solution": "INPRIVATE"
+        },
+        {
+            "id": "13-across",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "Top revolver (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "13-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "SPINNER"
+        },
+        {
+            "id": "14-across",
+            "number": 14,
+            "humanNumber": "14",
+            "clue": "Relative aboard vessel, drifter (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "14-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "VAGRANT"
+        },
+        {
+            "id": "17-across",
+            "number": 17,
+            "humanNumber": "17",
+            "clue": "One with endless despair in White House (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "17-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "IGLOO"
+        },
+        {
+            "id": "19-across",
+            "number": 19,
+            "humanNumber": "19, 24",
+            "clue": " Lament, from this day even, bearing loss (3,3,6)",
+            "direction": "across",
+            "length": 3,
+            "group": [
+                "19-across",
+                "24-across"
+            ],
+            "position": {
+                "x": 6,
+                "y": 7
+            },
+            "separatorLocations": {
+                ",": [
+                    3
+                ]
+            },
+            "solution": "FOR"
+        },
+        {
+            "id": "20-across",
+            "number": 20,
+            "humanNumber": "20",
+            "clue": "Compare similar types caught by mine, killed when thrown back (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "20-across"
+            ],
+            "position": {
+                "x": 10,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "LIKEN"
+        },
+        {
+            "id": "21-across",
+            "number": 21,
+            "humanNumber": "21",
+            "clue": "Might one be posted to cover defensive walls amidst rifle shot? (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "21-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "FIELDER"
+        },
+        {
+            "id": "22-across",
+            "number": 22,
+            "humanNumber": "22, 10",
+            "clue": " Character on 28 in band, one ultimately doomed (7,1,4)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "22-across",
+                "10-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 9
+            },
+            "separatorLocations": {
+                ",": [
+                    7
+                ]
+            },
+            "solution": "WITHOUT"
+        },
+        {
+            "id": "24-across",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "See 19",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "19-across",
+                "24-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 11
+            },
+            "separatorLocations": {
+                ",": [
+                    3
+                ]
+            },
+            "solution": "THEFALLEN"
+        },
+        {
+            "id": "26-across",
+            "number": 26,
+            "humanNumber": "26",
+            "clue": "Recollection of first of explosions sounding intolerable, over Normandy? (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "26-across"
+            ],
+            "position": {
+                "x": 10,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "NOISE"
+        },
+        {
+            "id": "28-across",
+            "number": 28,
+            "humanNumber": "28",
+            "clue": "Noted German advance finally stops \u2014 here? (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "28-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 13
+            },
+            "separatorLocations": {},
+            "solution": "BEACH"
+        },
+        {
+            "id": "29-across",
+            "number": 29,
+            "humanNumber": "29",
+            "clue": "This sign marking 24 across partially coinciding with 28 (9)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "29-across"
+            ],
+            "position": {
+                "x": 6,
+                "y": 13
+            },
+            "separatorLocations": {},
+            "solution": "CROSSWORD"
+        },
+        {
+            "id": "1-down",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "He prophesied awesome men of steel, leaders all (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "1-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "AMOS"
+        },
+        {
+            "id": "2-down",
+            "number": 2,
+            "humanNumber": "2",
+            "clue": "Starts to delight Jack in drinking local spirit (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "2-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "DJINNI"
+        },
+        {
+            "id": "3-down",
+            "number": 3,
+            "humanNumber": "3",
+            "clue": "Line entering trap on 28 \u2014 experience missed 19 24 (7,3)",
+            "direction": "down",
+            "length": 10,
+            "group": [
+                "3-down"
+            ],
+            "position": {
+                "x": 4,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    7
+                ]
+            },
+            "solution": "GROWINGOLD"
+        },
+        {
+            "id": "4-down",
+            "number": 4,
+            "humanNumber": "4",
+            "clue": "One overwhelmed by 28 horror ultimately \u2014 one so young (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "4-down"
+            ],
+            "position": {
+                "x": 6,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "JUNIOR"
+        },
+        {
+            "id": "5-down",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "Die: finished in resting place (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "5-down"
+            ],
+            "position": {
+                "x": 8,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "STOPOVER"
+        },
+        {
+            "id": "6-down",
+            "number": 6,
+            "humanNumber": "6",
+            "clue": "Mark fighter for country (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "6-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "MALI"
+        },
+        {
+            "id": "7-down",
+            "number": 7,
+            "humanNumber": "7",
+            "clue": "Weapon ending in dirt on 28, work for evacuation? (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "7-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "TOMAHAWK"
+        },
+        {
+            "id": "8-down",
+            "number": 8,
+            "humanNumber": "8",
+            "clue": "Where D-Day remembered in the requiem (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "8-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "HERE"
+        },
+        {
+            "id": "13-down",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "Runner, very strong little boat (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "13-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "SKIFF"
+        },
+        {
+            "id": "15-down",
+            "number": 15,
+            "humanNumber": "15",
+            "clue": "Character standing upright in battered line: stage set (10)",
+            "direction": "down",
+            "length": 10,
+            "group": [
+                "15-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "GELATINISE"
+        },
+        {
+            "id": "16-down",
+            "number": 16,
+            "humanNumber": "16",
+            "clue": "Belief: it could go either way (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "16-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "TENET"
+        },
+        {
+            "id": "18-down",
+            "number": 18,
+            "humanNumber": "18",
+            "clue": "Main elegy almost unnatural for loyal old chap (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "18-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "LIEGEMAN"
+        },
+        {
+            "id": "19-down",
+            "number": 19,
+            "humanNumber": "19",
+            "clue": "Army getting to grips with something raw \u2014 that's hairy (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "19-down"
+            ],
+            "position": {
+                "x": 6,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "FORELOCK"
+        },
+        {
+            "id": "22-down",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "Pale fashion abandoned (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "22-down"
+            ],
+            "position": {
+                "x": 8,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "WANTON"
+        },
+        {
+            "id": "23-down",
+            "number": 23,
+            "humanNumber": "23",
+            "clue": "Supporting other ranks, I issue prayer (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "23-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "ORISON"
+        },
+        {
+            "id": "24-down",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "Brass shown by neighbour emerging from the depths? (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "24-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "TUBA"
+        },
+        {
+            "id": "25-down",
+            "number": 25,
+            "humanNumber": "25",
+            "clue": "Hurt in store, heading off (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "25-down"
+            ],
+            "position": {
+                "x": 4,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "ACHE"
+        },
+        {
+            "id": "27-down",
+            "number": 27,
+            "humanNumber": "27",
+            "clue": "Objectives in decisive operation achieved, heroes every one in conclusion (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "27-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "ENDS"
+        }
+    ],
+    "solutionAvailable": true,
+    "dateSolutionAvailable": 1592002800000,
+    "dimensions": {
+        "cols": 15,
+        "rows": 15
+    },
+    "crosswordType": "prize",
+    "pdf": "https://crosswords-static.guim.co.uk/gdn.cryptic.20200606.pdf",
+    "_gridType": "M54a"
+}

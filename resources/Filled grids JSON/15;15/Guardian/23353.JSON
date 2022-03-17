@@ -1,0 +1,471 @@
+{
+    "id": "crosswords/cryptic/23353",
+    "number": 23353,
+    "name": "Cryptic crossword No 23,353",
+    "creator": {
+        "name": "Audreus",
+        "webUrl": "https://www.theguardian.com/profile/audreus"
+    },
+    "date": 1105920000000,
+    "webPublicationDate": 1105920000000,
+    "entries": [
+        {
+            "id": "4-across",
+            "number": 4,
+            "humanNumber": "4",
+            "clue": "The one who pulls back gets the thanks (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "4-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "REWARD"
+        },
+        {
+            "id": "6-across",
+            "number": 6,
+            "humanNumber": "6",
+            "clue": "Gossip on board? They'll follow relentlessly (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "6-across"
+            ],
+            "position": {
+                "x": 7,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "STALKERS"
+        },
+        {
+            "id": "9-across",
+            "number": 9,
+            "humanNumber": "9",
+            "clue": "Neckwear retrieved from a central location (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "9-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 3
+            },
+            "separatorLocations": {},
+            "solution": "COLLAR"
+        },
+        {
+            "id": "10-across",
+            "number": 10,
+            "humanNumber": "10",
+            "clue": "Wisdom thus exemplified: how silly (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "10-across"
+            ],
+            "position": {
+                "x": 7,
+                "y": 3
+            },
+            "separatorLocations": {},
+            "solution": "OWLISHLY"
+        },
+        {
+            "id": "11-across",
+            "number": 11,
+            "humanNumber": "11",
+            "clue": "Mishap to go round after work: devise steps to be taken (11)",
+            "direction": "across",
+            "length": 11,
+            "group": [
+                "11-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "CHOREOGRAPH"
+        },
+        {
+            "id": "15-across",
+            "number": 15,
+            "humanNumber": "15",
+            "clue": "Chucker-out to dismiss soldiers (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "15-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "EJECTOR"
+        },
+        {
+            "id": "17-across",
+            "number": 17,
+            "humanNumber": "17",
+            "clue": "Aperture for skeleton? (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "17-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "KEYHOLE"
+        },
+        {
+            "id": "18-across",
+            "number": 18,
+            "humanNumber": "18",
+            "clue": "Sherry party? After all, I am not whacked (11)",
+            "direction": "across",
+            "length": 11,
+            "group": [
+                "18-across"
+            ],
+            "position": {
+                "x": 4,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "AMONTILLADO"
+        },
+        {
+            "id": "22-across",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "Little draughts - that's about the end! (4-4)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "22-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 11
+            },
+            "separatorLocations": {
+                "-": [
+                    4
+                ]
+            },
+            "solution": "PINTSIZE"
+        },
+        {
+            "id": "23-across",
+            "number": 23,
+            "humanNumber": "23",
+            "clue": "Forgiveness is even academic (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "23-across"
+            ],
+            "position": {
+                "x": 9,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "PARDON"
+        },
+        {
+            "id": "24-across",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "Learner with record pile slipped (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "24-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 13
+            },
+            "separatorLocations": {},
+            "solution": "DISCIPLE"
+        },
+        {
+            "id": "25-across",
+            "number": 25,
+            "humanNumber": "25",
+            "clue": "Remained sober, I'm told (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "25-across"
+            ],
+            "position": {
+                "x": 9,
+                "y": 13
+            },
+            "separatorLocations": {},
+            "solution": "STAYED"
+        },
+        {
+            "id": "1-down",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "Old king's comfort, being fat! (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "1-down"
+            ],
+            "position": {
+                "x": 4,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "GREASE"
+        },
+        {
+            "id": "2-down",
+            "number": 2,
+            "humanNumber": "2",
+            "clue": "Wot's up? Rossers catch the old floater in Suffolk (10)",
+            "direction": "down",
+            "length": 10,
+            "group": [
+                "2-down"
+            ],
+            "position": {
+                "x": 8,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "STOWMARKET"
+        },
+        {
+            "id": "3-down",
+            "number": 3,
+            "humanNumber": "3",
+            "clue": "Nearly all power unknown is invincible (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "3-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "ALMIGHTY"
+        },
+        {
+            "id": "4-down",
+            "number": 4,
+            "humanNumber": "4",
+            "clue": "Rebound of echo: trick endlessly played (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "4-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "RICOCHET"
+        },
+        {
+            "id": "5-down",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "Bridge? It's easy! (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "5-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "WALKOVER"
+        },
+        {
+            "id": "7-down",
+            "number": 7,
+            "humanNumber": "7",
+            "clue": "Follow precedent in the City house (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "7-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "ECHO"
+        },
+        {
+            "id": "8-down",
+            "number": 8,
+            "humanNumber": "8",
+            "clue": "Say nothing to curdle the sauce (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "8-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "SOYA"
+        },
+        {
+            "id": "12-down",
+            "number": 12,
+            "humanNumber": "12",
+            "clue": "Ugly woman writer served with biscuits? (10)",
+            "direction": "down",
+            "length": 10,
+            "group": [
+                "12-down"
+            ],
+            "position": {
+                "x": 6,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "GORGONZOLA"
+        },
+        {
+            "id": "13-down",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "Man of the theatre once with introductions to young lady turning up in yellow (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "13-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "COWARDLY"
+        },
+        {
+            "id": "14-down",
+            "number": 14,
+            "humanNumber": "14",
+            "clue": "Celebrated part of speech heard during run up-river (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "14-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "RENOWNED"
+        },
+        {
+            "id": "16-down",
+            "number": 16,
+            "humanNumber": "16",
+            "clue": "Run through team of loud Poles painting all over (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "16-down"
+            ],
+            "position": {
+                "x": 4,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "TRANSFIX"
+        },
+        {
+            "id": "19-down",
+            "number": 19,
+            "humanNumber": "19",
+            "clue": "Shed a little off the perpendicular? (4-2)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "19-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 9
+            },
+            "separatorLocations": {
+                "-": [
+                    4
+                ]
+            },
+            "solution": "LEANTO"
+        },
+        {
+            "id": "20-down",
+            "number": 20,
+            "humanNumber": "20",
+            "clue": "Copied for beginners to add page each day (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "20-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "APED"
+        },
+        {
+            "id": "21-down",
+            "number": 21,
+            "humanNumber": "21",
+            "clue": "Make love at sun-up? It's serious (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "21-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "ONUS"
+        }
+    ],
+    "solutionAvailable": true,
+    "dateSolutionAvailable": 1105920000000,
+    "dimensions": {
+        "cols": 15,
+        "rows": 15
+    },
+    "crosswordType": "cryptic",
+    "_gridType": "M33"
+}

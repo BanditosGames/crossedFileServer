@@ -1,0 +1,522 @@
+{
+    "id": "crosswords/cryptic/24630",
+    "number": 24630,
+    "name": "Cryptic crossword No 24,630",
+    "creator": {
+        "name": "Rufus",
+        "webUrl": "https://www.theguardian.com/profile/rufus"
+    },
+    "date": 1235347200000,
+    "webPublicationDate": 1235347200000,
+    "entries": [
+        {
+            "id": "1-across",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "Bed in new seed and provide an account (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "1-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "DESCRIBE"
+        },
+        {
+            "id": "5-across",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "Backing some students is a mistake (4-2)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "5-across"
+            ],
+            "position": {
+                "x": 9,
+                "y": 0
+            },
+            "separatorLocations": {
+                "-": [
+                    4
+                ]
+            },
+            "solution": "SLIPUP"
+        },
+        {
+            "id": "9-across",
+            "number": 9,
+            "humanNumber": "9",
+            "clue": "I'm retiring into an easily managed residence (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "9-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 2
+            },
+            "separatorLocations": {},
+            "solution": "DOMICILE"
+        },
+        {
+            "id": "10-across",
+            "number": 10,
+            "humanNumber": "10",
+            "clue": "A few lines expressing hostility (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "10-across"
+            ],
+            "position": {
+                "x": 9,
+                "y": 2
+            },
+            "separatorLocations": {},
+            "solution": "AVERSE"
+        },
+        {
+            "id": "12-across",
+            "number": 12,
+            "humanNumber": "12",
+            "clue": "Fur on one animal (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "12-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 4
+            },
+            "separatorLocations": {},
+            "solution": "COATI"
+        },
+        {
+            "id": "13-across",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "Extreme sceptics (9)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "13-across"
+            ],
+            "position": {
+                "x": 6,
+                "y": 4
+            },
+            "separatorLocations": {},
+            "solution": "NIHILISTS"
+        },
+        {
+            "id": "14-across",
+            "number": 14,
+            "humanNumber": "14",
+            "clue": "Wide entrance designed for the port, say (4,8)",
+            "direction": "across",
+            "length": 12,
+            "group": [
+                "14-across"
+            ],
+            "position": {
+                "x": 3,
+                "y": 6
+            },
+            "separatorLocations": {
+                ",": [
+                    4
+                ]
+            },
+            "solution": "WINEDECANTER"
+        },
+        {
+            "id": "18-across",
+            "number": 18,
+            "humanNumber": "18",
+            "clue": "Out of sight, out of mind (5,3,4)",
+            "direction": "across",
+            "length": 12,
+            "group": [
+                "18-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 8
+            },
+            "separatorLocations": {
+                ",": [
+                    5,
+                    8
+                ]
+            },
+            "solution": "ROUNDTHEBEND"
+        },
+        {
+            "id": "21-across",
+            "number": 21,
+            "humanNumber": "21",
+            "clue": "Quiet sort of arboreal creature (5,4)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "21-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 10
+            },
+            "separatorLocations": {
+                ",": [
+                    5
+                ]
+            },
+            "solution": "POLARBEAR"
+        },
+        {
+            "id": "23-across",
+            "number": 23,
+            "humanNumber": "23",
+            "clue": "Kid influenced by speech (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "23-across"
+            ],
+            "position": {
+                "x": 10,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "SUEDE"
+        },
+        {
+            "id": "24-across",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "Telephoned about six, sounding furious (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "24-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 12
+            },
+            "separatorLocations": {},
+            "solution": "RAVING"
+        },
+        {
+            "id": "25-across",
+            "number": 25,
+            "humanNumber": "25",
+            "clue": "One claim made where earthly riches are found (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "25-across"
+            ],
+            "position": {
+                "x": 7,
+                "y": 12
+            },
+            "separatorLocations": {},
+            "solution": "COALMINE"
+        },
+        {
+            "id": "26-across",
+            "number": 26,
+            "humanNumber": "26",
+            "clue": "Returning anxiety about a strong-scented herb (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "26-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 14
+            },
+            "separatorLocations": {},
+            "solution": "YARROW"
+        },
+        {
+            "id": "27-across",
+            "number": 27,
+            "humanNumber": "27",
+            "clue": "Iran says it's uneasy with an ancient neighbour (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "27-across"
+            ],
+            "position": {
+                "x": 7,
+                "y": 14
+            },
+            "separatorLocations": {},
+            "solution": "ASSYRIAN"
+        },
+        {
+            "id": "1-down",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "Conclude the meeting of French and Italian leader (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "1-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "DEDUCE"
+        },
+        {
+            "id": "2-down",
+            "number": 2,
+            "humanNumber": "2",
+            "clue": "Bridge seen around morning from boat (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "2-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "SAMPAN"
+        },
+        {
+            "id": "3-down",
+            "number": 3,
+            "humanNumber": "3",
+            "clue": "Cured by certified doctor (9)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "3-down"
+            ],
+            "position": {
+                "x": 4,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "RECTIFIED"
+        },
+        {
+            "id": "4-down",
+            "number": 4,
+            "humanNumber": "4",
+            "clue": "He sent a cable setting out financial position (7,5)",
+            "direction": "down",
+            "length": 12,
+            "group": [
+                "4-down"
+            ],
+            "position": {
+                "x": 6,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    7
+                ]
+            },
+            "solution": "BALANCESHEET"
+        },
+        {
+            "id": "6-down",
+            "number": 6,
+            "humanNumber": "6",
+            "clue": "Up or down it is neither (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "6-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "LEVEL"
+        },
+        {
+            "id": "7-down",
+            "number": 7,
+            "humanNumber": "7",
+            "clue": "The ruination of parties a sprig of mistletoe can be (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "7-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "PARASITE"
+        },
+        {
+            "id": "8-down",
+            "number": 8,
+            "humanNumber": "8",
+            "clue": "Request written with certain satisfaction (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "8-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "PLEASURE"
+        },
+        {
+            "id": "11-down",
+            "number": 11,
+            "humanNumber": "11",
+            "clue": "Spin on local disputes will carry weight (12)",
+            "direction": "down",
+            "length": 12,
+            "group": [
+                "11-down"
+            ],
+            "position": {
+                "x": 8,
+                "y": 3
+            },
+            "separatorLocations": {},
+            "solution": "WHEELBARROWS"
+        },
+        {
+            "id": "15-down",
+            "number": 15,
+            "humanNumber": "15",
+            "clue": "Female that's a fair target, relatively speaking? (4,5)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "15-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 6
+            },
+            "separatorLocations": {
+                ",": [
+                    4
+                ]
+            },
+            "solution": "AUNTSALLY"
+        },
+        {
+            "id": "16-down",
+            "number": 16,
+            "humanNumber": "16",
+            "clue": "Quality homes (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "16-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "PROPERTY"
+        },
+        {
+            "id": "17-down",
+            "number": 17,
+            "humanNumber": "17",
+            "clue": "Worn after rowing? (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "17-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "PULLOVER"
+        },
+        {
+            "id": "19-down",
+            "number": 19,
+            "humanNumber": "19",
+            "clue": "A sign, say, to jack up the car (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "19-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "GEMINI"
+        },
+        {
+            "id": "20-down",
+            "number": 20,
+            "humanNumber": "20",
+            "clue": "Humble cleric taking me to heart (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "20-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "DEMEAN"
+        },
+        {
+            "id": "22-down",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "Piece to be played by boy at party (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "22-down"
+            ],
+            "position": {
+                "x": 4,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "RONDO"
+        }
+    ],
+    "solutionAvailable": true,
+    "dateSolutionAvailable": 1235347200000,
+    "dimensions": {
+        "cols": 15,
+        "rows": 15
+    },
+    "crosswordType": "cryptic",
+    "_gridType": "M21"
+}

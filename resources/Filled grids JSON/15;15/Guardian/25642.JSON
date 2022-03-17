@@ -1,0 +1,538 @@
+{
+    "id": "crosswords/cryptic/25642",
+    "number": 25642,
+    "name": "Cryptic crossword No 25,642",
+    "creator": {
+        "name": "Paul",
+        "webUrl": "https://www.theguardian.com/profile/paul"
+    },
+    "date": 1337644800000,
+    "webPublicationDate": 1337641200000,
+    "entries": [
+        {
+            "id": "8-across",
+            "number": 8,
+            "humanNumber": "8",
+            "clue": "Era primarily old, life without iron, not quite Neanderthal \u2014 was it? (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "8-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "EOLITHIC"
+        },
+        {
+            "id": "9-across",
+            "number": 9,
+            "humanNumber": "9",
+            "clue": "County where soldier's on edge (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "9-across"
+            ],
+            "position": {
+                "x": 9,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "ANTRIM"
+        },
+        {
+            "id": "10-across",
+            "number": 10,
+            "humanNumber": "10",
+            "clue": "Throw back first bits of trash into my old skip (4)",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "10-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 3
+            },
+            "separatorLocations": {},
+            "solution": "OMIT"
+        },
+        {
+            "id": "11-across",
+            "number": 11,
+            "humanNumber": "11",
+            "clue": "Loudly complain, rep plonked contents here? (4,6)",
+            "direction": "across",
+            "length": 10,
+            "group": [
+                "11-across"
+            ],
+            "position": {
+                "x": 5,
+                "y": 3
+            },
+            "separatorLocations": {
+                ",": [
+                    4
+                ]
+            },
+            "solution": "WINECELLAR"
+        },
+        {
+            "id": "12-across",
+            "number": 12,
+            "humanNumber": "12",
+            "clue": "A sign about double parking in Middle Eastern city (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "12-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "ALEPPO"
+        },
+        {
+            "id": "14-across",
+            "number": 14,
+            "humanNumber": "14",
+            "clue": "Ideas set out in part of the metropolis (4,4)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "14-across"
+            ],
+            "position": {
+                "x": 7,
+                "y": 5
+            },
+            "separatorLocations": {
+                ",": [
+                    4
+                ]
+            },
+            "solution": "EASTSIDE"
+        },
+        {
+            "id": "15-across",
+            "number": 15,
+            "humanNumber": "15",
+            "clue": "Like base about which sort of gas rises (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "15-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "ASCENDS"
+        },
+        {
+            "id": "17-across",
+            "number": 17,
+            "humanNumber": "17, 7",
+            "clue": " 3's fix with dance champion (7,6)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "17-across",
+                "7-down"
+            ],
+            "position": {
+                "x": 8,
+                "y": 7
+            },
+            "separatorLocations": {
+                ",": [
+                    7
+                ]
+            },
+            "solution": "PINBALL"
+        },
+        {
+            "id": "20-across",
+            "number": 20,
+            "humanNumber": "20",
+            "clue": "A stroke of genius: staff heard of sound! (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "20-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "ACOUSTIC"
+        },
+        {
+            "id": "22-across",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "Writer gets to attempt creative writing (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "22-across"
+            ],
+            "position": {
+                "x": 9,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "POETRY"
+        },
+        {
+            "id": "23-across",
+            "number": 23,
+            "humanNumber": "23",
+            "clue": "3's alternative (10)",
+            "direction": "across",
+            "length": 10,
+            "group": [
+                "23-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "SUBSTITUTE"
+        },
+        {
+            "id": "24-across",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "Smack for party (4)",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "24-across"
+            ],
+            "position": {
+                "x": 11,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "BASH"
+        },
+        {
+            "id": "25-across",
+            "number": 25,
+            "humanNumber": "25",
+            "clue": "3's fury about genders understandable, ultimately (2,4)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "25-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 13
+            },
+            "separatorLocations": {
+                ",": [
+                    2
+                ]
+            },
+            "solution": "IMFREE"
+        },
+        {
+            "id": "26-across",
+            "number": 26,
+            "humanNumber": "26",
+            "clue": "3's music, bag of tricks? (5,3)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "26-across"
+            ],
+            "position": {
+                "x": 7,
+                "y": 13
+            },
+            "separatorLocations": {
+                ",": [
+                    5
+                ]
+            },
+            "solution": "MAGICBUS"
+        },
+        {
+            "id": "1-down",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "See 4",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "4-down",
+                "1-down"
+            ],
+            "position": {
+                "x": 1,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    3
+                ]
+            },
+            "solution": "FORMILES"
+        },
+        {
+            "id": "2-down",
+            "number": 2,
+            "humanNumber": "2",
+            "clue": "Coin that's fragrant (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "2-down"
+            ],
+            "position": {
+                "x": 3,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "MINT"
+        },
+        {
+            "id": "3-down",
+            "number": 3,
+            "humanNumber": "3",
+            "clue": "Group's unlimited character to hack into? (3,3)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "3-down"
+            ],
+            "position": {
+                "x": 5,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    3
+                ]
+            },
+            "solution": "THEWHO"
+        },
+        {
+            "id": "4-down",
+            "number": 4,
+            "humanNumber": "4, 1",
+            "clue": " 3's normal fees I foolishly invested in sweets (1,3,3,3,5)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "4-down",
+                "1-down"
+            ],
+            "position": {
+                "x": 7,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    1,
+                    4,
+                    7
+                ]
+            },
+            "solution": "ICANSEE"
+        },
+        {
+            "id": "5-down",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "More than one flower exists either way beneath upturned bush with no berry? (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "5-down"
+            ],
+            "position": {
+                "x": 9,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "NARCISSI"
+        },
+        {
+            "id": "6-down",
+            "number": 6,
+            "humanNumber": "6",
+            "clue": "Useful flipping herb, pointless when trimmed round it (10)",
+            "direction": "down",
+            "length": 10,
+            "group": [
+                "6-down"
+            ],
+            "position": {
+                "x": 11,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "UTILISABLE"
+        },
+        {
+            "id": "7-down",
+            "number": 7,
+            "humanNumber": "7",
+            "clue": "See 17",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "17-across",
+                "7-down"
+            ],
+            "position": {
+                "x": 13,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": []
+            },
+            "solution": "WIZARD"
+        },
+        {
+            "id": "13-down",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "Victim stabbed by the blinking thing earlier (10)",
+            "direction": "down",
+            "length": 10,
+            "group": [
+                "13-down"
+            ],
+            "position": {
+                "x": 3,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "PRECURSORY"
+        },
+        {
+            "id": "16-down",
+            "number": 16,
+            "humanNumber": "16",
+            "clue": "Described like the Three Blind Mice? (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "16-down"
+            ],
+            "position": {
+                "x": 5,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "DETAILED"
+        },
+        {
+            "id": "18-down",
+            "number": 18,
+            "humanNumber": "18",
+            "clue": "Caper and egg plant (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "18-down"
+            ],
+            "position": {
+                "x": 13,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "LARKSPUR"
+        },
+        {
+            "id": "19-down",
+            "number": 19,
+            "humanNumber": "19",
+            "clue": "\"Nasty\" about right for \"lovely\"! (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "19-down"
+            ],
+            "position": {
+                "x": 7,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "SCRUMMY"
+        },
+        {
+            "id": "21-down",
+            "number": 21,
+            "humanNumber": "21",
+            "clue": "Rotten cold before game (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "21-down"
+            ],
+            "position": {
+                "x": 1,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "CRUMMY"
+        },
+        {
+            "id": "22-down",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "Extraction of principled gentlemen's agreement (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "22-down"
+            ],
+            "position": {
+                "x": 9,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "PLEDGE"
+        },
+        {
+            "id": "24-down",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "Second ago (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "24-down"
+            ],
+            "position": {
+                "x": 11,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "BACK"
+        }
+    ],
+    "solutionAvailable": true,
+    "dateSolutionAvailable": 1337641200000,
+    "dimensions": {
+        "cols": 15,
+        "rows": 15
+    },
+    "crosswordType": "cryptic",
+    "pdf": "http://static.guim.co.uk/crosswords/pdfs/gdn.cryptic.20120522.pdf",
+    "_gridType": "M15"
+}

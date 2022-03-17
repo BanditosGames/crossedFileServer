@@ -1,0 +1,526 @@
+{
+    "id": "crosswords/cryptic/25564",
+    "number": 25564,
+    "name": "Cryptic crossword No 25,564",
+    "creator": {
+        "name": "Brendan",
+        "webUrl": "https://www.theguardian.com/profile/brendan"
+    },
+    "date": 1329782400000,
+    "webPublicationDate": 1329782400000,
+    "entries": [
+        {
+            "id": "7-across",
+            "number": 7,
+            "humanNumber": "7",
+            "clue": "It might come from robins, holding one note, then another (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "7-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "BIRDSONG"
+        },
+        {
+            "id": "9-across",
+            "number": 9,
+            "humanNumber": "9",
+            "clue": "Tea? Go to cafe, say (3,3)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "9-across"
+            ],
+            "position": {
+                "x": 9,
+                "y": 1
+            },
+            "separatorLocations": {
+                ",": [
+                    3
+                ]
+            },
+            "solution": "EATOUT"
+        },
+        {
+            "id": "10-across",
+            "number": 10,
+            "humanNumber": "10",
+            "clue": "Gifted geniuses are very exceptional to begin with (4)",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "10-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 3
+            },
+            "separatorLocations": {},
+            "solution": "GAVE"
+        },
+        {
+            "id": "11-across",
+            "number": 11,
+            "humanNumber": "11",
+            "clue": "Fashion a better law that's important for operating well (5,5)",
+            "direction": "across",
+            "length": 10,
+            "group": [
+                "11-across"
+            ],
+            "position": {
+                "x": 5,
+                "y": 3
+            },
+            "separatorLocations": {
+                ",": [
+                    5
+                ]
+            },
+            "solution": "WATERTABLE"
+        },
+        {
+            "id": "12-across",
+            "number": 12,
+            "humanNumber": "12",
+            "clue": "Crude alcohol, good with pickled trout (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "12-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "GUTROT"
+        },
+        {
+            "id": "14-across",
+            "number": 14,
+            "humanNumber": "14",
+            "clue": "Piece of furniture cook rearranged in HQ (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "14-across"
+            ],
+            "position": {
+                "x": 7,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "BOOKCASE"
+        },
+        {
+            "id": "15-across",
+            "number": 15,
+            "humanNumber": "15",
+            "clue": "Some friend offers to complete some knitting, say (3,3)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "15-across"
+            ],
+            "position": {
+                "x": 1,
+                "y": 7
+            },
+            "separatorLocations": {
+                ",": [
+                    3
+                ]
+            },
+            "solution": "ENDOFF"
+        },
+        {
+            "id": "17-across",
+            "number": 17,
+            "humanNumber": "17",
+            "clue": "Switch position in front of goal and commit foul (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "17-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "OFFEND"
+        },
+        {
+            "id": "20-across",
+            "number": 20,
+            "humanNumber": "20",
+            "clue": "Medical records that doctor wrote up for consultant (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "20-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "CASEBOOK"
+        },
+        {
+            "id": "22-across",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "Teacher returned carrying gallon \u2014 cheap hooch (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "22-across"
+            ],
+            "position": {
+                "x": 9,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "ROTGUT"
+        },
+        {
+            "id": "23-across",
+            "number": 23,
+            "humanNumber": "23",
+            "clue": "The drink some diners prefer still (5,5)",
+            "direction": "across",
+            "length": 10,
+            "group": [
+                "23-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 11
+            },
+            "separatorLocations": {
+                ",": [
+                    5
+                ]
+            },
+            "solution": "TABLEWATER"
+        },
+        {
+            "id": "24-across",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "Brilliant star trapped in compulsive gambling (4)",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "24-across"
+            ],
+            "position": {
+                "x": 11,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "VEGA"
+        },
+        {
+            "id": "25-across",
+            "number": 25,
+            "humanNumber": "25",
+            "clue": "At mealtime excel every other character in robust repast (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "25-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 13
+            },
+            "separatorLocations": {},
+            "solution": "OUTEAT"
+        },
+        {
+            "id": "26-across",
+            "number": 26,
+            "humanNumber": "26",
+            "clue": "Stupidly bring in obnoxious person for a lark, perhaps (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "26-across"
+            ],
+            "position": {
+                "x": 7,
+                "y": 13
+            },
+            "separatorLocations": {},
+            "solution": "SONGBIRD"
+        },
+        {
+            "id": "1-down",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "Free from deception, having sorted out bad issue (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "1-down"
+            ],
+            "position": {
+                "x": 1,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "DISABUSE"
+        },
+        {
+            "id": "2-down",
+            "number": 2,
+            "humanNumber": "2",
+            "clue": "Indulged, oddly, so do nothing (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "2-down"
+            ],
+            "position": {
+                "x": 3,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "IDLE"
+        },
+        {
+            "id": "3-down",
+            "number": 3,
+            "humanNumber": "3",
+            "clue": "Retriever, for example, raised with intelligence to bring bird (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "3-down"
+            ],
+            "position": {
+                "x": 5,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "GODWIT"
+        },
+        {
+            "id": "4-down",
+            "number": 4,
+            "humanNumber": "4",
+            "clue": "Sign of distress of female quickly disappears (5,3)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "4-down"
+            ],
+            "position": {
+                "x": 9,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    5
+                ]
+            },
+            "solution": "TEARSOFF"
+        },
+        {
+            "id": "5-down",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "Part of engine that's minute in small train set, possibly (5-5)",
+            "direction": "down",
+            "length": 10,
+            "group": [
+                "5-down"
+            ],
+            "position": {
+                "x": 11,
+                "y": 0
+            },
+            "separatorLocations": {
+                "-": [
+                    5
+                ]
+            },
+            "solution": "STEAMCHEST"
+        },
+        {
+            "id": "6-down",
+            "number": 6,
+            "humanNumber": "6",
+            "clue": "Plants free of insects? Not quite (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "6-down"
+            ],
+            "position": {
+                "x": 13,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "BUGLES"
+        },
+        {
+            "id": "8-down",
+            "number": 8,
+            "humanNumber": "8",
+            "clue": "Animal in Highlands turned up beside Scott's hero (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "8-down"
+            ],
+            "position": {
+                "x": 7,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "GATSBY"
+        },
+        {
+            "id": "13-down",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "Fish bled disastrously between banks (10)",
+            "direction": "down",
+            "length": 10,
+            "group": [
+                "13-down"
+            ],
+            "position": {
+                "x": 3,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "REDBELLIES"
+        },
+        {
+            "id": "16-down",
+            "number": 16,
+            "humanNumber": "16",
+            "clue": "How to film, mostly badly, and behave irresponsibly towards (4,4)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "16-down"
+            ],
+            "position": {
+                "x": 5,
+                "y": 7
+            },
+            "separatorLocations": {
+                ",": [
+                    4
+                ]
+            },
+            "solution": "FOOLWITH"
+        },
+        {
+            "id": "18-down",
+            "number": 18,
+            "humanNumber": "18",
+            "clue": "Dickensian character in dull, laborious work (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "18-down"
+            ],
+            "position": {
+                "x": 13,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "DRUDGERY"
+        },
+        {
+            "id": "19-down",
+            "number": 19,
+            "humanNumber": "19",
+            "clue": "They cut into ice to get fish (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "19-down"
+            ],
+            "position": {
+                "x": 7,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "SKATES"
+        },
+        {
+            "id": "21-down",
+            "number": 21,
+            "humanNumber": "21",
+            "clue": "A maximum possible speed in a vehicle? You can count on it (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "21-down"
+            ],
+            "position": {
+                "x": 1,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "ABACUS"
+        },
+        {
+            "id": "22-down",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "Full of enthusiasm, runs a syndicate (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "22-down"
+            ],
+            "position": {
+                "x": 9,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "RARING"
+        },
+        {
+            "id": "24-down",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "British in contest felt atmosphere (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "24-down"
+            ],
+            "position": {
+                "x": 11,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "VIBE"
+        }
+    ],
+    "solutionAvailable": true,
+    "dateSolutionAvailable": 1329782400000,
+    "dimensions": {
+        "cols": 15,
+        "rows": 15
+    },
+    "crosswordType": "cryptic",
+    "pdf": "http://static.guim.co.uk/crosswords/pdfs/gdn.cryptic.20120221.pdf",
+    "_gridType": "M30"
+}

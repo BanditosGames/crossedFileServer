@@ -1,0 +1,528 @@
+{
+    "id": "crosswords/prize/24227",
+    "number": 24227,
+    "name": "Prize crossword No 24,227",
+    "creator": {
+        "name": "Araucaria",
+        "webUrl": "https://www.theguardian.com/profile/araucaria"
+    },
+    "date": 1199491200000,
+    "webPublicationDate": 1199491200000,
+    "entries": [
+        {
+            "id": "9-across",
+            "number": 9,
+            "humanNumber": "9",
+            "clue": "Find one's way east with eastern queen (9)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "9-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "ORIENTEER"
+        },
+        {
+            "id": "10-across",
+            "number": 10,
+            "humanNumber": "10",
+            "clue": "Get information in king's name (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "10-across"
+            ],
+            "position": {
+                "x": 10,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "LEARN"
+        },
+        {
+            "id": "11-across",
+            "number": 11,
+            "humanNumber": "11",
+            "clue": "Biblical character's holding a quarter of a quarter (3,4)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "11-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 3
+            },
+            "separatorLocations": {
+                ",": [
+                    3
+                ]
+            },
+            "solution": "TWOBITS"
+        },
+        {
+            "id": "12-across",
+            "number": 12,
+            "humanNumber": "12",
+            "clue": "It takes initiation into cunning with humour (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "12-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 3
+            },
+            "separatorLocations": {},
+            "solution": "WITTILY"
+        },
+        {
+            "id": "13-across",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "Royal beasts in 16 (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "13-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "PRIDE"
+        },
+        {
+            "id": "14-across",
+            "number": 14,
+            "humanNumber": "14",
+            "clue": "Did for setter - died on return of agent (9)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "14-across"
+            ],
+            "position": {
+                "x": 6,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "PERFORMED"
+        },
+        {
+            "id": "16-across",
+            "number": 16,
+            "humanNumber": "16",
+            "clue": "Sensed any devils about? (5,6,4)",
+            "direction": "across",
+            "length": 15,
+            "group": [
+                "16-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 7
+            },
+            "separatorLocations": {
+                ",": [
+                    5,
+                    11
+                ]
+            },
+            "solution": "SEVENDEADLYSINS"
+        },
+        {
+            "id": "19-across",
+            "number": 19,
+            "humanNumber": "19",
+            "clue": "Provide some French birds with balance (9)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "19-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "EQUIPOISE"
+        },
+        {
+            "id": "21-across",
+            "number": 21,
+            "humanNumber": "21",
+            "clue": "Singular French city in 16 (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "21-across"
+            ],
+            "position": {
+                "x": 10,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "ANGER"
+        },
+        {
+            "id": "22-across",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "French film, work of Calderon, non-starter (2,5)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "22-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 11
+            },
+            "separatorLocations": {
+                ",": [
+                    2
+                ]
+            },
+            "solution": "LARONDE"
+        },
+        {
+            "id": "23-across",
+            "number": 23,
+            "humanNumber": "23",
+            "clue": "Hungry-looking Roman fool, one in copper's grasp (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "23-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "CASSIUS"
+        },
+        {
+            "id": "24-across",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "Arboreal edentate in 16 (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "24-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 13
+            },
+            "separatorLocations": {},
+            "solution": "SLOTH"
+        },
+        {
+            "id": "25-across",
+            "number": 25,
+            "humanNumber": "25",
+            "clue": "Wine laced with intoxicant in procession (9)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "25-across"
+            ],
+            "position": {
+                "x": 6,
+                "y": 13
+            },
+            "separatorLocations": {},
+            "solution": "CAVALCADE"
+        },
+        {
+            "id": "1-down",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "Overly over in the set cleaner (10)",
+            "direction": "down",
+            "length": 10,
+            "group": [
+                "1-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "TOOTHPASTE"
+        },
+        {
+            "id": "2-down",
+            "number": 2,
+            "humanNumber": "2",
+            "clue": "Supposed letter-writer put last first, that is during bonfire day (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "2-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "ZINOVIEV"
+        },
+        {
+            "id": "3-down",
+            "number": 3,
+            "humanNumber": "3",
+            "clue": "Engrave corollary to \"Ltd is US\" (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "3-down"
+            ],
+            "position": {
+                "x": 4,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "INCISE"
+        },
+        {
+            "id": "4-down",
+            "number": 4,
+            "humanNumber": "4",
+            "clue": "Headwater (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "4-down"
+            ],
+            "position": {
+                "x": 6,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "NESS"
+        },
+        {
+            "id": "5-down",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "Game without winner may help defence (10)",
+            "direction": "down",
+            "length": 10,
+            "group": [
+                "5-down"
+            ],
+            "position": {
+                "x": 8,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "DRAWBRIDGE"
+        },
+        {
+            "id": "6-down",
+            "number": 6,
+            "humanNumber": "6",
+            "clue": "Too much Blair in 16 (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "6-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "GLUTTONY"
+        },
+        {
+            "id": "7-down",
+            "number": 7,
+            "humanNumber": "7",
+            "clue": "Produce of Umbria for meal (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "7-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "BARIUM"
+        },
+        {
+            "id": "8-down",
+            "number": 8,
+            "humanNumber": "8",
+            "clue": "New version reported in 16 (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "8-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "ENVY"
+        },
+        {
+            "id": "14-down",
+            "number": 14,
+            "humanNumber": "14",
+            "clue": "Live quietly with no charge, unknown in the White House (10)",
+            "direction": "down",
+            "length": 10,
+            "group": [
+                "14-down"
+            ],
+            "position": {
+                "x": 6,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "PRESIDENCY"
+        },
+        {
+            "id": "15-down",
+            "number": 15,
+            "humanNumber": "15",
+            "clue": "Shorn and sad (10)",
+            "direction": "down",
+            "length": 10,
+            "group": [
+                "15-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "DISTRESSED"
+        },
+        {
+            "id": "17-down",
+            "number": 17,
+            "humanNumber": "17",
+            "clue": "One man without love and confined inside needs cure for grief (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "17-down"
+            ],
+            "position": {
+                "x": 4,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "NEPENTHE"
+        },
+        {
+            "id": "18-down",
+            "number": 18,
+            "humanNumber": "18",
+            "clue": "Rare version of Antarctic bird with no head and a plate between legs (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "18-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "INGUINAL"
+        },
+        {
+            "id": "20-down",
+            "number": 20,
+            "humanNumber": "20",
+            "clue": "Be radical when it's your turn to pour (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "20-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "UPROOT"
+        },
+        {
+            "id": "21-down",
+            "number": 21,
+            "humanNumber": "21",
+            "clue": "Divine articles on tree (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "21-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "ANSELM"
+        },
+        {
+            "id": "22-down",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "Some years without spirit in 16 (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "22-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "LUST"
+        },
+        {
+            "id": "23-down",
+            "number": 23,
+            "humanNumber": "23",
+            "clue": "Fellow taking to us 4 in 16 (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "23-down"
+            ],
+            "position": {
+                "x": 8,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "COVE"
+        }
+    ],
+    "solutionAvailable": true,
+    "dateSolutionAvailable": 1200096000000,
+    "dimensions": {
+        "cols": 15,
+        "rows": 15
+    },
+    "crosswordType": "prize",
+    "instructions": "Click <a href=\"http://www.guardian.co.uk/crossword/page/0,,2239135,00.html\">here</a> for annotated solutions",
+    "_gridType": "M08"
+}

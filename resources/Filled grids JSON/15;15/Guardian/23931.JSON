@@ -1,0 +1,592 @@
+{
+    "id": "crosswords/cryptic/23931",
+    "number": 23931,
+    "name": "Cryptic crossword No 23,931",
+    "creator": {
+        "name": "Quantum",
+        "webUrl": "https://www.theguardian.com/profile/quantum"
+    },
+    "date": 1164240000000,
+    "webPublicationDate": 1164240000000,
+    "entries": [
+        {
+            "id": "1-across",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "Parent to end with work to go on a spree (5,3,4,3)",
+            "direction": "across",
+            "length": 15,
+            "group": [
+                "1-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    5,
+                    8,
+                    12
+                ]
+            },
+            "solution": "PAINTTHETOWNRED"
+        },
+        {
+            "id": "9-across",
+            "number": 9,
+            "humanNumber": "9",
+            "clue": "Indicating the cash is giving one a buzz (7,2)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "9-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 2
+            },
+            "separatorLocations": {
+                ",": [
+                    7
+                ]
+            },
+            "solution": "RINGINGUP"
+        },
+        {
+            "id": "10-across",
+            "number": 10,
+            "humanNumber": "10",
+            "clue": "Capital account? The accountant's about right (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "10-across"
+            ],
+            "position": {
+                "x": 10,
+                "y": 2
+            },
+            "separatorLocations": {},
+            "solution": "ACCRA"
+        },
+        {
+            "id": "11-across",
+            "number": 11,
+            "humanNumber": "11",
+            "clue": "The mace used as a weapon (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "11-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 4
+            },
+            "separatorLocations": {},
+            "solution": "MACHETE"
+        },
+        {
+            "id": "12-across",
+            "number": 12,
+            "humanNumber": "12",
+            "clue": "Extensive support for one near the boundary (4,3)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "12-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 4
+            },
+            "separatorLocations": {
+                ",": [
+                    4
+                ]
+            },
+            "solution": "LONGLEG"
+        },
+        {
+            "id": "13-across",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "Observe odd characters in scene (3)",
+            "direction": "across",
+            "length": 3,
+            "group": [
+                "13-across"
+            ],
+            "position": {
+                "x": 6,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "S1E"
+        },
+        {
+            "id": "14-across",
+            "number": 14,
+            "humanNumber": "14",
+            "clue": "Prepare for print, yet step out of line (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "14-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "TYPESET"
+        },
+        {
+            "id": "17-across",
+            "number": 17,
+            "humanNumber": "17",
+            "clue": "One brought back to work about to put foot down (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "17-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "RETREAD"
+        },
+        {
+            "id": "19-across",
+            "number": 19,
+            "humanNumber": "19",
+            "clue": "European missile requiring very large amounts of money (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "19-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "ESCUDOS"
+        },
+        {
+            "id": "22-across",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "One takes turns in giving a lift (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "22-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "CAPSTAN"
+        },
+        {
+            "id": "24-across",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "Scoundrel pinching half the collector's items (3)",
+            "direction": "across",
+            "length": 3,
+            "group": [
+                "24-across"
+            ],
+            "position": {
+                "x": 6,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "CUR"
+        },
+        {
+            "id": "25-across",
+            "number": 25,
+            "humanNumber": "25",
+            "clue": "Gas supplies in war in a muddle (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "25-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "AMMONIA"
+        },
+        {
+            "id": "26-across",
+            "number": 26,
+            "humanNumber": "26",
+            "clue": "Agreement about east Scottish loch (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "26-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "ONENESS"
+        },
+        {
+            "id": "28-across",
+            "number": 28,
+            "humanNumber": "28",
+            "clue": "One took a chance, but is out. Annoyed? (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "28-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 12
+            },
+            "separatorLocations": {},
+            "solution": "IRKED"
+        },
+        {
+            "id": "29-across",
+            "number": 29,
+            "humanNumber": "29",
+            "clue": "Description of bird group: snipes are out! (9)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "29-across"
+            ],
+            "position": {
+                "x": 6,
+                "y": 12
+            },
+            "separatorLocations": {},
+            "solution": "PASSERINE"
+        },
+        {
+            "id": "30-across",
+            "number": 30,
+            "humanNumber": "30",
+            "clue": "What's machine washable, but won't go on the couch? (6-9)",
+            "direction": "across",
+            "length": 15,
+            "group": [
+                "30-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 14
+            },
+            "separatorLocations": {
+                "-": [
+                    6
+                ]
+            },
+            "solution": "SHRINKRESISTANT"
+        },
+        {
+            "id": "1-down",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "In which one differentiates from the applied variety? (4,11)",
+            "direction": "down",
+            "length": 15,
+            "group": [
+                "1-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    4
+                ]
+            },
+            "solution": "PUREMATHEMATICS"
+        },
+        {
+            "id": "2-down",
+            "number": 2,
+            "humanNumber": "2",
+            "clue": "Icon I rebuilt in an old style (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "2-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "IONIC"
+        },
+        {
+            "id": "3-down",
+            "number": 3,
+            "humanNumber": "3",
+            "clue": "Hard workers? Those on the roof need to take oxygen  ... (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "3-down"
+            ],
+            "position": {
+                "x": 4,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "TOILERS"
+        },
+        {
+            "id": "4-down",
+            "number": 4,
+            "humanNumber": "4",
+            "clue": "...  as the roof is most acute in pitch! (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "4-down"
+            ],
+            "position": {
+                "x": 6,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "HIGHEST"
+        },
+        {
+            "id": "5-down",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "Dotty painter loses head - habitual drinker? (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "5-down"
+            ],
+            "position": {
+                "x": 8,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "TIPPLER"
+        },
+        {
+            "id": "6-down",
+            "number": 6,
+            "humanNumber": "6",
+            "clue": "Stand shelved: it's temporarily forgotten (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "6-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "WHATNOT"
+        },
+        {
+            "id": "7-down",
+            "number": 7,
+            "humanNumber": "7",
+            "clue": "Recall the study of religion with prayer (9)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "7-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "RECOLLECT"
+        },
+        {
+            "id": "8-down",
+            "number": 8,
+            "humanNumber": "8",
+            "clue": "Didn't get a leg up, so employed delaying tactics (7,4,4)",
+            "direction": "down",
+            "length": 15,
+            "group": [
+                "8-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    7,
+                    11
+                ]
+            },
+            "solution": "DRAGGEDONESFEET"
+        },
+        {
+            "id": "15-down",
+            "number": 15,
+            "humanNumber": "15",
+            "clue": "Early leader should be in good heart? (9)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "15-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "PACEMAKER"
+        },
+        {
+            "id": "16-down",
+            "number": 16,
+            "humanNumber": "16",
+            "clue": "Negotiator shows conceit (3)",
+            "direction": "down",
+            "length": 3,
+            "group": [
+                "16-down"
+            ],
+            "position": {
+                "x": 5,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "EGO"
+        },
+        {
+            "id": "18-down",
+            "number": 18,
+            "humanNumber": "18",
+            "clue": "A period of the English artist (3)",
+            "direction": "down",
+            "length": 3,
+            "group": [
+                "18-down"
+            ],
+            "position": {
+                "x": 9,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "ERA"
+        },
+        {
+            "id": "20-down",
+            "number": 20,
+            "humanNumber": "20",
+            "clue": "C-clamour around a French port (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "20-down"
+            ],
+            "position": {
+                "x": 4,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "DUNEDIN"
+        },
+        {
+            "id": "21-down",
+            "number": 21,
+            "humanNumber": "21",
+            "clue": "Rep's car goes off, making a hasty departure (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "21-down"
+            ],
+            "position": {
+                "x": 6,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "SCARPER"
+        },
+        {
+            "id": "22-down",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "Society on an unusual course to get a king (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "22-down"
+            ],
+            "position": {
+                "x": 8,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "CROESUS"
+        },
+        {
+            "id": "23-down",
+            "number": 23,
+            "humanNumber": "23",
+            "clue": "Writer with literary character, a versifier (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "23-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "POETESS"
+        },
+        {
+            "id": "27-down",
+            "number": 27,
+            "humanNumber": "27",
+            "clue": "One in the area set up a plant (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "27-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "ERICA"
+        }
+    ],
+    "solutionAvailable": true,
+    "dateSolutionAvailable": 1164240000000,
+    "dimensions": {
+        "cols": 15,
+        "rows": 15
+    },
+    "crosswordType": "cryptic",
+    "_gridType": null
+}

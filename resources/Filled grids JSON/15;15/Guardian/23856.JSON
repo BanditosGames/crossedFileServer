@@ -1,0 +1,540 @@
+{
+    "id": "crosswords/cryptic/23856",
+    "number": 23856,
+    "name": "Cryptic crossword No 23,856",
+    "creator": {
+        "name": "Bunthorne",
+        "webUrl": "https://www.theguardian.com/profile/bunthorne"
+    },
+    "date": 1156723200000,
+    "webPublicationDate": 1156719600000,
+    "entries": [
+        {
+            "id": "1-across",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "\"Jaded? One's time on earth ain't fun right?\" (Self-deception from 25 23) (4,2,4,3,6,5,5,7)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "1-across",
+                "26-across"
+            ],
+            "position": {
+                "x": 1,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    4,
+                    6
+                ]
+            },
+            "solution": "LIFEIS"
+        },
+        {
+            "id": "5-across",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "Look at grain from the Whispering Desert! (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "5-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "SECEDE"
+        },
+        {
+            "id": "8-across",
+            "number": 8,
+            "humanNumber": "8",
+            "clue": "See 1",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "1-across",
+                "8-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 2
+            },
+            "separatorLocations": {},
+            "solution": "JUSTONE"
+        },
+        {
+            "id": "9-across",
+            "number": 9,
+            "humanNumber": "9",
+            "clue": "See 1",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "1-across",
+                "9-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 2
+            },
+            "separatorLocations": {},
+            "solution": "ANOTHER"
+        },
+        {
+            "id": "11-across",
+            "number": 11,
+            "humanNumber": "11",
+            "clue": "What might have been televised on buildings (15)",
+            "direction": "across",
+            "length": 15,
+            "group": [
+                "11-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 4
+            },
+            "separatorLocations": {},
+            "solution": "RECONSTRUCTIONS"
+        },
+        {
+            "id": "12-across",
+            "number": 12,
+            "humanNumber": "12",
+            "clue": "Poet against falling in love with Psyche (4)",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "12-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "OVID"
+        },
+        {
+            "id": "13-across",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "See 1",
+            "direction": "across",
+            "length": 10,
+            "group": [
+                "1-across",
+                "13-across"
+            ],
+            "position": {
+                "x": 5,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "THINGAFTER"
+        },
+        {
+            "id": "17-across",
+            "number": 17,
+            "humanNumber": "17",
+            "clue": "NASA project failing means panic (3,2,5)",
+            "direction": "across",
+            "length": 10,
+            "group": [
+                "17-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 8
+            },
+            "separatorLocations": {
+                ",": [
+                    3,
+                    5
+                ]
+            },
+            "solution": "MANINSPACE"
+        },
+        {
+            "id": "18-across",
+            "number": 18,
+            "humanNumber": "18",
+            "clue": "Nasty exposures revealing fault on one's shutter (4)",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "18-across"
+            ],
+            "position": {
+                "x": 11,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "STYE"
+        },
+        {
+            "id": "20-across",
+            "number": 20,
+            "humanNumber": "20",
+            "clue": "Hare was cooked to rest in curries (15)",
+            "direction": "across",
+            "length": 15,
+            "group": [
+                "20-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "RESURRECTIONIST"
+        },
+        {
+            "id": "23-across",
+            "number": 23,
+            "humanNumber": "23",
+            "clue": "See 25",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "25-across",
+                "23-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 12
+            },
+            "separatorLocations": {
+                ",": []
+            },
+            "solution": "HUBBARD"
+        },
+        {
+            "id": "24-across",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "One horse ran out backwards and died; one was very close (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "24-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 12
+            },
+            "separatorLocations": {},
+            "solution": "NIGGARD"
+        },
+        {
+            "id": "25-across",
+            "number": 25,
+            "humanNumber": "25",
+            "clue": "US philosopher deconstructing treble nucleus with Shakespeare (6,7)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "25-across",
+                "23-across"
+            ],
+            "position": {
+                "x": 1,
+                "y": 14
+            },
+            "separatorLocations": {
+                ",": [
+                    6
+                ]
+            },
+            "solution": "ELBERT"
+        },
+        {
+            "id": "26-across",
+            "number": 26,
+            "humanNumber": "26",
+            "clue": "See 1",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "1-across",
+                "26-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 14
+            },
+            "separatorLocations": {
+                ",": [
+                    4
+                ]
+            },
+            "solution": "DAMNED"
+        },
+        {
+            "id": "2-down",
+            "number": 2,
+            "humanNumber": "2",
+            "clue": "Cut page from examination (9)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "2-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "INSECTION"
+        },
+        {
+            "id": "3-down",
+            "number": 3,
+            "humanNumber": "3",
+            "clue": "Removes oneself from bearing and the womb (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "3-down"
+            ],
+            "position": {
+                "x": 4,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "ELOINS"
+        },
+        {
+            "id": "4-down",
+            "number": 4,
+            "humanNumber": "4",
+            "clue": "West has transferred work into eastern hellhole (5,4)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "4-down"
+            ],
+            "position": {
+                "x": 6,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    5
+                ]
+            },
+            "solution": "SWEATSHOP"
+        },
+        {
+            "id": "5-down",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "United supporters raising chaos (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "5-down"
+            ],
+            "position": {
+                "x": 8,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "SNAFU"
+        },
+        {
+            "id": "6-down",
+            "number": 6,
+            "humanNumber": "6",
+            "clue": "European with a romantic disposition? Non, Monsieur! (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "6-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "CROATIAN"
+        },
+        {
+            "id": "7-down",
+            "number": 7,
+            "humanNumber": "7",
+            "clue": "As Homer exclaims: \"You cannot finish in the sumo ring!\" (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "7-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "DOHYO"
+        },
+        {
+            "id": "8-down",
+            "number": 8,
+            "humanNumber": "8",
+            "clue": "On which the unemployed needed drink or warm brew before church (6,5)",
+            "direction": "down",
+            "length": 11,
+            "group": [
+                "8-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 2
+            },
+            "separatorLocations": {
+                ",": [
+                    6
+                ]
+            },
+            "solution": "JARROWMARCH"
+        },
+        {
+            "id": "10-down",
+            "number": 10,
+            "humanNumber": "10",
+            "clue": "Drug addict turned over, punished with no company and given new life (11)",
+            "direction": "down",
+            "length": 11,
+            "group": [
+                "10-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 2
+            },
+            "separatorLocations": {},
+            "solution": "RESURRECTED"
+        },
+        {
+            "id": "14-down",
+            "number": 14,
+            "humanNumber": "14",
+            "clue": "Wildly incited \"no smoking\", producing lungs like this? (9)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "14-down"
+            ],
+            "position": {
+                "x": 8,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "NICOTINED"
+        },
+        {
+            "id": "15-down",
+            "number": 15,
+            "humanNumber": "15",
+            "clue": "Swallows' child heard against mischief-maker; prepare yourself! (9)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "15-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "TITTIVATE"
+        },
+        {
+            "id": "16-down",
+            "number": 16,
+            "humanNumber": "16",
+            "clue": "Profit from a sincere relationship (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "16-down"
+            ],
+            "position": {
+                "x": 4,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "INCREASE"
+        },
+        {
+            "id": "19-down",
+            "number": 19,
+            "humanNumber": "19",
+            "clue": "But did it knit jerseys? (3,3)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "19-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 9
+            },
+            "separatorLocations": {
+                ",": [
+                    3
+                ]
+            },
+            "solution": "COWGUM"
+        },
+        {
+            "id": "21-down",
+            "number": 21,
+            "humanNumber": "21",
+            "clue": "Is raising invoice from the speaking oracle (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "21-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "SIBYL"
+        },
+        {
+            "id": "22-down",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "Advice on dodgy affair last thing one needs (3,2)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "22-down"
+            ],
+            "position": {
+                "x": 6,
+                "y": 10
+            },
+            "separatorLocations": {
+                ",": [
+                    3
+                ]
+            },
+            "solution": "ENDIT"
+        }
+    ],
+    "solutionAvailable": true,
+    "dateSolutionAvailable": 1156719600000,
+    "dimensions": {
+        "cols": 15,
+        "rows": 15
+    },
+    "crosswordType": "cryptic",
+    "_gridType": "M38"
+}

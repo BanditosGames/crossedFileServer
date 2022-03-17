@@ -1,0 +1,588 @@
+{
+    "id": "crosswords/cryptic/28150",
+    "number": 28150,
+    "name": "Cryptic crossword No 28,150",
+    "creator": {
+        "name": "Puck",
+        "webUrl": "https://www.theguardian.com/profile/puck"
+    },
+    "date": 1591142400000,
+    "webPublicationDate": 1591138822000,
+    "entries": [
+        {
+            "id": "8-across",
+            "number": 8,
+            "humanNumber": "8",
+            "clue": "Good sense to include winter pear in what restaurant may offer (4,4)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "8-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 1
+            },
+            "separatorLocations": {
+                ",": [
+                    4
+                ]
+            },
+            "solution": "WINELIST"
+        },
+        {
+            "id": "9-across",
+            "number": 9,
+            "humanNumber": "9",
+            "clue": "See 19",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "19-down",
+                "9-across",
+                "26-down"
+            ],
+            "position": {
+                "x": 9,
+                "y": 1
+            },
+            "separatorLocations": {
+                ",": [
+                    2,
+                    5
+                ]
+            },
+            "solution": "OFTEN"
+        },
+        {
+            "id": "10-across",
+            "number": 10,
+            "humanNumber": "10, 26",
+            "clue": "Musical scores for No 1s? (8)",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "10-across",
+                "26-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 3
+            },
+            "separatorLocations": {},
+            "solution": "HAIR"
+        },
+        {
+            "id": "11-across",
+            "number": 11,
+            "humanNumber": "11",
+            "clue": "South African club has male member that is touring Irish county shortly (10)",
+            "direction": "across",
+            "length": 10,
+            "group": [
+                "11-across"
+            ],
+            "position": {
+                "x": 5,
+                "y": 3
+            },
+            "separatorLocations": {},
+            "solution": "KNOBKERRIE"
+        },
+        {
+            "id": "12-across",
+            "number": 12,
+            "humanNumber": "12",
+            "clue": "Butt of a gendarme's covered (3,3)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "12-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 5
+            },
+            "separatorLocations": {
+                ",": [
+                    3
+                ]
+            },
+            "solution": "FAGEND"
+        },
+        {
+            "id": "14-across",
+            "number": 14,
+            "humanNumber": "14",
+            "clue": "Musical seen by one lecturer during a month off (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "14-across"
+            ],
+            "position": {
+                "x": 7,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "HAMILTON"
+        },
+        {
+            "id": "16-across",
+            "number": 16,
+            "humanNumber": "16",
+            "clue": "Number clever enough for game show (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "16-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "TENABLE"
+        },
+        {
+            "id": "18-across",
+            "number": 18,
+            "humanNumber": "18",
+            "clue": "Into pieces like a French and German article (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "18-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "ASUNDER"
+        },
+        {
+            "id": "21-across",
+            "number": 21,
+            "humanNumber": "21",
+            "clue": "Frightfully honest \u2014 extremely lazy in secret (2,3,3)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "21-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 9
+            },
+            "separatorLocations": {
+                ",": [
+                    2,
+                    5
+                ]
+            },
+            "solution": "ONTHESLY"
+        },
+        {
+            "id": "23-across",
+            "number": 23,
+            "humanNumber": "23",
+            "clue": "Number of pills required by queasy sea dog (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "23-across"
+            ],
+            "position": {
+                "x": 9,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "DOSAGE"
+        },
+        {
+            "id": "24-across",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "Flooding, with one sister (not Ida) affected (10)",
+            "direction": "across",
+            "length": 10,
+            "group": [
+                "24-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "INUNDATION"
+        },
+        {
+            "id": "26-across",
+            "number": 26,
+            "humanNumber": "26",
+            "clue": "See 10",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "10-across",
+                "26-across"
+            ],
+            "position": {
+                "x": 11,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "CUTS"
+        },
+        {
+            "id": "27-across",
+            "number": 27,
+            "humanNumber": "27",
+            "clue": "Time musical is current (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "27-across"
+            ],
+            "position": {
+                "x": 1,
+                "y": 13
+            },
+            "separatorLocations": {},
+            "solution": "TRENT"
+        },
+        {
+            "id": "28-across",
+            "number": 28,
+            "humanNumber": "28",
+            "clue": "Former non-flyer reporting dull conversation (5,3)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "28-across"
+            ],
+            "position": {
+                "x": 7,
+                "y": 13
+            },
+            "separatorLocations": {
+                ",": [
+                    5
+                ]
+            },
+            "solution": "GREATAUK"
+        },
+        {
+            "id": "1-down",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "Rarely digress from prima donna scandal? (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "1-down"
+            ],
+            "position": {
+                "x": 1,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "DIVAGATE"
+        },
+        {
+            "id": "2-down",
+            "number": 2,
+            "humanNumber": "2, 13",
+            "clue": " Making new version of Annie's hard, even a one-off musical (4,4,6)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "2-down",
+                "13-down"
+            ],
+            "position": {
+                "x": 3,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    4
+                ]
+            },
+            "solution": "DEAR"
+        },
+        {
+            "id": "3-down",
+            "number": 3,
+            "humanNumber": "3",
+            "clue": "Musical that might be very good or very bad (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "3-down"
+            ],
+            "position": {
+                "x": 5,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "WICKED"
+        },
+        {
+            "id": "4-down",
+            "number": 4,
+            "humanNumber": "4",
+            "clue": "Bit of choral singing Hot Press briefly hammered (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "4-down"
+            ],
+            "position": {
+                "x": 7,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "STROPHE"
+        },
+        {
+            "id": "5-down",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "Satirise musical overdoing carnal knowledge, for starters (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "5-down"
+            ],
+            "position": {
+                "x": 9,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "MOCK"
+        },
+        {
+            "id": "6-down",
+            "number": 6,
+            "humanNumber": "6",
+            "clue": "Worried less about one news\u00adpaper initially concealing Conservative plots (10)",
+            "direction": "down",
+            "length": 10,
+            "group": [
+                "6-down"
+            ],
+            "position": {
+                "x": 11,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "STORYLINES"
+        },
+        {
+            "id": "7-down",
+            "number": 7,
+            "humanNumber": "7",
+            "clue": "Italian singer finally in charge in English opera company (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "7-down"
+            ],
+            "position": {
+                "x": 13,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "ENRICO"
+        },
+        {
+            "id": "13-down",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "See 2",
+            "direction": "down",
+            "length": 10,
+            "group": [
+                "2-down",
+                "13-down"
+            ],
+            "position": {
+                "x": 3,
+                "y": 5
+            },
+            "separatorLocations": {
+                ",": [
+                    4
+                ]
+            },
+            "solution": "EVANHANSEN"
+        },
+        {
+            "id": "15-down",
+            "number": 15,
+            "humanNumber": "15",
+            "clue": "See 17",
+            "direction": "down",
+            "length": 3,
+            "group": [
+                "17-down",
+                "15-down"
+            ],
+            "position": {
+                "x": 9,
+                "y": 5
+            },
+            "separatorLocations": {
+                ",": []
+            },
+            "solution": "MIS"
+        },
+        {
+            "id": "17-down",
+            "number": 17,
+            "humanNumber": "17, 15",
+            "clue": " There's not so much about military intelligence in a musical, commonly (3,3)",
+            "direction": "down",
+            "length": 3,
+            "group": [
+                "17-down",
+                "15-down"
+            ],
+            "position": {
+                "x": 5,
+                "y": 7
+            },
+            "separatorLocations": {
+                ",": [
+                    3
+                ]
+            },
+            "solution": "LES"
+        },
+        {
+            "id": "19-down",
+            "number": 19,
+            "humanNumber": "19, 9, 26",
+            "clue": " Panel show score indicating pretty good musical (5,3,2,3,4)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "19-down",
+                "9-across",
+                "26-down"
+            ],
+            "position": {
+                "x": 13,
+                "y": 7
+            },
+            "separatorLocations": {
+                ",": [
+                    5,
+                    8
+                ]
+            },
+            "solution": "EIGHTOUT"
+        },
+        {
+            "id": "20-down",
+            "number": 20,
+            "humanNumber": "20",
+            "clue": "Phone in, say, about making 5 orange or lilac (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "20-down"
+            ],
+            "position": {
+                "x": 7,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "SYRINGA"
+        },
+        {
+            "id": "22-down",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "Somewhat excessive number (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "22-down"
+            ],
+            "position": {
+                "x": 1,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "NINETY"
+        },
+        {
+            "id": "23-down",
+            "number": 23,
+            "humanNumber": "23",
+            "clue": "Sleep? Perchance, except those seen in schools in dorm, oddly (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "23-down"
+            ],
+            "position": {
+                "x": 9,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "DANCER"
+        },
+        {
+            "id": "25-down",
+            "number": 25,
+            "humanNumber": "25",
+            "clue": "Singer featuring in musical today (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "25-down"
+            ],
+            "position": {
+                "x": 5,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "ALTO"
+        },
+        {
+            "id": "26-down",
+            "number": 26,
+            "humanNumber": "26",
+            "clue": "See 19",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "19-down",
+                "9-across",
+                "26-down"
+            ],
+            "position": {
+                "x": 11,
+                "y": 11
+            },
+            "separatorLocations": {
+                ",": []
+            },
+            "solution": "CATS"
+        }
+    ],
+    "solutionAvailable": true,
+    "dateSolutionAvailable": 1591138800000,
+    "dimensions": {
+        "cols": 15,
+        "rows": 15
+    },
+    "crosswordType": "cryptic",
+    "pdf": "https://crosswords-static.guim.co.uk/gdn.cryptic.20200603.pdf",
+    "instructions": "5/6/20: The clue for 28 across has been corrected",
+    "_gridType": "M46a"
+}

@@ -1,0 +1,556 @@
+{
+    "id": "crosswords/prize/24051",
+    "number": 24051,
+    "name": "Prize crossword No 24,051",
+    "creator": {
+        "name": "Enigmatist",
+        "webUrl": "https://www.theguardian.com/profile/enigmatist"
+    },
+    "date": 1176508800000,
+    "webPublicationDate": 1176505200000,
+    "entries": [
+        {
+            "id": "9-across",
+            "number": 9,
+            "humanNumber": "9",
+            "clue": "Quite slowly and not for a little number (9)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "9-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "ANDANTINO"
+        },
+        {
+            "id": "10-across",
+            "number": 10,
+            "humanNumber": "10",
+            "clue": "The bottom line is finally stripped (2,3)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "10-across"
+            ],
+            "position": {
+                "x": 10,
+                "y": 1
+            },
+            "separatorLocations": {
+                ",": [
+                    2
+                ]
+            },
+            "solution": "INALL"
+        },
+        {
+            "id": "11-across",
+            "number": 11,
+            "humanNumber": "11",
+            "clue": "At table, cut of meat is immersed in drink (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "11-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 3
+            },
+            "separatorLocations": {},
+            "solution": "NOSHING"
+        },
+        {
+            "id": "12-across",
+            "number": 12,
+            "humanNumber": "12",
+            "clue": "King's absolutely all right in the realm of live entertainment (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "12-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 3
+            },
+            "separatorLocations": {},
+            "solution": "KARAOKE"
+        },
+        {
+            "id": "13-across",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "Recycling conifer with curve (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "13-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "ARCED"
+        },
+        {
+            "id": "14-across",
+            "number": 14,
+            "humanNumber": "14",
+            "clue": "Hit the roof, breaking nose in torus (2,4,3)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "14-across"
+            ],
+            "position": {
+                "x": 6,
+                "y": 5
+            },
+            "separatorLocations": {
+                ",": [
+                    2,
+                    6
+                ]
+            },
+            "solution": "DOONESNUT"
+        },
+        {
+            "id": "16-across",
+            "number": 16,
+            "humanNumber": "16",
+            "clue": "Appropriate line for Jackson Pollock? (8,7)",
+            "direction": "across",
+            "length": 15,
+            "group": [
+                "16-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 7
+            },
+            "separatorLocations": {
+                ",": [
+                    8
+                ]
+            },
+            "solution": "ABSTRACTPAINTER"
+        },
+        {
+            "id": "19-across",
+            "number": 19,
+            "humanNumber": "19",
+            "clue": "Desire (say) 22 down, going around ruins of Crete? (9)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "19-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "STREETCAR"
+        },
+        {
+            "id": "21-across",
+            "number": 21,
+            "humanNumber": "21",
+            "clue": "Thief takes on father (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "21-across"
+            ],
+            "position": {
+                "x": 10,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "PADRE"
+        },
+        {
+            "id": "22-across",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "Island streets (bidirectional) where gear is inhaled (2,5)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "22-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 11
+            },
+            "separatorLocations": {
+                ",": [
+                    2
+                ]
+            },
+            "solution": "STKITTS"
+        },
+        {
+            "id": "23-across",
+            "number": 23,
+            "humanNumber": "23",
+            "clue": "As it is in the laboratory, it reacts in scare (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "23-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "ARSENIC"
+        },
+        {
+            "id": "24-across",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "Man, for one, is following first division (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "24-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 13
+            },
+            "separatorLocations": {},
+            "solution": "AISLE"
+        },
+        {
+            "id": "25-across",
+            "number": 25,
+            "humanNumber": "25",
+            "clue": "Menu riper for dissection when the wine is new (2,7)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "25-across"
+            ],
+            "position": {
+                "x": 6,
+                "y": 13
+            },
+            "separatorLocations": {
+                ",": [
+                    2
+                ]
+            },
+            "solution": "ENPRIMEUR"
+        },
+        {
+            "id": "1-down",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "Sweet nothing (5,5)",
+            "direction": "down",
+            "length": 10,
+            "group": [
+                "1-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    5
+                ]
+            },
+            "solution": "FANNYADAMS"
+        },
+        {
+            "id": "2-down",
+            "number": 2,
+            "humanNumber": "2",
+            "clue": "Their top drawer partners are missing thrash, in all probability (3,5)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "2-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    3
+                ]
+            },
+            "solution": "ODDSOCKS"
+        },
+        {
+            "id": "3-down",
+            "number": 3,
+            "humanNumber": "3",
+            "clue": "Confirm arrangements with daughter, not settling using money (2,4)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "3-down"
+            ],
+            "position": {
+                "x": 4,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    2
+                ]
+            },
+            "solution": "INKIND"
+        },
+        {
+            "id": "4-down",
+            "number": 4,
+            "humanNumber": "4",
+            "clue": "Start to call (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "4-down"
+            ],
+            "position": {
+                "x": 6,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "RING"
+        },
+        {
+            "id": "5-down",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "Queen fan resting outside hospital, opposite penguin (10)",
+            "direction": "down",
+            "length": 10,
+            "group": [
+                "5-down"
+            ],
+            "position": {
+                "x": 8,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "ROCKHOPPER"
+        },
+        {
+            "id": "6-down",
+            "number": 6,
+            "humanNumber": "6",
+            "clue": "PM's giving off airs buying unusual foods? (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "6-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "DISRAELI"
+        },
+        {
+            "id": "7-down",
+            "number": 7,
+            "humanNumber": "7",
+            "clue": "Isolate a brownish crimson (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "7-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "MAROON"
+        },
+        {
+            "id": "8-down",
+            "number": 8,
+            "humanNumber": "8",
+            "clue": "Chelsea fan after defeat by Arsenal? (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "8-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "BLUE"
+        },
+        {
+            "id": "14-down",
+            "number": 14,
+            "humanNumber": "14",
+            "clue": "Detective takes slices off bird (10)",
+            "direction": "down",
+            "length": 10,
+            "group": [
+                "14-down"
+            ],
+            "position": {
+                "x": 6,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "DICKCISSEL"
+        },
+        {
+            "id": "15-down",
+            "number": 15,
+            "humanNumber": "15",
+            "clue": "Get excited here with stimulating escort, 60 (10)",
+            "direction": "down",
+            "length": 10,
+            "group": [
+                "15-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "THREESCORE"
+        },
+        {
+            "id": "17-down",
+            "number": 17,
+            "humanNumber": "17",
+            "clue": "Take compound of neon and get a dose of rays (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "17-down"
+            ],
+            "position": {
+                "x": 4,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "ROENTGEN"
+        },
+        {
+            "id": "18-down",
+            "number": 18,
+            "humanNumber": "18",
+            "clue": "Cross-dressing medic touring in Tyneside, as exemplified by MASH? (2,6)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "18-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 7
+            },
+            "separatorLocations": {
+                ",": [
+                    2
+                ]
+            },
+            "solution": "TVDINNER"
+        },
+        {
+            "id": "20-down",
+            "number": 20,
+            "humanNumber": "20",
+            "clue": "Like rou\u00e9's mum, after spirit (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "20-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "RAKISH"
+        },
+        {
+            "id": "21-down",
+            "number": 21,
+            "humanNumber": "21",
+            "clue": "Birds work up bearer of message in office (4-2)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "21-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 9
+            },
+            "separatorLocations": {
+                "-": [
+                    4
+                ]
+            },
+            "solution": "POSTIT"
+        },
+        {
+            "id": "22-down",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "The Sun's beginning, not the end  ... (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "22-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "STAR"
+        },
+        {
+            "id": "23-down",
+            "number": 23,
+            "humanNumber": "23",
+            "clue": "...  current stops losing beginning (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "23-down"
+            ],
+            "position": {
+                "x": 8,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "AMPS"
+        }
+    ],
+    "solutionAvailable": true,
+    "dateSolutionAvailable": 1177110000000,
+    "dimensions": {
+        "cols": 15,
+        "rows": 15
+    },
+    "crosswordType": "prize",
+    "instructions": "<a href=\"http://www.guardian.co.uk/crossword/page/0,,2062013,00.html\">Click here</a> for annotated solutions.",
+    "_gridType": "M08"
+}

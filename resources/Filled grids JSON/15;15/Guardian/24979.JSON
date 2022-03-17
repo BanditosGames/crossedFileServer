@@ -1,0 +1,612 @@
+{
+    "id": "crosswords/cryptic/24979",
+    "number": 24979,
+    "name": "Cryptic crossword No 24,979",
+    "creator": {
+        "name": "Araucaria",
+        "webUrl": "https://www.theguardian.com/profile/araucaria"
+    },
+    "date": 1270684800000,
+    "webPublicationDate": 1270681200000,
+    "entries": [
+        {
+            "id": "9-across",
+            "number": 9,
+            "humanNumber": "9",
+            "clue": "River of the Dales and river that's next to the Wash? (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "9-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "AIRER"
+        },
+        {
+            "id": "10-across",
+            "number": 10,
+            "humanNumber": "10",
+            "clue": "Right to enter observed \u2014 obtain one for National Park (9)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "10-across"
+            ],
+            "position": {
+                "x": 6,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "SERENGETI"
+        },
+        {
+            "id": "11-across",
+            "number": 11,
+            "humanNumber": "11",
+            "clue": "More room after 17, say, for \"Next\" noise factory (9)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "11-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 3
+            },
+            "separatorLocations": {},
+            "solution": "EXTENSION"
+        },
+        {
+            "id": "12-across",
+            "number": 12,
+            "humanNumber": "12",
+            "clue": "Setter's time for 17 (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "12-across"
+            ],
+            "position": {
+                "x": 10,
+                "y": 3
+            },
+            "separatorLocations": {},
+            "solution": "IMAGE"
+        },
+        {
+            "id": "13-across",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "On 8, hence 17: sailors first to interrupt bribe (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "13-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "BURNING"
+        },
+        {
+            "id": "15-across",
+            "number": 15,
+            "humanNumber": "15",
+            "clue": "Bone of bird in addition (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "15-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "STERNUM"
+        },
+        {
+            "id": "17-across",
+            "number": 17,
+            "humanNumber": "17, 18",
+            "clue": " Splendid Scots keep North End struggling as it was in the beginning (5,3)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "17-across",
+                "18-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 7
+            },
+            "separatorLocations": {
+                ",": [
+                    5
+                ]
+            },
+            "solution": "BRAND"
+        },
+        {
+            "id": "18-across",
+            "number": 18,
+            "humanNumber": "18",
+            "clue": "See 17",
+            "direction": "across",
+            "length": 3,
+            "group": [
+                "17-across",
+                "18-across"
+            ],
+            "position": {
+                "x": 6,
+                "y": 7
+            },
+            "separatorLocations": {
+                ",": []
+            },
+            "solution": "NEW"
+        },
+        {
+            "id": "20-across",
+            "number": 20,
+            "humanNumber": "20",
+            "clue": "Author of 17 and (with model) of \"The Railway Children's Return\"? (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "20-across"
+            ],
+            "position": {
+                "x": 10,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "IBSEN"
+        },
+        {
+            "id": "22-across",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "Game advice for confrontation? (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "22-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "EYEBALL"
+        },
+        {
+            "id": "25-across",
+            "number": 25,
+            "humanNumber": "25",
+            "clue": "Adherence to princes when they first change sides? (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "25-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "LOYALTY"
+        },
+        {
+            "id": "26-across",
+            "number": 26,
+            "humanNumber": "26",
+            "clue": "17's track opening (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "26-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "HATCH"
+        },
+        {
+            "id": "27-across",
+            "number": 27,
+            "humanNumber": "27",
+            "clue": "What's \"Porridge\"? Directions just as you like (2,2,5)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "27-across"
+            ],
+            "position": {
+                "x": 6,
+                "y": 11
+            },
+            "separatorLocations": {
+                ",": [
+                    2,
+                    4
+                ]
+            },
+            "solution": "ASITCOMES"
+        },
+        {
+            "id": "30-across",
+            "number": 30,
+            "humanNumber": "30",
+            "clue": "Ideal players rhyme (5,4)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "30-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 13
+            },
+            "separatorLocations": {
+                ",": [
+                    5
+                ]
+            },
+            "solution": "DREAMTEAM"
+        },
+        {
+            "id": "31-across",
+            "number": 31,
+            "humanNumber": "31",
+            "clue": "Wicked lady's anagram indicator (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "31-across"
+            ],
+            "position": {
+                "x": 10,
+                "y": 13
+            },
+            "separatorLocations": {},
+            "solution": "SADLY"
+        },
+        {
+            "id": "1-down",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "Handle for 17 (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "1-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "NAME"
+        },
+        {
+            "id": "2-down",
+            "number": 2,
+            "humanNumber": "2",
+            "clue": "Parrot that's flown from capital (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "2-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "PRETORIA"
+        },
+        {
+            "id": "3-down",
+            "number": 3,
+            "humanNumber": "3",
+            "clue": "Club with which to 17 (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "3-down"
+            ],
+            "position": {
+                "x": 4,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "IRON"
+        },
+        {
+            "id": "4-down",
+            "number": 4,
+            "humanNumber": "4",
+            "clue": "A little bit like an insect on a pole (1,7)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "4-down"
+            ],
+            "position": {
+                "x": 6,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    1
+                ]
+            },
+            "solution": "ASMIDGEN"
+        },
+        {
+            "id": "5-down",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "Series probing matter of fruit tree (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "5-down"
+            ],
+            "position": {
+                "x": 8,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "PRUNUS"
+        },
+        {
+            "id": "6-down",
+            "number": 6,
+            "humanNumber": "6",
+            "clue": "Lack of 25 to identify problem about distance in China (10)",
+            "direction": "down",
+            "length": 10,
+            "group": [
+                "6-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "INFIDELITY"
+        },
+        {
+            "id": "7-down",
+            "number": 7,
+            "humanNumber": "7",
+            "clue": "Recover, say, in wet weather (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "7-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "REGAIN"
+        },
+        {
+            "id": "8-down",
+            "number": 8,
+            "humanNumber": "8",
+            "clue": "Sack to go with 17 (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "8-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "FIRE"
+        },
+        {
+            "id": "13-down",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "Peevishness about book? That's a good one (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "13-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "BIBLE"
+        },
+        {
+            "id": "14-down",
+            "number": 14,
+            "humanNumber": "14",
+            "clue": "Grass home for d-devil housing an explosive (6,4)",
+            "direction": "down",
+            "length": 10,
+            "group": [
+                "14-down"
+            ],
+            "position": {
+                "x": 4,
+                "y": 5
+            },
+            "separatorLocations": {
+                ",": [
+                    6
+                ]
+            },
+            "solution": "INDIANHEMP"
+        },
+        {
+            "id": "16-down",
+            "number": 16,
+            "humanNumber": "16",
+            "clue": "Little time to promote desire such as 17 without 24 in 2 (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "16-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "MONEY"
+        },
+        {
+            "id": "19-down",
+            "number": 19,
+            "humanNumber": "19",
+            "clue": "Playwright, prelate and ex-Chancellor before 17 with no end to a text (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "19-down"
+            ],
+            "position": {
+                "x": 8,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "WILLIAMS"
+        },
+        {
+            "id": "21-down",
+            "number": 21,
+            "humanNumber": "21",
+            "clue": "Such a man requiring d__ females? Apparently not (4-4)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "21-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 7
+            },
+            "separatorLocations": {
+                "-": [
+                    4
+                ]
+            },
+            "solution": "SELFMADE"
+        },
+        {
+            "id": "23-down",
+            "number": 23,
+            "humanNumber": "23",
+            "clue": "Qualification required for course (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "23-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "ENTREE"
+        },
+        {
+            "id": "24-down",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "First on field, left back (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "24-down"
+            ],
+            "position": {
+                "x": 6,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "LEADER"
+        },
+        {
+            "id": "26-down",
+            "number": 26,
+            "humanNumber": "26",
+            "clue": "Keep skin covered? (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "26-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "HIDE"
+        },
+        {
+            "id": "28-down",
+            "number": 28,
+            "humanNumber": "28",
+            "clue": "16 when in church (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "28-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "CASH"
+        },
+        {
+            "id": "29-down",
+            "number": 29,
+            "humanNumber": "29",
+            "clue": "\"One more river\" \u2014 and every character can follow 17 (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "29-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "STYX"
+        }
+    ],
+    "solutionAvailable": true,
+    "dateSolutionAvailable": 1270681200000,
+    "dimensions": {
+        "cols": 15,
+        "rows": 15
+    },
+    "crosswordType": "cryptic",
+    "pdf": "http://static.guim.co.uk/crosswords/pdfs/gdn.cryptic.20100408.pdf",
+    "_gridType": "M54b"
+}

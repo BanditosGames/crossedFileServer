@@ -1,0 +1,593 @@
+{
+    "id": "crosswords/cryptic/28318",
+    "number": 28318,
+    "name": "Cryptic crossword No 28,318",
+    "creator": {
+        "name": "Puck",
+        "webUrl": "https://www.theguardian.com/profile/puck"
+    },
+    "date": 1608076800000,
+    "webPublicationDate": 1608076819000,
+    "entries": [
+        {
+            "id": "7-across",
+            "number": 7,
+            "humanNumber": "7",
+            "clue": "Complain about this Latin hairstyle (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "7-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "MOHICAN"
+        },
+        {
+            "id": "8-across",
+            "number": 8,
+            "humanNumber": "8",
+            "clue": "First of clues missed out? Puck's hard to find (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "8-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "ELUSIVE"
+        },
+        {
+            "id": "9-across",
+            "number": 9,
+            "humanNumber": "9",
+            "clue": "Given in to green-eyed monster? (4)",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "9-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 3
+            },
+            "separatorLocations": {},
+            "solution": "OGRE"
+        },
+        {
+            "id": "10-across",
+            "number": 10,
+            "humanNumber": "10",
+            "clue": "One who revels in Irish republic's model meets king and queen (9)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "10-across"
+            ],
+            "position": {
+                "x": 5,
+                "y": 3
+            },
+            "separatorLocations": {},
+            "solution": "ROISTERER"
+        },
+        {
+            "id": "12-across",
+            "number": 12,
+            "humanNumber": "12, 13",
+            "clue": " The French hope a poet becomes world champion (5,8)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "12-across",
+                "13-across"
+            ],
+            "position": {
+                "x": 1,
+                "y": 5
+            },
+            "separatorLocations": {
+                ",": [
+                    5
+                ]
+            },
+            "solution": "LEWIS"
+        },
+        {
+            "id": "13-across",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "See 12",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "12-across",
+                "13-across"
+            ],
+            "position": {
+                "x": 7,
+                "y": 5
+            },
+            "separatorLocations": {
+                ",": []
+            },
+            "solution": "HAMILTON"
+        },
+        {
+            "id": "15-across",
+            "number": 15,
+            "humanNumber": "15, 17, 1",
+            "clue": " Broadcaster got a snob raving about E-number (4,4,4)",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "15-across",
+                "17-across",
+                "1-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 7
+            },
+            "separatorLocations": {
+                ",": [
+                    4
+                ]
+            },
+            "solution": "SKYE"
+        },
+        {
+            "id": "16-across",
+            "number": 16,
+            "humanNumber": "16",
+            "clue": "See 3",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "3-down",
+                "16-across"
+            ],
+            "position": {
+                "x": 5,
+                "y": 7
+            },
+            "separatorLocations": {
+                ",": []
+            },
+            "solution": "TWEED"
+        },
+        {
+            "id": "17-across",
+            "number": 17,
+            "humanNumber": "17",
+            "clue": "See 15",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "15-across",
+                "17-across",
+                "1-down"
+            ],
+            "position": {
+                "x": 11,
+                "y": 7
+            },
+            "separatorLocations": {
+                ",": [
+                    4
+                ]
+            },
+            "solution": "BOAT"
+        },
+        {
+            "id": "18-across",
+            "number": 18,
+            "humanNumber": "18",
+            "clue": "Mother backed by her brothers in America (5,3)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "18-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 9
+            },
+            "separatorLocations": {
+                ",": [
+                    5
+                ]
+            },
+            "solution": "UNCLESAM"
+        },
+        {
+            "id": "20-across",
+            "number": 20,
+            "humanNumber": "20",
+            "clue": "Old-fashioned, like unfermented grape juice? (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "20-across"
+            ],
+            "position": {
+                "x": 9,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "MUSTY"
+        },
+        {
+            "id": "21-across",
+            "number": 21,
+            "humanNumber": "21",
+            "clue": "Pasta originally celebrated in a form of verse (9)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "21-across"
+            ],
+            "position": {
+                "x": 1,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "MACARONIC"
+        },
+        {
+            "id": "22-across",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "Soft drink for a footballer (4)",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "22-across"
+            ],
+            "position": {
+                "x": 11,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "BALE"
+        },
+        {
+            "id": "24-across",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "Sandwich with a brown filling? That's very obvious (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "24-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 13
+            },
+            "separatorLocations": {},
+            "solution": "BLATANT"
+        },
+        {
+            "id": "25-across",
+            "number": 25,
+            "humanNumber": "25",
+            "clue": "Steps taken before beginning to bake a small cake (3,4)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "25-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 13
+            },
+            "separatorLocations": {
+                ",": [
+                    3
+                ]
+            },
+            "solution": "RUMBABA"
+        },
+        {
+            "id": "1-down",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "See 15",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "15-across",
+                "17-across",
+                "1-down"
+            ],
+            "position": {
+                "x": 1,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": []
+            },
+            "solution": "SONG"
+        },
+        {
+            "id": "2-down",
+            "number": 2,
+            "humanNumber": "2",
+            "clue": "Flower briefly seen in borders of rockery (5,3)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "2-down"
+            ],
+            "position": {
+                "x": 3,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    5
+                ]
+            },
+            "solution": "RIVERWYE"
+        },
+        {
+            "id": "3-down",
+            "number": 3,
+            "humanNumber": "3, 16 across",
+            "clue": " Wear shirt unbuttoned? Journalist material (6,5)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "3-down",
+                "16-across"
+            ],
+            "position": {
+                "x": 5,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    6
+                ]
+            },
+            "solution": "HARRIS"
+        },
+        {
+            "id": "4-down",
+            "number": 4,
+            "humanNumber": "4",
+            "clue": "Sick notes daughter produces at inopportune moment (3-5)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "4-down"
+            ],
+            "position": {
+                "x": 9,
+                "y": 0
+            },
+            "separatorLocations": {
+                "-": [
+                    3
+                ]
+            },
+            "solution": "ILLTIMED"
+        },
+        {
+            "id": "5-down",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "Lead-free substance akin to vapour trail, leaving one sort of plane (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "5-down"
+            ],
+            "position": {
+                "x": 11,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "ASTRAL"
+        },
+        {
+            "id": "6-down",
+            "number": 6,
+            "humanNumber": "6",
+            "clue": "See 21",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "21-down",
+                "6-down"
+            ],
+            "position": {
+                "x": 13,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": []
+            },
+            "solution": "OVER"
+        },
+        {
+            "id": "11-down",
+            "number": 11,
+            "humanNumber": "11",
+            "clue": "Mongoose I see hotel has on menu, surprisingly (9)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "11-down"
+            ],
+            "position": {
+                "x": 7,
+                "y": 3
+            },
+            "separatorLocations": {},
+            "solution": "ICHNEUMON"
+        },
+        {
+            "id": "12-down",
+            "number": 12,
+            "humanNumber": "12",
+            "clue": "Compare bushy beards and crusty spots, say (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "12-down"
+            ],
+            "position": {
+                "x": 1,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "LIKEN"
+        },
+        {
+            "id": "14-down",
+            "number": 14,
+            "humanNumber": "14",
+            "clue": "Organ stops essentially modulate (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "14-down"
+            ],
+            "position": {
+                "x": 13,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "OVARY"
+        },
+        {
+            "id": "16-down",
+            "number": 16,
+            "humanNumber": "16",
+            "clue": "Seasick in Hertfordshire town? That's stunningly shocking! (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "16-down"
+            ],
+            "position": {
+                "x": 5,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "TASERING"
+        },
+        {
+            "id": "17-down",
+            "number": 17,
+            "humanNumber": "17",
+            "clue": "African primate, one of two very young ones destined to be president? (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "17-down"
+            ],
+            "position": {
+                "x": 11,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "BUSHBABY"
+        },
+        {
+            "id": "19-down",
+            "number": 19,
+            "humanNumber": "19",
+            "clue": "Flipping firm behind's covered seat (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "19-down"
+            ],
+            "position": {
+                "x": 3,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "LOCATE"
+        },
+        {
+            "id": "20-down",
+            "number": 20,
+            "humanNumber": "20",
+            "clue": "Make a mess of Puck's anagram, putting the twelfth letter first (4,2)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "20-down"
+            ],
+            "position": {
+                "x": 9,
+                "y": 9
+            },
+            "separatorLocations": {
+                ",": [
+                    4
+                ]
+            },
+            "solution": "MUCKUP"
+        },
+        {
+            "id": "21-down",
+            "number": 21,
+            "humanNumber": "21, 6",
+            "clue": " Consider money needed for parking in Jersey (4,4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "21-down",
+                "6-down"
+            ],
+            "position": {
+                "x": 1,
+                "y": 11
+            },
+            "separatorLocations": {
+                ",": [
+                    4
+                ]
+            },
+            "solution": "MULL"
+        },
+        {
+            "id": "23-down",
+            "number": 23,
+            "humanNumber": "23",
+            "clue": "One promoting free movement Tory leader's demoted twice (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "23-down"
+            ],
+            "position": {
+                "x": 13,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "LUBE"
+        }
+    ],
+    "solutionAvailable": true,
+    "dateSolutionAvailable": 1608076800000,
+    "dimensions": {
+        "cols": 15,
+        "rows": 15
+    },
+    "crosswordType": "cryptic",
+    "pdf": "https://crosswords-static.guim.co.uk/gdn.cryptic.20201216.pdf",
+    "instructions": "16/12/2020 4 down: clue has been changed",
+    "_gridType": "M58"
+}

@@ -1,0 +1,580 @@
+{
+    "id": "crosswords/cryptic/24884",
+    "number": 24884,
+    "name": "Cryptic crossword No 24,884",
+    "creator": {
+        "name": "Paul",
+        "webUrl": "https://www.theguardian.com/profile/paul"
+    },
+    "date": 1260921600000,
+    "webPublicationDate": 1260921600000,
+    "entries": [
+        {
+            "id": "1-across",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "Bearer of wine giving a service in church (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "1-across"
+            ],
+            "position": {
+                "x": 1,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "CARAFE"
+        },
+        {
+            "id": "4-across",
+            "number": 4,
+            "humanNumber": "4",
+            "clue": "In the interests of man to cut fat back? (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "4-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "BEHALF"
+        },
+        {
+            "id": "9-across",
+            "number": 9,
+            "humanNumber": "9",
+            "clue": "Round sound? (4)",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "9-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 2
+            },
+            "separatorLocations": {},
+            "solution": "RING"
+        },
+        {
+            "id": "10-across",
+            "number": 10,
+            "humanNumber": "10",
+            "clue": "Lesser jobs returning Mexican food in French planes (10)",
+            "direction": "across",
+            "length": 10,
+            "group": [
+                "10-across"
+            ],
+            "position": {
+                "x": 5,
+                "y": 2
+            },
+            "separatorLocations": {},
+            "solution": "AVOCATIONS"
+        },
+        {
+            "id": "11-across",
+            "number": 11,
+            "humanNumber": "11",
+            "clue": "Sport screened by covering feature in Chamonix, for example (3,3)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "11-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 4
+            },
+            "separatorLocations": {
+                ",": [
+                    3
+                ]
+            },
+            "solution": "SKIRUN"
+        },
+        {
+            "id": "12-across",
+            "number": 12,
+            "humanNumber": "12",
+            "clue": "Loud 6, not the first as 6 (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "12-across"
+            ],
+            "position": {
+                "x": 7,
+                "y": 4
+            },
+            "separatorLocations": {},
+            "solution": "FANTASIA"
+        },
+        {
+            "id": "13-across",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "Elitist admitting western soprano dazzled (4-5)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "13-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 6
+            },
+            "separatorLocations": {
+                "-": [
+                    4
+                ]
+            },
+            "solution": "SNOWBLIND"
+        },
+        {
+            "id": "15-across",
+            "number": 15,
+            "humanNumber": "15",
+            "clue": "See 16 down",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "16-down",
+                "15-across"
+            ],
+            "position": {
+                "x": 10,
+                "y": 6
+            },
+            "separatorLocations": {
+                ",": []
+            },
+            "solution": "KING"
+        },
+        {
+            "id": "16-across",
+            "number": 16,
+            "humanNumber": "16",
+            "clue": "Communist movement? (4)",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "16-across"
+            ],
+            "position": {
+                "x": 1,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "TROT"
+        },
+        {
+            "id": "17-across",
+            "number": 17,
+            "humanNumber": "17",
+            "clue": "Get seaman ordered for Boy George, perhaps (5,4)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "17-across"
+            ],
+            "position": {
+                "x": 6,
+                "y": 8
+            },
+            "separatorLocations": {
+                ",": [
+                    5
+                ]
+            },
+            "solution": "STAGENAME"
+        },
+        {
+            "id": "21-across",
+            "number": 21,
+            "humanNumber": "21",
+            "clue": "Why attention given to pudding in the distant past (5,3)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "21-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 10
+            },
+            "separatorLocations": {
+                ",": [
+                    5
+                ]
+            },
+            "solution": "YEARSAGO"
+        },
+        {
+            "id": "22-across",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "See 1 down",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "1-down",
+                "22-across"
+            ],
+            "position": {
+                "x": 9,
+                "y": 10
+            },
+            "separatorLocations": {
+                ",": []
+            },
+            "solution": "LITTLE"
+        },
+        {
+            "id": "24-across",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "McDonald's given foot, one gathered, on every strip in Florida (5,5)",
+            "direction": "across",
+            "length": 10,
+            "group": [
+                "24-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 12
+            },
+            "separatorLocations": {
+                ",": [
+                    5
+                ]
+            },
+            "solution": "MIAMIBEACH"
+        },
+        {
+            "id": "25-across",
+            "number": 25,
+            "humanNumber": "25",
+            "clue": "See 7",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "7-down",
+                "25-across"
+            ],
+            "position": {
+                "x": 11,
+                "y": 12
+            },
+            "separatorLocations": {
+                ",": []
+            },
+            "solution": "NEMO"
+        },
+        {
+            "id": "26-across",
+            "number": 26,
+            "humanNumber": "26",
+            "clue": "Having backed horse, shame non-starter given total exposure (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "26-across"
+            ],
+            "position": {
+                "x": 1,
+                "y": 14
+            },
+            "separatorLocations": {},
+            "solution": "NUDITY"
+        },
+        {
+            "id": "27-across",
+            "number": 27,
+            "humanNumber": "27",
+            "clue": "My boss is working to become an inventor (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "27-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 14
+            },
+            "separatorLocations": {},
+            "solution": "EDISON"
+        },
+        {
+            "id": "1-down",
+            "number": 1,
+            "humanNumber": "1, 22",
+            "clue": " 6 showing yellow wee (7,6)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "1-down",
+                "22-across"
+            ],
+            "position": {
+                "x": 1,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    7
+                ]
+            },
+            "solution": "CHICKEN"
+        },
+        {
+            "id": "2-down",
+            "number": 2,
+            "humanNumber": "2",
+            "clue": "See 14",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "14-down",
+                "2-down",
+                "20-down"
+            ],
+            "position": {
+                "x": 3,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    5
+                ]
+            },
+            "solution": "ROGER"
+        },
+        {
+            "id": "3-down",
+            "number": 3,
+            "humanNumber": "3",
+            "clue": "Queen in decline without a cleaner (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "3-down"
+            ],
+            "position": {
+                "x": 5,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "FLANNEL"
+        },
+        {
+            "id": "5-down",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "Raise some genial, educated girl (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "5-down"
+            ],
+            "position": {
+                "x": 9,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "ELAINE"
+        },
+        {
+            "id": "6-down",
+            "number": 6,
+            "humanNumber": "6",
+            "clue": "Paul's in a state \u2014 that's life! (9)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "6-down"
+            ],
+            "position": {
+                "x": 11,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "ANIMATION"
+        },
+        {
+            "id": "7-down",
+            "number": 7,
+            "humanNumber": "7, 25",
+            "clue": " 6 where wild dog gobbles pieces up after bit of fish (7,4)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "7-down",
+                "25-across"
+            ],
+            "position": {
+                "x": 13,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    7
+                ]
+            },
+            "solution": "FINDING"
+        },
+        {
+            "id": "8-down",
+            "number": 8,
+            "humanNumber": "8",
+            "clue": "Useless oaf Clinton cavorting with nun (3-10)",
+            "direction": "down",
+            "length": 13,
+            "group": [
+                "8-down"
+            ],
+            "position": {
+                "x": 7,
+                "y": 1
+            },
+            "separatorLocations": {
+                "-": [
+                    3
+                ]
+            },
+            "solution": "NONFUNCTIONAL"
+        },
+        {
+            "id": "14-down",
+            "number": 14,
+            "humanNumber": "14, 2, 20",
+            "clue": " Partial 6 doctor put in the picture, OK to go on (3,6,5,6)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "14-down",
+                "2-down",
+                "20-down"
+            ],
+            "position": {
+                "x": 3,
+                "y": 6
+            },
+            "separatorLocations": {
+                ",": [
+                    3,
+                    9
+                ]
+            },
+            "solution": "WHOFRAMED"
+        },
+        {
+            "id": "16-down",
+            "number": 16,
+            "humanNumber": "16, 15",
+            "clue": " 6 like nothing else (3,4,4)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "16-down",
+                "15-across"
+            ],
+            "position": {
+                "x": 1,
+                "y": 8
+            },
+            "separatorLocations": {
+                ",": [
+                    3,
+                    7
+                ]
+            },
+            "solution": "THELION"
+        },
+        {
+            "id": "18-down",
+            "number": 18,
+            "humanNumber": "18",
+            "clue": "Party laid on for knight (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "18-down"
+            ],
+            "position": {
+                "x": 9,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "GALAHAD"
+        },
+        {
+            "id": "19-down",
+            "number": 19,
+            "humanNumber": "19",
+            "clue": "He has the bottle to exploit isle (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "19-down"
+            ],
+            "position": {
+                "x": 13,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "MILKMAN"
+        },
+        {
+            "id": "20-down",
+            "number": 20,
+            "humanNumber": "20",
+            "clue": "See 14",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "14-down",
+                "2-down",
+                "20-down"
+            ],
+            "position": {
+                "x": 5,
+                "y": 9
+            },
+            "separatorLocations": {
+                ",": []
+            },
+            "solution": "RABBIT"
+        },
+        {
+            "id": "23-down",
+            "number": 23,
+            "humanNumber": "23",
+            "clue": "In which beer is capital (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "23-down"
+            ],
+            "position": {
+                "x": 11,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "TUNIS"
+        }
+    ],
+    "solutionAvailable": true,
+    "dateSolutionAvailable": 1260921600000,
+    "dimensions": {
+        "cols": 15,
+        "rows": 15
+    },
+    "crosswordType": "cryptic",
+    "_gridType": "M28"
+}

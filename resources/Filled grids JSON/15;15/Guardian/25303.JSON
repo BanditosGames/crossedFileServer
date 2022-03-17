@@ -1,0 +1,545 @@
+{
+    "id": "crosswords/cryptic/25303",
+    "number": 25303,
+    "name": "Cryptic crossword No 25,303",
+    "creator": {
+        "name": "Orlando",
+        "webUrl": "https://www.theguardian.com/profile/orlando"
+    },
+    "date": 1303430400000,
+    "webPublicationDate": 1303426800000,
+    "entries": [
+        {
+            "id": "1-across",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "Warner set enclosing concrete area (4,5)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "1-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    4
+                ]
+            },
+            "solution": "FIREALARM"
+        },
+        {
+            "id": "6-across",
+            "number": 6,
+            "humanNumber": "6",
+            "clue": "Exploited figures in Rousseau's education (4)",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "6-across"
+            ],
+            "position": {
+                "x": 11,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "USED"
+        },
+        {
+            "id": "10-across",
+            "number": 10,
+            "humanNumber": "10",
+            "clue": "Country backing queen mostly (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "10-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 2
+            },
+            "separatorLocations": {},
+            "solution": "NIGER"
+        },
+        {
+            "id": "11-across",
+            "number": 11,
+            "humanNumber": "11",
+            "clue": "Say farewell, having heard Scottish runner split (4,5)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "11-across"
+            ],
+            "position": {
+                "x": 6,
+                "y": 2
+            },
+            "separatorLocations": {
+                ",": [
+                    4
+                ]
+            },
+            "solution": "TAKELEAVE"
+        },
+        {
+            "id": "12-across",
+            "number": 12,
+            "humanNumber": "12",
+            "clue": "Possibly an item (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "12-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 4
+            },
+            "separatorLocations": {},
+            "solution": "ARTICLE"
+        },
+        {
+            "id": "13-across",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "Tell me to stop being windy as he yawns (3,4)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "13-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 4
+            },
+            "separatorLocations": {
+                ",": [
+                    3
+                ]
+            },
+            "solution": "SAYWHEN"
+        },
+        {
+            "id": "14-across",
+            "number": 14,
+            "humanNumber": "14",
+            "clue": "Got silly organ? Fancy seeing a specialist? (13)",
+            "direction": "across",
+            "length": 13,
+            "group": [
+                "14-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "LARYNGOLOGIST"
+        },
+        {
+            "id": "17-across",
+            "number": 17,
+            "humanNumber": "17",
+            "clue": "Working \u2014 like David Copperfield? (5,3,5)",
+            "direction": "across",
+            "length": 13,
+            "group": [
+                "17-across"
+            ],
+            "position": {
+                "x": 2,
+                "y": 8
+            },
+            "separatorLocations": {
+                ",": [
+                    5,
+                    8
+                ]
+            },
+            "solution": "DOINGTHETRICK"
+        },
+        {
+            "id": "21-across",
+            "number": 21,
+            "humanNumber": "21",
+            "clue": "Butterfly allowed to follow band (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "21-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "RINGLET"
+        },
+        {
+            "id": "22-across",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "Trees planted in the middle of Seattle in the early stages (2,5)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "22-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 10
+            },
+            "separatorLocations": {
+                ",": [
+                    2
+                ]
+            },
+            "solution": "ATFIRST"
+        },
+        {
+            "id": "24-across",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "Doctor, having provided couple with excess of drugs, may be washed up (9)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "24-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 12
+            },
+            "separatorLocations": {},
+            "solution": "DRIFTWOOD"
+        },
+        {
+            "id": "25-across",
+            "number": 25,
+            "humanNumber": "25",
+            "clue": "Get to church on time, switching leaders (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "25-across"
+            ],
+            "position": {
+                "x": 10,
+                "y": 12
+            },
+            "separatorLocations": {},
+            "solution": "REACH"
+        },
+        {
+            "id": "26-across",
+            "number": 26,
+            "humanNumber": "26",
+            "clue": "Loaf brought round with a fish (4)",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "26-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 14
+            },
+            "separatorLocations": {},
+            "solution": "TUNA"
+        },
+        {
+            "id": "27-across",
+            "number": 27,
+            "humanNumber": "27",
+            "clue": "One harasses people in Twin Peaks (9)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "27-across"
+            ],
+            "position": {
+                "x": 6,
+                "y": 14
+            },
+            "separatorLocations": {},
+            "solution": "TORMENTOR"
+        },
+        {
+            "id": "1-down",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "Round insect doesn't come up to scratch birds (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "1-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "FANTAILS"
+        },
+        {
+            "id": "2-down",
+            "number": 2,
+            "humanNumber": "2",
+            "clue": "Bookmaker, say, turning up amid nonsense, rubbish, drivel, claptrap etc (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "2-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "ROGET"
+        },
+        {
+            "id": "3-down",
+            "number": 3,
+            "humanNumber": "3",
+            "clue": "Flora's active in going to pot plants (7,7)",
+            "direction": "down",
+            "length": 14,
+            "group": [
+                "3-down"
+            ],
+            "position": {
+                "x": 4,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    7
+                ]
+            },
+            "solution": "AFRICANVIOLETS"
+        },
+        {
+            "id": "4-down",
+            "number": 4,
+            "humanNumber": "4",
+            "clue": "Redcoat going bust in style  \u2026 (3,4)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "4-down"
+            ],
+            "position": {
+                "x": 6,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    3
+                ]
+            },
+            "solution": "ARTDECO"
+        },
+        {
+            "id": "5-down",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "\u2026  manages to forge small note (5,2)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "5-down"
+            ],
+            "position": {
+                "x": 8,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    5
+                ]
+            },
+            "solution": "MAKESDO"
+        },
+        {
+            "id": "7-down",
+            "number": 7,
+            "humanNumber": "7",
+            "clue": "Fare from the junction? (9)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "7-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "SPAGHETTI"
+        },
+        {
+            "id": "8-down",
+            "number": 8,
+            "humanNumber": "8",
+            "clue": "Minder fitting girl up (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "8-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "DUENNA"
+        },
+        {
+            "id": "9-down",
+            "number": 9,
+            "humanNumber": "9",
+            "clue": "Criminal from a timely spy movie (4,5,3,2)",
+            "direction": "down",
+            "length": 14,
+            "group": [
+                "9-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 1
+            },
+            "separatorLocations": {
+                ",": [
+                    4,
+                    9,
+                    12
+                ]
+            },
+            "solution": "PLAYMISTYFORME"
+        },
+        {
+            "id": "15-down",
+            "number": 15,
+            "humanNumber": "15",
+            "clue": "New layout incorporating new flag (3,6)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "15-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 6
+            },
+            "separatorLocations": {
+                ",": [
+                    3
+                ]
+            },
+            "solution": "REDENSIGN"
+        },
+        {
+            "id": "16-down",
+            "number": 16,
+            "humanNumber": "16",
+            "clue": "Empty sack engraver found in drawer (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "16-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "SKETCHER"
+        },
+        {
+            "id": "18-down",
+            "number": 18,
+            "humanNumber": "18",
+            "clue": "Lose bearings on your bike! (3,4)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "18-down"
+            ],
+            "position": {
+                "x": 6,
+                "y": 8
+            },
+            "separatorLocations": {
+                ",": [
+                    3
+                ]
+            },
+            "solution": "GETLOST"
+        },
+        {
+            "id": "19-down",
+            "number": 19,
+            "humanNumber": "19",
+            "clue": "For a magpie it's more distressing when nothing is retained (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "19-down"
+            ],
+            "position": {
+                "x": 8,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "HOARDER"
+        },
+        {
+            "id": "20-down",
+            "number": 20,
+            "humanNumber": "20",
+            "clue": "Believe it's on the cards? (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "20-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "CREDIT"
+        },
+        {
+            "id": "23-down",
+            "number": 23,
+            "humanNumber": "23",
+            "clue": "Food cooked in oven or pan (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "23-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "ROAST"
+        }
+    ],
+    "solutionAvailable": true,
+    "dateSolutionAvailable": 1303426800000,
+    "dimensions": {
+        "cols": 15,
+        "rows": 15
+    },
+    "crosswordType": "cryptic",
+    "pdf": "http://static.guim.co.uk/crosswords/pdfs/gdn.cryptic.20110422.pdf",
+    "_gridType": "M39"
+}

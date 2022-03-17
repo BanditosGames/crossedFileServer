@@ -1,0 +1,532 @@
+{
+    "id": "crosswords/cryptic/22102",
+    "number": 22102,
+    "name": "Cryptic crossword No 22,102",
+    "creator": {
+        "name": "Pasquale",
+        "webUrl": "https://www.theguardian.com/profile/pasquale"
+    },
+    "date": 979084800000,
+    "webPublicationDate": 979084800000,
+    "entries": [
+        {
+            "id": "9-across",
+            "number": 9,
+            "humanNumber": "9",
+            "clue": "Bubbly cream may ease pain here? (2,3,4)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "9-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 1
+            },
+            "separatorLocations": {
+                ",": [
+                    2,
+                    5
+                ]
+            },
+            "solution": "ONTHEBOIL"
+        },
+        {
+            "id": "10-across",
+            "number": 10,
+            "humanNumber": "10",
+            "clue": "Greatly admire ace illustrator (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "10-across"
+            ],
+            "position": {
+                "x": 10,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "ADORE"
+        },
+        {
+            "id": "11-across",
+            "number": 11,
+            "humanNumber": "11",
+            "clue": "A point made about old railway network needing to be up-to-date (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "11-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 3
+            },
+            "separatorLocations": {},
+            "solution": "ABREAST"
+        },
+        {
+            "id": "12-across",
+            "number": 12,
+            "humanNumber": "12",
+            "clue": "Focus of Bach's work that's given minimal coverage? (1-6)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "12-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 3
+            },
+            "separatorLocations": {
+                "-": [
+                    1
+                ]
+            },
+            "solution": "GSTRING"
+        },
+        {
+            "id": "13-across",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "Sally is girl needing a head transplant (4)",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "13-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "RAID"
+        },
+        {
+            "id": "14-across",
+            "number": 14,
+            "humanNumber": "14",
+            "clue": "A hiker out to get ride possibly - man in a cap? (4,6)",
+            "direction": "across",
+            "length": 10,
+            "group": [
+                "14-across"
+            ],
+            "position": {
+                "x": 5,
+                "y": 5
+            },
+            "separatorLocations": {
+                ",": [
+                    4
+                ]
+            },
+            "solution": "KEIRHARDIE"
+        },
+        {
+            "id": "15-across",
+            "number": 15,
+            "humanNumber": "15",
+            "clue": "Lager is drunk - port, too (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "15-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "ALGIERS"
+        },
+        {
+            "id": "17-across",
+            "number": 17,
+            "humanNumber": "17",
+            "clue": "Official to feel unwell, having got hit about (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "17-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "BAILIFF"
+        },
+        {
+            "id": "19-across",
+            "number": 19,
+            "humanNumber": "19",
+            "clue": "A street, ornate, in dull European city (10)",
+            "direction": "across",
+            "length": 10,
+            "group": [
+                "19-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "MAASTRICHT"
+        },
+        {
+            "id": "22-across",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "Senile state associated with repetition (4)",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "22-across"
+            ],
+            "position": {
+                "x": 11,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "GAGA"
+        },
+        {
+            "id": "23-across",
+            "number": 23,
+            "humanNumber": "23",
+            "clue": "Sun disappearing? There's a wind from the southwest (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "23-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "MONSOON"
+        },
+        {
+            "id": "24-across",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "Attractive female given garland - learning to take the lead (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "24-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "LORELEI"
+        },
+        {
+            "id": "26-across",
+            "number": 26,
+            "humanNumber": "26",
+            "clue": "It's impracticable whichever way you look at it (3,2)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "26-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 13
+            },
+            "separatorLocations": {
+                ",": [
+                    3
+                ]
+            },
+            "solution": "NOTON"
+        },
+        {
+            "id": "27-across",
+            "number": 27,
+            "humanNumber": "27",
+            "clue": "The people here when functioning in a series of social events (3,6)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "27-across"
+            ],
+            "position": {
+                "x": 6,
+                "y": 13
+            },
+            "separatorLocations": {
+                ",": [
+                    3
+                ]
+            },
+            "solution": "THESEASON"
+        },
+        {
+            "id": "1-down",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "Crusading movement is back, with alarm spreading around in next to no time (5,10)",
+            "direction": "down",
+            "length": 15,
+            "group": [
+                "1-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    5
+                ]
+            },
+            "solution": "MORALREARMAMENT"
+        },
+        {
+            "id": "2-down",
+            "number": 2,
+            "humanNumber": "2",
+            "clue": "First-class Scottish town, one displaced by English (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "2-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "STERLING"
+        },
+        {
+            "id": "3-down",
+            "number": 3,
+            "humanNumber": "3",
+            "clue": "Dairy product consumed by Muffet  apparently (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "3-down"
+            ],
+            "position": {
+                "x": 4,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "FETA"
+        },
+        {
+            "id": "4-down",
+            "number": 4,
+            "humanNumber": "4",
+            "clue": "Description of Brutus by Caesar just before his death in bare feet? (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "4-down"
+            ],
+            "position": {
+                "x": 6,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "BOOTLESS"
+        },
+        {
+            "id": "5-down",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "Member in non-drinking organisation right off beer? (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "5-down"
+            ],
+            "position": {
+                "x": 8,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "ALEGAR"
+        },
+        {
+            "id": "6-down",
+            "number": 6,
+            "humanNumber": "6",
+            "clue": "Singers and actors given position on scale - all but \"no good\" (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "6-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "CASTRATI"
+        },
+        {
+            "id": "7-down",
+            "number": 7,
+            "humanNumber": "7",
+            "clue": "Unoriginal dish includes fish? On the contrary (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "7-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "COPIED"
+        },
+        {
+            "id": "8-down",
+            "number": 8,
+            "humanNumber": "8",
+            "clue": "Saluting a foe, one reintegrated into worldwide community (6,2,7)",
+            "direction": "down",
+            "length": 15,
+            "group": [
+                "8-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    6,
+                    8
+                ]
+            },
+            "solution": "LEAGUEOFNATIONS"
+        },
+        {
+            "id": "16-down",
+            "number": 16,
+            "humanNumber": "16",
+            "clue": "English paper boys to be without round in the near future Gadzooks! (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "16-down"
+            ],
+            "position": {
+                "x": 4,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "EFTSOONS"
+        },
+        {
+            "id": "17-down",
+            "number": 17,
+            "humanNumber": "17",
+            "clue": "Bound to see the end, but not the very end (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "17-down"
+            ],
+            "position": {
+                "x": 8,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "BEHOLDEN"
+        },
+        {
+            "id": "18-down",
+            "number": 18,
+            "humanNumber": "18",
+            "clue": "I beat incoming supporter up as quick as anything! (2,1,5)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "18-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 7
+            },
+            "separatorLocations": {
+                ",": [
+                    2,
+                    3
+                ]
+            },
+            "solution": "INAFLASH"
+        },
+        {
+            "id": "20-down",
+            "number": 20,
+            "humanNumber": "20",
+            "clue": "One of the same clan with name cast in stone (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "20-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "AGNATE"
+        },
+        {
+            "id": "21-down",
+            "number": 21,
+            "humanNumber": "21",
+            "clue": "Pub had food provided from the very start (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "21-down"
+            ],
+            "position": {
+                "x": 6,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "INNATE"
+        },
+        {
+            "id": "25-down",
+            "number": 25,
+            "humanNumber": "25",
+            "clue": "Regretted being offensive in speech (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "25-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "RUED"
+        }
+    ],
+    "solutionAvailable": true,
+    "dateSolutionAvailable": 979084800000,
+    "dimensions": {
+        "cols": 15,
+        "rows": 15
+    },
+    "crosswordType": "cryptic",
+    "_gridType": "M29"
+}

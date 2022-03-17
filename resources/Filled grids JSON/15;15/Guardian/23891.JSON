@@ -1,0 +1,551 @@
+{
+    "id": "crosswords/prize/23891",
+    "number": 23891,
+    "name": "Prize crossword No 23,891",
+    "creator": {
+        "name": "Enigmatist",
+        "webUrl": "https://www.theguardian.com/profile/enigmatist"
+    },
+    "date": 1160179200000,
+    "webPublicationDate": 1160175600000,
+    "entries": [
+        {
+            "id": "1-across",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "A nod or a sign and, classically, our victim appears (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "1-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "BECKET"
+        },
+        {
+            "id": "5-across",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "Notes come in to my study regarding place names (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "5-across"
+            ],
+            "position": {
+                "x": 7,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "TOPONYMY"
+        },
+        {
+            "id": "9-across",
+            "number": 9,
+            "humanNumber": "9",
+            "clue": "The youngster is Peg Lear's backward daughter (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "9-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 2
+            },
+            "separatorLocations": {},
+            "solution": "TEENAGER"
+        },
+        {
+            "id": "10-across",
+            "number": 10,
+            "humanNumber": "10",
+            "clue": "Hammer's cracked element with no opposition (3,3)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "10-across"
+            ],
+            "position": {
+                "x": 9,
+                "y": 2
+            },
+            "separatorLocations": {
+                ",": [
+                    3
+                ]
+            },
+            "solution": "NEMCON"
+        },
+        {
+            "id": "11-across",
+            "number": 11,
+            "humanNumber": "11",
+            "clue": "See 2",
+            "direction": "across",
+            "length": 12,
+            "group": [
+                "2-down",
+                "11-across"
+            ],
+            "position": {
+                "x": 3,
+                "y": 4
+            },
+            "separatorLocations": {
+                "-": []
+            },
+            "solution": "HUMOUREDNESS"
+        },
+        {
+            "id": "13-across",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "Candid writer of love letter? (4)",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "13-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "OPEN"
+        },
+        {
+            "id": "14-across",
+            "number": 14,
+            "humanNumber": "14",
+            "clue": "Goodbye to ex-PM's toothless lot! (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "14-across"
+            ],
+            "position": {
+                "x": 7,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "EDENTATA"
+        },
+        {
+            "id": "17-across",
+            "number": 17,
+            "humanNumber": "17",
+            "clue": "By the narrowest of margins, but right (4,4)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "17-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 8
+            },
+            "separatorLocations": {
+                ",": [
+                    4
+                ]
+            },
+            "solution": "ONLYJUST"
+        },
+        {
+            "id": "18-across",
+            "number": 18,
+            "humanNumber": "18",
+            "clue": "Eagle secured by Goosen, returning round (4)",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "18-across"
+            ],
+            "position": {
+                "x": 11,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "ERNE"
+        },
+        {
+            "id": "20-across",
+            "number": 20,
+            "humanNumber": "20",
+            "clue": "Sweet start to seduction: naughty try to get her arm around (6,6)",
+            "direction": "across",
+            "length": 12,
+            "group": [
+                "20-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 10
+            },
+            "separatorLocations": {
+                ",": [
+                    6
+                ]
+            },
+            "solution": "SHERRYTRIFLE"
+        },
+        {
+            "id": "23-across",
+            "number": 23,
+            "humanNumber": "23",
+            "clue": "God's less down (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "23-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 12
+            },
+            "separatorLocations": {},
+            "solution": "BALDER"
+        },
+        {
+            "id": "24-across",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "I hope it can develop a country (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "24-across"
+            ],
+            "position": {
+                "x": 7,
+                "y": 12
+            },
+            "separatorLocations": {},
+            "solution": "ETHIOPIA"
+        },
+        {
+            "id": "25-across",
+            "number": 25,
+            "humanNumber": "25",
+            "clue": "No more fleeting Franco-German cheese celebration? (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "25-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 14
+            },
+            "separatorLocations": {},
+            "solution": "BRIEFEST"
+        },
+        {
+            "id": "26-across",
+            "number": 26,
+            "humanNumber": "26",
+            "clue": "First of slats almost off seat (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "26-across"
+            ],
+            "position": {
+                "x": 9,
+                "y": 14
+            },
+            "separatorLocations": {},
+            "solution": "SADDLE"
+        },
+        {
+            "id": "2-down",
+            "number": 2,
+            "humanNumber": "2",
+            "clue": "Placidity, indeed - numerous Shed puzzles (4-12)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "2-down",
+                "11-across"
+            ],
+            "position": {
+                "x": 1,
+                "y": 0
+            },
+            "separatorLocations": {
+                "-": [
+                    4
+                ]
+            },
+            "solution": "EVEN"
+        },
+        {
+            "id": "3-down",
+            "number": 3,
+            "humanNumber": "3",
+            "clue": "Good egg! One lays it on the line (these do) in kind: 22 7 21 19 5 down - I wish! (4,5,3,6)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "3-down",
+                "15-down"
+            ],
+            "position": {
+                "x": 3,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    4,
+                    9
+                ]
+            },
+            "solution": "KINGHENRY"
+        },
+        {
+            "id": "4-down",
+            "number": 4,
+            "humanNumber": "4",
+            "clue": "Hobbling after cross-dressing fun with tube? (2,4)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "4-down"
+            ],
+            "position": {
+                "x": 5,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    2
+                ]
+            },
+            "solution": "TVGAME"
+        },
+        {
+            "id": "5-down",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "See 22",
+            "direction": "down",
+            "length": 15,
+            "group": [
+                "22-down",
+                "5-down"
+            ],
+            "position": {
+                "x": 7,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "TURBULENTPRIEST"
+        },
+        {
+            "id": "6-down",
+            "number": 6,
+            "humanNumber": "6",
+            "clue": "Change from half of nine pence for variable glasses (5-3)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "6-down"
+            ],
+            "position": {
+                "x": 9,
+                "y": 0
+            },
+            "separatorLocations": {
+                "-": [
+                    5
+                ]
+            },
+            "solution": "PINCENEZ"
+        },
+        {
+            "id": "7-down",
+            "number": 7,
+            "humanNumber": "7",
+            "clue": "See 22",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "22-down",
+                "7-down"
+            ],
+            "position": {
+                "x": 11,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "NOMAN"
+        },
+        {
+            "id": "8-down",
+            "number": 8,
+            "humanNumber": "8",
+            "clue": "Atom-splitting group 'anged the old chairman (3,3-4)",
+            "direction": "down",
+            "length": 10,
+            "group": [
+                "8-down"
+            ],
+            "position": {
+                "x": 13,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    3
+                ],
+                "-": [
+                    6
+                ]
+            },
+            "solution": "MAOTSETUNG"
+        },
+        {
+            "id": "12-down",
+            "number": 12,
+            "humanNumber": "12",
+            "clue": "Top-class drink one comes in to try - undecided (2,2,3,3)",
+            "direction": "down",
+            "length": 10,
+            "group": [
+                "12-down"
+            ],
+            "position": {
+                "x": 1,
+                "y": 5
+            },
+            "separatorLocations": {
+                ",": [
+                    2,
+                    4,
+                    7
+                ]
+            },
+            "solution": "UPINTHEAIR"
+        },
+        {
+            "id": "15-down",
+            "number": 15,
+            "humanNumber": "15",
+            "clue": "See 3",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "3-down",
+                "15-down"
+            ],
+            "position": {
+                "x": 11,
+                "y": 6
+            },
+            "separatorLocations": {
+                ",": [
+                    3
+                ]
+            },
+            "solution": "THESECOND"
+        },
+        {
+            "id": "16-down",
+            "number": 16,
+            "humanNumber": "16",
+            "clue": "Goods thus seen in airport shop at leisure? (4-4)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "16-down"
+            ],
+            "position": {
+                "x": 5,
+                "y": 7
+            },
+            "separatorLocations": {
+                "-": [
+                    4
+                ]
+            },
+            "solution": "DUTYFREE"
+        },
+        {
+            "id": "19-down",
+            "number": 19,
+            "humanNumber": "19",
+            "clue": "See 22",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "22-down",
+                "19-down"
+            ],
+            "position": {
+                "x": 9,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "OFTHIS"
+        },
+        {
+            "id": "21-down",
+            "number": 21,
+            "humanNumber": "21",
+            "clue": "See 22",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "22-down",
+                "21-down"
+            ],
+            "position": {
+                "x": 3,
+                "y": 10
+            },
+            "separatorLocations": {
+                ",": [
+                    2,
+                    5
+                ]
+            },
+            "solution": "RIDME"
+        },
+        {
+            "id": "22-down",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "Result of this full-blown misinterpretation - murder most foul (4,2,3,3,2,2,4,9,6)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "22-down",
+                "21-down"
+            ],
+            "position": {
+                "x": 13,
+                "y": 11
+            },
+            "separatorLocations": {
+                ",": [
+                    4
+                ]
+            },
+            "solution": "WILL"
+        }
+    ],
+    "solutionAvailable": true,
+    "dateSolutionAvailable": 1160780400000,
+    "dimensions": {
+        "cols": 15,
+        "rows": 15
+    },
+    "crosswordType": "prize",
+    "instructions": "<a href=\"http://www.guardian.co.uk/crossword/page/0,,1922297,00.html\">Click here</a> to see the annotated solutions.",
+    "_gridType": "M19"
+}

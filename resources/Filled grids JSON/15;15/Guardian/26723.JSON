@@ -1,0 +1,613 @@
+{
+    "id": "crosswords/prize/26723",
+    "number": 26723,
+    "name": "Prize crossword No 26,723",
+    "creator": {
+        "name": "Puck",
+        "webUrl": "https://www.theguardian.com/profile/puck"
+    },
+    "date": 1446854400000,
+    "webPublicationDate": 1446854400000,
+    "entries": [
+        {
+            "id": "9-across",
+            "number": 9,
+            "humanNumber": "9",
+            "clue": "Dunce may have this one castrated (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "9-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "CAPON"
+        },
+        {
+            "id": "10-across",
+            "number": 10,
+            "humanNumber": "10",
+            "clue": "Overseas ruler making figure of 8s (9)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "10-across"
+            ],
+            "position": {
+                "x": 6,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "BRITANNIA"
+        },
+        {
+            "id": "11-across",
+            "number": 11,
+            "humanNumber": "11",
+            "clue": "K-Y stain unfortunately left after game with hookers (5,4)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "11-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 3
+            },
+            "separatorLocations": {
+                ",": [
+                    5
+                ]
+            },
+            "solution": "RUSTYNAIL"
+        },
+        {
+            "id": "12-across",
+            "number": 12,
+            "humanNumber": "12",
+            "clue": "Become registered company in US once name changed to Lambert (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "12-across"
+            ],
+            "position": {
+                "x": 10,
+                "y": 3
+            },
+            "separatorLocations": {},
+            "solution": "ENROL"
+        },
+        {
+            "id": "13-across",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "\"Hand over!\", said one primarily into money (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "13-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "OVATION"
+        },
+        {
+            "id": "15-across",
+            "number": 15,
+            "humanNumber": "15",
+            "clue": "Backing group into rock\u2019n\u2019roll is Busted, apparently (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "15-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "TOPLESS"
+        },
+        {
+            "id": "17-across",
+            "number": 17,
+            "humanNumber": "17",
+            "clue": "Fish no 18 worries (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "17-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "FRETS"
+        },
+        {
+            "id": "18-across",
+            "number": 18,
+            "humanNumber": "18",
+            "clue": "See 16",
+            "direction": "across",
+            "length": 3,
+            "group": [
+                "16-down",
+                "18-across"
+            ],
+            "position": {
+                "x": 6,
+                "y": 7
+            },
+            "separatorLocations": {
+                ",": []
+            },
+            "solution": "DOG"
+        },
+        {
+            "id": "20-across",
+            "number": 20,
+            "humanNumber": "20",
+            "clue": "Pants, if just 15 (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "20-across"
+            ],
+            "position": {
+                "x": 10,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "AWFUL"
+        },
+        {
+            "id": "22-across",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "Standard stop signal in song (3,4)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "22-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 9
+            },
+            "separatorLocations": {
+                ",": [
+                    3
+                ]
+            },
+            "solution": "REDFLAG"
+        },
+        {
+            "id": "25-across",
+            "number": 25,
+            "humanNumber": "25",
+            "clue": "Funny reaction in left ear, when raving about Fifty Shades of Grey? (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "25-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "ALLERGY"
+        },
+        {
+            "id": "26-across",
+            "number": 26,
+            "humanNumber": "26",
+            "clue": "Caught one fish that's smoked (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "26-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "CIGAR"
+        },
+        {
+            "id": "27-across",
+            "number": 27,
+            "humanNumber": "27",
+            "clue": "KFC business, not half struggling, must take in a thousand before ends meet (5,4)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "27-across"
+            ],
+            "position": {
+                "x": 6,
+                "y": 11
+            },
+            "separatorLocations": {
+                ",": [
+                    5
+                ]
+            },
+            "solution": "BUCKSFIZZ"
+        },
+        {
+            "id": "30-across",
+            "number": 30,
+            "humanNumber": "30",
+            "clue": "Works in a store sadly after college (9)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "30-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 13
+            },
+            "separatorLocations": {},
+            "solution": "CREATIONS"
+        },
+        {
+            "id": "31-across",
+            "number": 31,
+            "humanNumber": "31",
+            "clue": "Cavalryman backed in National Hunt (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "31-across"
+            ],
+            "position": {
+                "x": 10,
+                "y": 13
+            },
+            "separatorLocations": {},
+            "solution": "UHLAN"
+        },
+        {
+            "id": "1-down",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "Bit of caviare cat's taken up a tree (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "1-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "ACER"
+        },
+        {
+            "id": "2-down",
+            "number": 2,
+            "humanNumber": "2",
+            "clue": "Rat-a-tat in advance (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "2-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "APOSTATE"
+        },
+        {
+            "id": "3-down",
+            "number": 3,
+            "humanNumber": "3",
+            "clue": "Sweet 15 guy (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "3-down"
+            ],
+            "position": {
+                "x": 4,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "ANDY"
+        },
+        {
+            "id": "4-down",
+            "number": 4,
+            "humanNumber": "4",
+            "clue": "Got a bit done at work (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "4-down"
+            ],
+            "position": {
+                "x": 6,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "OBTAINED"
+        },
+        {
+            "id": "5-down",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "KLM and I flipping get around! (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "5-down"
+            ],
+            "position": {
+                "x": 8,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "GIMLET"
+        },
+        {
+            "id": "6-down",
+            "number": 6,
+            "humanNumber": "6",
+            "clue": "Hotel option when you've come to visit (4-2,4)",
+            "direction": "down",
+            "length": 10,
+            "group": [
+                "6-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    6
+                ],
+                "-": [
+                    4
+                ]
+            },
+            "solution": "WAKEUPCALL"
+        },
+        {
+            "id": "7-down",
+            "number": 7,
+            "humanNumber": "7",
+            "clue": "Wrong \u2019un gets tortured now and then (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "7-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "UNTRUE"
+        },
+        {
+            "id": "8-down",
+            "number": 8,
+            "humanNumber": "8",
+            "clue": "See 26",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "26-down",
+                "8-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "TAIL"
+        },
+        {
+            "id": "13-down",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "Show 15 chest (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "13-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "OFFER"
+        },
+        {
+            "id": "14-down",
+            "number": 14,
+            "humanNumber": "14",
+            "clue": "Setter has 11, drunk in isolation (10)",
+            "direction": "down",
+            "length": 10,
+            "group": [
+                "14-down"
+            ],
+            "position": {
+                "x": 4,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "INSULARITY"
+        },
+        {
+            "id": "16-down",
+            "number": 16,
+            "humanNumber": "16, 18",
+            "clue": " KD Lang's unnamed toy boy's half crazy (5,3)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "16-down",
+                "18-across"
+            ],
+            "position": {
+                "x": 14,
+                "y": 5
+            },
+            "separatorLocations": {
+                ",": [
+                    5
+                ]
+            },
+            "solution": "SALTY"
+        },
+        {
+            "id": "19-down",
+            "number": 19,
+            "humanNumber": "19",
+            "clue": "Doctor agrees I can initially get fit to Olympic standards? (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "19-down"
+            ],
+            "position": {
+                "x": 8,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "GRAECISE"
+        },
+        {
+            "id": "21-down",
+            "number": 21,
+            "humanNumber": "21",
+            "clue": "Convincing Catholic to wear odd habit (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "21-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "FORCIBLE"
+        },
+        {
+            "id": "23-down",
+            "number": 23,
+            "humanNumber": "23",
+            "clue": "Determined to find \"horse\" in dictionary under D (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "23-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "DOGGED"
+        },
+        {
+            "id": "24-down",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "KGB captures one relative (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "24-down"
+            ],
+            "position": {
+                "x": 6,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "GIBSON"
+        },
+        {
+            "id": "26-down",
+            "number": 26,
+            "humanNumber": "26, 8",
+            "clue": " The definitive K9 18 (8)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "26-down",
+                "8-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "COCK"
+        },
+        {
+            "id": "28-down",
+            "number": 28,
+            "humanNumber": "28",
+            "clue": "KO certain, without reaching last round (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "28-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "SOUR"
+        },
+        {
+            "id": "29-down",
+            "number": 29,
+            "humanNumber": "29",
+            "clue": "Mad as the last one, the one before last (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "29-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "ZANY"
+        }
+    ],
+    "solutionAvailable": true,
+    "dateSolutionAvailable": 1447459200000,
+    "dimensions": {
+        "cols": 15,
+        "rows": 15
+    },
+    "crosswordType": "prize",
+    "pdf": "http://static.guim.co.uk/crosswords/pdfs/gdn.cryptic.20151107.pdf",
+    "instructions": "K has the same meaning throughout.",
+    "_gridType": "M54b"
+}

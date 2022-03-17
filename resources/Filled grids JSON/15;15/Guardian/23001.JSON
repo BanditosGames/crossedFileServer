@@ -1,0 +1,475 @@
+{
+    "id": "crosswords/prize/23001",
+    "number": 23001,
+    "name": "Prize crossword No 23,001",
+    "creator": {
+        "name": "Bunthorne",
+        "webUrl": "https://www.theguardian.com/profile/bunthorne"
+    },
+    "date": 1070064000000,
+    "webPublicationDate": 1070064000000,
+    "entries": [
+        {
+            "id": "8-across",
+            "number": 8,
+            "humanNumber": "8",
+            "clue": "As 1, 2 and 6 are unable to bear one of the French 5 (2-6)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "8-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 1
+            },
+            "separatorLocations": {
+                "-": [
+                    2
+                ]
+            },
+            "solution": "CIDEVANT"
+        },
+        {
+            "id": "9-across",
+            "number": 9,
+            "humanNumber": "9",
+            "clue": "Ornithograph that's showing presence of thrush (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "9-across"
+            ],
+            "position": {
+                "x": 9,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "APHTHA"
+        },
+        {
+            "id": "10-across",
+            "number": 10,
+            "humanNumber": "10",
+            "clue": "Old slag fell out of old scripture (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "10-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 3
+            },
+            "separatorLocations": {},
+            "solution": "SCORIA"
+        },
+        {
+            "id": "11-across",
+            "number": 11,
+            "humanNumber": "11",
+            "clue": "Sleepy royal butter provider might, perhaps, deny Lear (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "11-across"
+            ],
+            "position": {
+                "x": 7,
+                "y": 3
+            },
+            "separatorLocations": {},
+            "solution": "ALDERNEY"
+        },
+        {
+            "id": "12-across",
+            "number": 12,
+            "humanNumber": "12",
+            "clue": "Artistic licence? (4,4)",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "12-across",
+                "5-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 5
+            },
+            "separatorLocations": {
+                ",": [
+                    4
+                ]
+            },
+            "solution": "FREE"
+        },
+        {
+            "id": "13-across",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "She interpreted Weill, yet not all 'e composed (5,5)",
+            "direction": "across",
+            "length": 10,
+            "group": [
+                "13-across"
+            ],
+            "position": {
+                "x": 5,
+                "y": 5
+            },
+            "separatorLocations": {
+                ",": [
+                    5
+                ]
+            },
+            "solution": "LOTTELENYA"
+        },
+        {
+            "id": "15-across",
+            "number": 15,
+            "humanNumber": "15",
+            "clue": "One makes things compatible, fitting between a daughter and the common woman (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "15-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "ADAPTER"
+        },
+        {
+            "id": "16-across",
+            "number": 16,
+            "humanNumber": "16",
+            "clue": "Concerning Kate's float? (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "16-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "READIES"
+        },
+        {
+            "id": "18-across",
+            "number": 18,
+            "humanNumber": "18",
+            "clue": "My crime sat unsettled and out of order (10)",
+            "direction": "across",
+            "length": 10,
+            "group": [
+                "18-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "ASYMMETRIC"
+        },
+        {
+            "id": "19-across",
+            "number": 19,
+            "humanNumber": "19",
+            "clue": "Wonder at disparity in trade with East (4)",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "19-across"
+            ],
+            "position": {
+                "x": 11,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "GAPE"
+        },
+        {
+            "id": "20-across",
+            "number": 20,
+            "humanNumber": "20",
+            "clue": "Hard on a pieceworker's liver (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "20-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "HABITANT"
+        },
+        {
+            "id": "22-across",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "One of Putin's 16 (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "22-across"
+            ],
+            "position": {
+                "x": 9,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "ROUBLE"
+        },
+        {
+            "id": "23-across",
+            "number": 23,
+            "humanNumber": "23",
+            "clue": "Sally!  One's not out to get it! (2,4)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "23-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 13
+            },
+            "separatorLocations": {
+                ",": [
+                    2
+                ]
+            },
+            "solution": "INJOKE"
+        },
+        {
+            "id": "24-across",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "Mustard to singe one's hair? (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "24-across"
+            ],
+            "position": {
+                "x": 7,
+                "y": 13
+            },
+            "separatorLocations": {},
+            "solution": "CHARLOCK"
+        },
+        {
+            "id": "1-down",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "8 20 of 7 delivering gigantic address (7,8)",
+            "direction": "down",
+            "length": 15,
+            "group": [
+                "1-down"
+            ],
+            "position": {
+                "x": 1,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    7
+                ]
+            },
+            "solution": "GISCARDDESTAING"
+        },
+        {
+            "id": "2-down",
+            "number": 2,
+            "humanNumber": "2",
+            "clue": "8 20 of 7 from the centre of Paris (7,8)",
+            "direction": "down",
+            "length": 15,
+            "group": [
+                "2-down"
+            ],
+            "position": {
+                "x": 3,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    7
+                ]
+            },
+            "solution": "GEORGESPOMPIDOU"
+        },
+        {
+            "id": "3-down",
+            "number": 3,
+            "humanNumber": "3",
+            "clue": "Vichy leader with story about Louis XIV's mistress (2,8)",
+            "direction": "down",
+            "length": 10,
+            "group": [
+                "3-down"
+            ],
+            "position": {
+                "x": 5,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    2
+                ]
+            },
+            "solution": "LAVALLIERE"
+        },
+        {
+            "id": "4-down",
+            "number": 4,
+            "humanNumber": "4",
+            "clue": "Castle where Walpole ran into Bismark? (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "4-down"
+            ],
+            "position": {
+                "x": 7,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "OTRANTO"
+        },
+        {
+            "id": "5-down",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "See 12",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "12-across",
+                "5-down"
+            ],
+            "position": {
+                "x": 9,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": []
+            },
+            "solution": "HAND"
+        },
+        {
+            "id": "6-down",
+            "number": 6,
+            "humanNumber": "6",
+            "clue": "8 20 of 7 turned out to be a legal scheduler (7,2,6)",
+            "direction": "down",
+            "length": 15,
+            "group": [
+                "6-down"
+            ],
+            "position": {
+                "x": 11,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    7,
+                    9
+                ]
+            },
+            "solution": "CHARLESDEGAULLE"
+        },
+        {
+            "id": "7-down",
+            "number": 7,
+            "humanNumber": "7",
+            "clue": "Where 1, 2 and 6 all appeared in \"The Bill\", see? Look mate, 'e's finished! (3,6,6)",
+            "direction": "down",
+            "length": 15,
+            "group": [
+                "7-down"
+            ],
+            "position": {
+                "x": 13,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    3,
+                    9
+                ]
+            },
+            "solution": "THEELYSEEPALACE"
+        },
+        {
+            "id": "14-down",
+            "number": 14,
+            "humanNumber": "14",
+            "clue": "Philip II's complex putting off callers? That is nothing! (2,8)",
+            "direction": "down",
+            "length": 10,
+            "group": [
+                "14-down"
+            ],
+            "position": {
+                "x": 9,
+                "y": 5
+            },
+            "separatorLocations": {
+                ",": [
+                    2
+                ]
+            },
+            "solution": "ELESCORIAL"
+        },
+        {
+            "id": "17-down",
+            "number": 17,
+            "humanNumber": "17",
+            "clue": "Works of Blue Period with aural insert (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "17-down"
+            ],
+            "position": {
+                "x": 7,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "EROTICA"
+        },
+        {
+            "id": "21-down",
+            "number": 21,
+            "humanNumber": "21",
+            "clue": "Charge card not for a gringo? (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "21-down"
+            ],
+            "position": {
+                "x": 5,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "AMEX"
+        }
+    ],
+    "solutionAvailable": true,
+    "dateSolutionAvailable": 1070668800000,
+    "dimensions": {
+        "cols": 15,
+        "rows": 15
+    },
+    "crosswordType": "prize",
+    "_gridType": "M03"
+}

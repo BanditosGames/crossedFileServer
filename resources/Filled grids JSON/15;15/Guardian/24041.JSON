@@ -1,0 +1,605 @@
+{
+    "id": "crosswords/cryptic/24041",
+    "number": 24041,
+    "name": "Cryptic crossword No 24,041",
+    "creator": {
+        "name": "Shed",
+        "webUrl": "https://www.theguardian.com/profile/shed"
+    },
+    "date": 1175558400000,
+    "webPublicationDate": 1175554800000,
+    "entries": [
+        {
+            "id": "9-across",
+            "number": 9,
+            "humanNumber": "9",
+            "clue": "Be gentle with accomplished female reversing into the sun (4-5)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "9-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 1
+            },
+            "separatorLocations": {
+                "-": [
+                    4
+                ]
+            },
+            "solution": "SOFTPEDAL"
+        },
+        {
+            "id": "10-across",
+            "number": 10,
+            "humanNumber": "10",
+            "clue": "Feel free to take advantage of being put out (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "10-across"
+            ],
+            "position": {
+                "x": 10,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "DOUSE"
+        },
+        {
+            "id": "11-across",
+            "number": 11,
+            "humanNumber": "11",
+            "clue": "Alice suffers discombobulation of the gut (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "11-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 3
+            },
+            "separatorLocations": {},
+            "solution": "ILEAC"
+        },
+        {
+            "id": "12-across",
+            "number": 12,
+            "humanNumber": "12",
+            "clue": "Unexpectedly dine with Tintin and Jehovah's Witness (of 3) (5,4,3,6)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "12-across",
+                "24-across"
+            ],
+            "position": {
+                "x": 6,
+                "y": 3
+            },
+            "separatorLocations": {
+                ",": [
+                    5,
+                    9
+                ]
+            },
+            "solution": "SAINTJOHN"
+        },
+        {
+            "id": "13-across",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "Pet name for boy from Barcelona, perhaps (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "13-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "CATALAN"
+        },
+        {
+            "id": "14-across",
+            "number": 14,
+            "humanNumber": "14",
+            "clue": "Acts to restrict graduate headgear (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "14-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "TURBANS"
+        },
+        {
+            "id": "17-across",
+            "number": 17,
+            "humanNumber": "17",
+            "clue": "Growth of Tallis's music, say, after 50% cut (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "17-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "POLYP"
+        },
+        {
+            "id": "19-across",
+            "number": 19,
+            "humanNumber": "19",
+            "clue": "See 3",
+            "direction": "across",
+            "length": 3,
+            "group": [
+                "3-down",
+                "19-across"
+            ],
+            "position": {
+                "x": 6,
+                "y": 7
+            },
+            "separatorLocations": {
+                ",": []
+            },
+            "solution": "NOW"
+        },
+        {
+            "id": "20-across",
+            "number": 20,
+            "humanNumber": "20",
+            "clue": "Love reversing gas guzzler around Tyneside etc (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "20-across"
+            ],
+            "position": {
+                "x": 10,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "VENUS"
+        },
+        {
+            "id": "21-across",
+            "number": 21,
+            "humanNumber": "21",
+            "clue": "Compensation for ginger hair? Not initially (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "21-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "REDRESS"
+        },
+        {
+            "id": "22-across",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "Second character in Arabian Nights disembowelled by Arabian warrior (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "22-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "SALADIN"
+        },
+        {
+            "id": "24-across",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "See 12",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "12-across",
+                "24-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 11
+            },
+            "separatorLocations": {
+                ",": [
+                    3
+                ]
+            },
+            "solution": "THEDIVINE"
+        },
+        {
+            "id": "26-across",
+            "number": 26,
+            "humanNumber": "26",
+            "clue": "\"Follow My Leader\" enters the language (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "26-across"
+            ],
+            "position": {
+                "x": 10,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "TAMIL"
+        },
+        {
+            "id": "28-across",
+            "number": 28,
+            "humanNumber": "28",
+            "clue": "Board with quiet sprite (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "28-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 13
+            },
+            "separatorLocations": {},
+            "solution": "SHELF"
+        },
+        {
+            "id": "29-across",
+            "number": 29,
+            "humanNumber": "29",
+            "clue": "Arrangement of endless Costa Rican numbers (9)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "29-across"
+            ],
+            "position": {
+                "x": 6,
+                "y": 13
+            },
+            "separatorLocations": {},
+            "solution": "NARCOTICS"
+        },
+        {
+            "id": "1-down",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "Booze from the East Indies (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "1-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "ASTI"
+        },
+        {
+            "id": "2-down",
+            "number": 2,
+            "humanNumber": "2",
+            "clue": "Put on and swear backwards, indeed (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "2-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "AFFECT"
+        },
+        {
+            "id": "3-down",
+            "number": 3,
+            "humanNumber": "3",
+            "clue": "Film a potty ballad about space women (10,3)",
+            "direction": "down",
+            "length": 10,
+            "group": [
+                "3-down",
+                "19-across"
+            ],
+            "position": {
+                "x": 4,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    10
+                ]
+            },
+            "solution": "APOCALYPSE"
+        },
+        {
+            "id": "4-down",
+            "number": 4,
+            "humanNumber": "4",
+            "clue": "Inventor brought up free of impertinence? (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "4-down"
+            ],
+            "position": {
+                "x": 6,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "EDISON"
+        },
+        {
+            "id": "5-down",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "Pilot was broadcast in London (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "5-down"
+            ],
+            "position": {
+                "x": 8,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "PLAISTOW"
+        },
+        {
+            "id": "6-down",
+            "number": 6,
+            "humanNumber": "6",
+            "clue": "Access to the pit of modern computing? (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "6-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "ADIT"
+        },
+        {
+            "id": "7-down",
+            "number": 7,
+            "humanNumber": "7",
+            "clue": "Gold weight compassing humbug's precursor on major road (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "7-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "AUTOBAHN"
+        },
+        {
+            "id": "8-down",
+            "number": 8,
+            "humanNumber": "8",
+            "clue": "Pulse in the head (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "8-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "BEAN"
+        },
+        {
+            "id": "13-down",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "It adds flavour to antic (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "13-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "CAPER"
+        },
+        {
+            "id": "15-down",
+            "number": 15,
+            "humanNumber": "15",
+            "clue": "English verse tale about 3 (10)",
+            "direction": "down",
+            "length": 10,
+            "group": [
+                "15-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "REVELATION"
+        },
+        {
+            "id": "16-down",
+            "number": 16,
+            "humanNumber": "16",
+            "clue": "Poles taking in country girl (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "16-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "SUSAN"
+        },
+        {
+            "id": "18-down",
+            "number": 18,
+            "humanNumber": "18",
+            "clue": "Drunk lost head and made a run (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "18-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "LADDERED"
+        },
+        {
+            "id": "19-down",
+            "number": 19,
+            "humanNumber": "19",
+            "clue": "Unaware of nice mess in egg container (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "19-down"
+            ],
+            "position": {
+                "x": 6,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "NESCIENT"
+        },
+        {
+            "id": "22-down",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "Small girl on island (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "22-down"
+            ],
+            "position": {
+                "x": 8,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "SKERRY"
+        },
+        {
+            "id": "23-down",
+            "number": 23,
+            "humanNumber": "23",
+            "clue": "Property of Electra's instruction to Orestes? (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "23-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "DOMAIN"
+        },
+        {
+            "id": "24-down",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "Time to question Labour (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "24-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "TASK"
+        },
+        {
+            "id": "25-down",
+            "number": 25,
+            "humanNumber": "25",
+            "clue": "Dubious moment to go topless (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "25-down"
+            ],
+            "position": {
+                "x": 4,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "IFFY"
+        },
+        {
+            "id": "27-down",
+            "number": 27,
+            "humanNumber": "27",
+            "clue": "Stroke bit of hair (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "27-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "LASH"
+        }
+    ],
+    "solutionAvailable": true,
+    "dateSolutionAvailable": 1175554800000,
+    "dimensions": {
+        "cols": 15,
+        "rows": 15
+    },
+    "crosswordType": "cryptic",
+    "_gridType": "M54a"
+}

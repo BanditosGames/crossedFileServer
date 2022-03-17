@@ -1,0 +1,568 @@
+{
+    "id": "crosswords/cryptic/28242",
+    "number": 28242,
+    "name": "Cryptic crossword No 28,242",
+    "creator": {
+        "name": "Paul",
+        "webUrl": "https://www.theguardian.com/profile/paul"
+    },
+    "date": 1600387200000,
+    "webPublicationDate": 1600383609000,
+    "entries": [
+        {
+            "id": "1-across",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "Scientific solver admits he is perplexed by abbreviation of name on computer (7,5)",
+            "direction": "across",
+            "length": 12,
+            "group": [
+                "1-across"
+            ],
+            "position": {
+                "x": 2,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    7
+                ]
+            },
+            "solution": "APPLIEDMATHS"
+        },
+        {
+            "id": "9-across",
+            "number": 9,
+            "humanNumber": "9",
+            "clue": "Force cutting signal, energy maintained (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "9-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 2
+            },
+            "separatorLocations": {},
+            "solution": "IMPEL"
+        },
+        {
+            "id": "10-across",
+            "number": 10,
+            "humanNumber": "10",
+            "clue": "Crop circles as chopped down seed (6,3)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "10-across"
+            ],
+            "position": {
+                "x": 6,
+                "y": 2
+            },
+            "separatorLocations": {
+                ",": [
+                    6
+                ]
+            },
+            "solution": "CASHEWNUT"
+        },
+        {
+            "id": "11-across",
+            "number": 11,
+            "humanNumber": "11",
+            "clue": "Sultan leaves home (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "11-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 4
+            },
+            "separatorLocations": {},
+            "solution": "SALADIN"
+        },
+        {
+            "id": "12-across",
+            "number": 12,
+            "humanNumber": "12",
+            "clue": "See 19",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "19-across",
+                "12-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 4
+            },
+            "separatorLocations": {
+                ",": []
+            },
+            "solution": "FAIRIES"
+        },
+        {
+            "id": "13-across",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "Had thug sent suggestive signal? (10)",
+            "direction": "across",
+            "length": 10,
+            "group": [
+                "13-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "HOODWINKED"
+        },
+        {
+            "id": "15-across",
+            "number": 15,
+            "humanNumber": "15",
+            "clue": "Work done, thus holds back (4)",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "15-across"
+            ],
+            "position": {
+                "x": 11,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "OPUS"
+        },
+        {
+            "id": "18-across",
+            "number": 18,
+            "humanNumber": "18",
+            "clue": "Two short tools for fool (4)",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "18-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "HOAX"
+        },
+        {
+            "id": "19-across",
+            "number": 19,
+            "humanNumber": "19, 12",
+            "clue": " 1917 18 across where infant lying, funny feeling justified, one certainly admits (10,7)",
+            "direction": "across",
+            "length": 10,
+            "group": [
+                "19-across",
+                "12-across"
+            ],
+            "position": {
+                "x": 5,
+                "y": 8
+            },
+            "separatorLocations": {
+                ",": [
+                    10
+                ]
+            },
+            "solution": "COTTINGLEY"
+        },
+        {
+            "id": "22-across",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "Channel carrying hydrogen across its length (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "22-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "THROUGH"
+        },
+        {
+            "id": "24-across",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "See 18 down",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "18-down",
+                "24-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 10
+            },
+            "separatorLocations": {
+                ",": []
+            },
+            "solution": "DIARIES"
+        },
+        {
+            "id": "25-across",
+            "number": 25,
+            "humanNumber": "25",
+            "clue": "Feeling of great happiness about black plant (9)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "25-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 12
+            },
+            "separatorLocations": {},
+            "solution": "EUPHORBIA"
+        },
+        {
+            "id": "26-across",
+            "number": 26,
+            "humanNumber": "26",
+            "clue": "Scorer has run out of play, perhaps? (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "26-across"
+            ],
+            "position": {
+                "x": 10,
+                "y": 12
+            },
+            "separatorLocations": {},
+            "solution": "SATIE"
+        },
+        {
+            "id": "27-across",
+            "number": 27,
+            "humanNumber": "27",
+            "clue": "1995 18 across: a deception say, not up for review (5,7)",
+            "direction": "across",
+            "length": 12,
+            "group": [
+                "27-across"
+            ],
+            "position": {
+                "x": 1,
+                "y": 14
+            },
+            "separatorLocations": {
+                ",": [
+                    5
+                ]
+            },
+            "solution": "ALIENAUTOPSY"
+        },
+        {
+            "id": "1-down",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "Ladies and gentlemen carrying father up and down over peak in America, spotted horse (9)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "1-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "APPALOOSA"
+        },
+        {
+            "id": "2-down",
+            "number": 2,
+            "humanNumber": "2",
+            "clue": "Man's place in 1912 18 across, left in hole beneath one's feet (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "2-down"
+            ],
+            "position": {
+                "x": 4,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "PILTDOWN"
+        },
+        {
+            "id": "3-down",
+            "number": 3,
+            "humanNumber": "3",
+            "clue": "Member of old empire, preserved? (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "3-down"
+            ],
+            "position": {
+                "x": 6,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "INCAN"
+        },
+        {
+            "id": "4-down",
+            "number": 4,
+            "humanNumber": "4",
+            "clue": "Sour cream offset with acid, nothing less (9)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "4-down"
+            ],
+            "position": {
+                "x": 8,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "DISAFFECT"
+        },
+        {
+            "id": "5-down",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "Plant ice axe initially under murder victim (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "5-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "ABELIA"
+        },
+        {
+            "id": "6-down",
+            "number": 6,
+            "humanNumber": "6",
+            "clue": "Feature of Riyadh, an oil-rich capital (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "6-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "HANOI"
+        },
+        {
+            "id": "7-down",
+            "number": 7,
+            "humanNumber": "7",
+            "clue": "Stick wobbly bottom in goulash, being vulgar (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "7-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "KITSCH"
+        },
+        {
+            "id": "8-down",
+            "number": 8,
+            "humanNumber": "8",
+            "clue": "Stoppage in force once beginning to slow (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "8-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "STASIS"
+        },
+        {
+            "id": "14-down",
+            "number": 14,
+            "humanNumber": "14",
+            "clue": "Fear of novelty washer in re\u00adplacement of a hip bone (9)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "14-down"
+            ],
+            "position": {
+                "x": 6,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "NEOPHOBIA"
+        },
+        {
+            "id": "16-down",
+            "number": 16,
+            "humanNumber": "16",
+            "clue": "Girl almost taken in by trivial prediction (9)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "16-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "PALMISTRY"
+        },
+        {
+            "id": "17-down",
+            "number": 17,
+            "humanNumber": "17",
+            "clue": "Unruly as punks, one finally arrested comes quietly (6,2)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "17-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 7
+            },
+            "separatorLocations": {
+                ",": [
+                    6
+                ]
+            },
+            "solution": "SNEAKSUP"
+        },
+        {
+            "id": "18-down",
+            "number": 18,
+            "humanNumber": "18, 24 across",
+            "clue": " Murder riled screws, first sign in 1983 18 across (6,7)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "18-down",
+                "24-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 8
+            },
+            "separatorLocations": {
+                ",": [
+                    6
+                ]
+            },
+            "solution": "HITLER"
+        },
+        {
+            "id": "20-down",
+            "number": 20,
+            "humanNumber": "20",
+            "clue": "Country quarantining small spaniels? (3-3)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "20-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 8
+            },
+            "separatorLocations": {
+                "-": [
+                    3
+                ]
+            },
+            "solution": "YESMEN"
+        },
+        {
+            "id": "21-down",
+            "number": 21,
+            "humanNumber": "21",
+            "clue": "Hair and metallic mineral stink (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "21-down"
+            ],
+            "position": {
+                "x": 4,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "FURORE"
+        },
+        {
+            "id": "23-down",
+            "number": 23,
+            "humanNumber": "23",
+            "clue": "Fend off leader of pirates in film (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "23-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "REPEL"
+        },
+        {
+            "id": "24-down",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "Selection of people: four originally darn trousers (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "24-down"
+            ],
+            "position": {
+                "x": 8,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "DRAFT"
+        }
+    ],
+    "solutionAvailable": true,
+    "dateSolutionAvailable": 1600383600000,
+    "dimensions": {
+        "cols": 15,
+        "rows": 15
+    },
+    "crosswordType": "cryptic",
+    "pdf": "https://crosswords-static.guim.co.uk/gdn.cryptic.20200918.pdf",
+    "_gridType": "M70"
+}

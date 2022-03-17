@@ -1,0 +1,525 @@
+{
+    "id": "crosswords/cryptic/21912",
+    "number": 21912,
+    "name": "Cryptic crossword No 21,912",
+    "creator": {
+        "name": "Fawley",
+        "webUrl": "https://www.theguardian.com/profile/fawley"
+    },
+    "date": 959731200000,
+    "webPublicationDate": 959727600000,
+    "entries": [
+        {
+            "id": "4-across",
+            "number": 4,
+            "humanNumber": "4",
+            "clue": "Threads brought together, writing material up found in old jacket (6,4)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "4-across",
+                "7-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 1
+            },
+            "separatorLocations": {
+                ",": [
+                    6
+                ]
+            },
+            "solution": "DOUBLE"
+        },
+        {
+            "id": "6-across",
+            "number": 6,
+            "humanNumber": "6",
+            "clue": "Put out about German finance (and English) favouring the affluent (2,6)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "6-across"
+            ],
+            "position": {
+                "x": 7,
+                "y": 1
+            },
+            "separatorLocations": {
+                ",": [
+                    2
+                ]
+            },
+            "solution": "UPMARKET"
+        },
+        {
+            "id": "9-across",
+            "number": 9,
+            "humanNumber": "9",
+            "clue": "Rather lame as contents of Telegraph on an issue, ie not OTT (6,6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "9-across",
+                "19-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 3
+            },
+            "separatorLocations": {
+                ",": [
+                    6
+                ]
+            },
+            "solution": "WITHIN"
+        },
+        {
+            "id": "10-across",
+            "number": 10,
+            "humanNumber": "10",
+            "clue": "Present left during function over which there's an icy reception? (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "10-across"
+            ],
+            "position": {
+                "x": 7,
+                "y": 3
+            },
+            "separatorLocations": {},
+            "solution": "SNOWLINE"
+        },
+        {
+            "id": "11-across",
+            "number": 11,
+            "humanNumber": "11",
+            "clue": "List of accusations citing some bed-linen on the ward? (11)",
+            "direction": "across",
+            "length": 11,
+            "group": [
+                "11-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "CHARGESHEET"
+        },
+        {
+            "id": "15-across",
+            "number": 15,
+            "humanNumber": "15",
+            "clue": "After 1, squad provided full unofficial version (7,4)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "15-across",
+                "20-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 7
+            },
+            "separatorLocations": {
+                ",": [
+                    7
+                ]
+            },
+            "solution": "SWEENEY"
+        },
+        {
+            "id": "17-across",
+            "number": 17,
+            "humanNumber": "17",
+            "clue": "See 8 (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "8-down",
+                "17-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 7
+            },
+            "separatorLocations": {
+                ",": []
+            },
+            "solution": "SURGEON"
+        },
+        {
+            "id": "18-across",
+            "number": 18,
+            "humanNumber": "18",
+            "clue": "Back blackleg with some hesitation - not the best for the job (6,5)",
+            "direction": "across",
+            "length": 11,
+            "group": [
+                "18-across"
+            ],
+            "position": {
+                "x": 4,
+                "y": 9
+            },
+            "separatorLocations": {
+                ",": [
+                    6
+                ]
+            },
+            "solution": "SECONDRATER"
+        },
+        {
+            "id": "22-across",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "Extra cover available as insurance against cold weather? (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "22-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "OVERCOAT"
+        },
+        {
+            "id": "23-across",
+            "number": 23,
+            "humanNumber": "23",
+            "clue": "See 1 (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "1-down",
+                "23-across"
+            ],
+            "position": {
+                "x": 9,
+                "y": 11
+            },
+            "separatorLocations": {
+                ",": []
+            },
+            "solution": "SAUCER"
+        },
+        {
+            "id": "24-across",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "Back in form to play a game of football? (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "24-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 13
+            },
+            "separatorLocations": {},
+            "solution": "DEFENDER"
+        },
+        {
+            "id": "25-across",
+            "number": 25,
+            "humanNumber": "25",
+            "clue": "See 21 (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "21-down",
+                "25-across"
+            ],
+            "position": {
+                "x": 9,
+                "y": 13
+            },
+            "separatorLocations": {},
+            "solution": "POISED"
+        },
+        {
+            "id": "1-down",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "Initially, it appears unusually far-fetched and otherworldly (6,6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "1-down",
+                "23-across"
+            ],
+            "position": {
+                "x": 4,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    6
+                ]
+            },
+            "solution": "FLYING"
+        },
+        {
+            "id": "2-down",
+            "number": 2,
+            "humanNumber": "2",
+            "clue": "Start to moderate a kind of free-for-all (4,6)",
+            "direction": "down",
+            "length": 10,
+            "group": [
+                "2-down"
+            ],
+            "position": {
+                "x": 8,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    4
+                ]
+            },
+            "solution": "OPENSEASON"
+        },
+        {
+            "id": "3-down",
+            "number": 3,
+            "humanNumber": "3",
+            "clue": "Vital material flowing here - force it on US audience? (3,5)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "3-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    3
+                ]
+            },
+            "solution": "TAPWATER"
+        },
+        {
+            "id": "4-down",
+            "number": 4,
+            "humanNumber": "4",
+            "clue": "Finish drinking with actors, a bit depressed (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "4-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "DOWNCAST"
+        },
+        {
+            "id": "5-down",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "Stupid dunce, holding creative skill up, not yet found out? (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "5-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "UNTRACED"
+        },
+        {
+            "id": "7-down",
+            "number": 7,
+            "humanNumber": "7",
+            "clue": "See 4 across (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "4-across",
+                "7-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 1
+            },
+            "separatorLocations": {
+                ",": []
+            },
+            "solution": "KNIT"
+        },
+        {
+            "id": "8-down",
+            "number": 8,
+            "humanNumber": "8",
+            "clue": "I'm employed to keep planes, etc in good condition (4,7)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "8-down",
+                "17-across"
+            ],
+            "position": {
+                "x": 14,
+                "y": 1
+            },
+            "separatorLocations": {
+                ",": [
+                    4
+                ]
+            },
+            "solution": "TREE"
+        },
+        {
+            "id": "12-down",
+            "number": 12,
+            "humanNumber": "12",
+            "clue": "Building up a tall story for listeners, usually (10)",
+            "direction": "down",
+            "length": 10,
+            "group": [
+                "12-down"
+            ],
+            "position": {
+                "x": 6,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "SKYSCRAPER"
+        },
+        {
+            "id": "13-down",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "\"Green\" kids' treats - they're the tops! (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "13-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "VERTICES"
+        },
+        {
+            "id": "14-down",
+            "number": 14,
+            "humanNumber": "14",
+            "clue": "An extreme case, where people don't normally see the light (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "14-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "INFRARED"
+        },
+        {
+            "id": "16-down",
+            "number": 16,
+            "humanNumber": "16",
+            "clue": "Short time with nobody about - given a bit of a rocket? (4,4)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "16-down"
+            ],
+            "position": {
+                "x": 4,
+                "y": 7
+            },
+            "separatorLocations": {
+                ",": [
+                    4
+                ]
+            },
+            "solution": "NOSECONE"
+        },
+        {
+            "id": "19-down",
+            "number": 19,
+            "humanNumber": "19",
+            "clue": "See 9 (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "9-across",
+                "19-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 9
+            },
+            "separatorLocations": {
+                ",": []
+            },
+            "solution": "REASON"
+        },
+        {
+            "id": "20-down",
+            "number": 20,
+            "humanNumber": "20",
+            "clue": "See 15 (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "15-across",
+                "20-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 10
+            },
+            "separatorLocations": {
+                ",": []
+            },
+            "solution": "TODD"
+        },
+        {
+            "id": "21-down",
+            "number": 21,
+            "humanNumber": "21",
+            "clue": "Personally keeping balanced view of unusually deep fossil (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "21-down",
+                "25-across"
+            ],
+            "position": {
+                "x": 2,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "SELF"
+        }
+    ],
+    "solutionAvailable": true,
+    "dateSolutionAvailable": 959727600000,
+    "dimensions": {
+        "cols": 15,
+        "rows": 15
+    },
+    "crosswordType": "cryptic",
+    "_gridType": "M33"
+}

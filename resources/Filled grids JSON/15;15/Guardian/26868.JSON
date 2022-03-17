@@ -1,0 +1,535 @@
+{
+    "id": "crosswords/cryptic/26868",
+    "number": 26868,
+    "name": "Cryptic crossword No 26,868",
+    "creator": {
+        "name": "Nutmeg",
+        "webUrl": "https://www.theguardian.com/profile/nutmeg"
+    },
+    "date": 1461628800000,
+    "webPublicationDate": 1461625201000,
+    "entries": [
+        {
+            "id": "1-across",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "Watergate: various clues lead to impeachment (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "1-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "SLUICE"
+        },
+        {
+            "id": "5-across",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "End result when thief raids church and takes the van? (5,3)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "5-across"
+            ],
+            "position": {
+                "x": 7,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    5
+                ]
+            },
+            "solution": "LEADSOFF"
+        },
+        {
+            "id": "9-across",
+            "number": 9,
+            "humanNumber": "9",
+            "clue": "Turn back slow runners between defensive lines (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "9-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 2
+            },
+            "separatorLocations": {},
+            "solution": "MIDFIELD"
+        },
+        {
+            "id": "10-across",
+            "number": 10,
+            "humanNumber": "10",
+            "clue": "See 11",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "11-across",
+                "10-across"
+            ],
+            "position": {
+                "x": 9,
+                "y": 2
+            },
+            "separatorLocations": {
+                ",": []
+            },
+            "solution": "PIPING"
+        },
+        {
+            "id": "11-across",
+            "number": 11,
+            "humanNumber": "11, 10",
+            "clue": "Defeat secured by best original means to an end in 15 (4,6)",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "11-across",
+                "10-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 4
+            },
+            "separatorLocations": {
+                ",": [
+                    4
+                ]
+            },
+            "solution": "LEAD"
+        },
+        {
+            "id": "12-across",
+            "number": 12,
+            "humanNumber": "12",
+            "clue": "Land with inexperienced leader is OK (5,5)",
+            "direction": "across",
+            "length": 10,
+            "group": [
+                "12-across"
+            ],
+            "position": {
+                "x": 5,
+                "y": 4
+            },
+            "separatorLocations": {
+                ",": [
+                    5
+                ]
+            },
+            "solution": "GREENLIGHT"
+        },
+        {
+            "id": "13-across",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "Small blocks of 15 countryman may have to get over (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "13-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "STILES"
+        },
+        {
+            "id": "14-across",
+            "number": 14,
+            "humanNumber": "14",
+            "clue": "Request for help \u2014 involving British right? (3,5)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "14-across"
+            ],
+            "position": {
+                "x": 7,
+                "y": 6
+            },
+            "separatorLocations": {
+                ",": [
+                    3
+                ]
+            },
+            "solution": "SOBSTORY"
+        },
+        {
+            "id": "16-across",
+            "number": 16,
+            "humanNumber": "16",
+            "clue": "Champion's more natural without it (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "16-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "CRUSADER"
+        },
+        {
+            "id": "19-across",
+            "number": 19,
+            "humanNumber": "19",
+            "clue": "Indigenous person from Hungary breaking fast (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "19-across"
+            ],
+            "position": {
+                "x": 9,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "APACHE"
+        },
+        {
+            "id": "21-across",
+            "number": 21,
+            "humanNumber": "21",
+            "clue": "Earl's angry after last of men in gang ran through (10)",
+            "direction": "across",
+            "length": 10,
+            "group": [
+                "21-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "SQUANDERED"
+        },
+        {
+            "id": "23-across",
+            "number": 23,
+            "humanNumber": "23",
+            "clue": "China 15's outcome (4)",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "23-across"
+            ],
+            "position": {
+                "x": 11,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "MATE"
+        },
+        {
+            "id": "24-across",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "Thieving can be attractive (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "24-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 12
+            },
+            "separatorLocations": {},
+            "solution": "TAKING"
+        },
+        {
+            "id": "25-across",
+            "number": 25,
+            "humanNumber": "25",
+            "clue": "Rounded eggs cracking on the shelf not recognised (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "25-across"
+            ],
+            "position": {
+                "x": 7,
+                "y": 12
+            },
+            "separatorLocations": {},
+            "solution": "UNAVOWED"
+        },
+        {
+            "id": "26-across",
+            "number": 26,
+            "humanNumber": "26",
+            "clue": "Spare person providing support in kitchen garden (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "26-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 14
+            },
+            "separatorLocations": {},
+            "solution": "BEANPOLE"
+        },
+        {
+            "id": "27-across",
+            "number": 27,
+            "humanNumber": "27",
+            "clue": "Prime time cycling contests (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "27-across"
+            ],
+            "position": {
+                "x": 9,
+                "y": 14
+            },
+            "separatorLocations": {},
+            "solution": "EVENTS"
+        },
+        {
+            "id": "2-down",
+            "number": 2,
+            "humanNumber": "2",
+            "clue": "Cheese out of date, possibly acquired in 15 (9,6)",
+            "direction": "down",
+            "length": 15,
+            "group": [
+                "2-down"
+            ],
+            "position": {
+                "x": 1,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    9
+                ]
+            },
+            "solution": "LEICESTERSQUARE"
+        },
+        {
+            "id": "3-down",
+            "number": 3,
+            "humanNumber": "3",
+            "clue": "Fielding's wanton, no-good heathen (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "3-down"
+            ],
+            "position": {
+                "x": 3,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "INFIDEL"
+        },
+        {
+            "id": "4-down",
+            "number": 4,
+            "humanNumber": "4",
+            "clue": "Enthusiastic doctor resigned after end of case (9)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "4-down"
+            ],
+            "position": {
+                "x": 5,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "ENERGISED"
+        },
+        {
+            "id": "5-down",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "One element of 15 could be 50 of the other  \u2026 (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "5-down"
+            ],
+            "position": {
+                "x": 7,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "LADDERS"
+        },
+        {
+            "id": "6-down",
+            "number": 6,
+            "humanNumber": "6",
+            "clue": "\u2026  and another, regularly seen in tree (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "6-down"
+            ],
+            "position": {
+                "x": 9,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "ASPEN"
+        },
+        {
+            "id": "7-down",
+            "number": 7,
+            "humanNumber": "7",
+            "clue": "Jerry's turned up, beating this chap with specious argument (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "7-down"
+            ],
+            "position": {
+                "x": 11,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "SOPHIST"
+        },
+        {
+            "id": "8-down",
+            "number": 8,
+            "humanNumber": "8, 17",
+            "clue": " 15's terminal way to fill Ely cathedral post, maybe (9,6,7)",
+            "direction": "down",
+            "length": 15,
+            "group": [
+                "8-down",
+                "17-down"
+            ],
+            "position": {
+                "x": 13,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    9,
+                    15
+                ]
+            },
+            "solution": "FENCHURCHSTREET"
+        },
+        {
+            "id": "15-down",
+            "number": 15,
+            "humanNumber": "15",
+            "clue": "Diversion \u2014 you'll need to mount up for it (5,4)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "15-down"
+            ],
+            "position": {
+                "x": 9,
+                "y": 6
+            },
+            "separatorLocations": {
+                ",": [
+                    5
+                ]
+            },
+            "solution": "BOARDGAME"
+        },
+        {
+            "id": "17-down",
+            "number": 17,
+            "humanNumber": "17",
+            "clue": "See 8",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "8-down",
+                "17-down"
+            ],
+            "position": {
+                "x": 3,
+                "y": 8
+            },
+            "separatorLocations": {
+                ",": []
+            },
+            "solution": "STATION"
+        },
+        {
+            "id": "18-down",
+            "number": 18,
+            "humanNumber": "18",
+            "clue": "Divert troops, repeatedly keeping away (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "18-down"
+            ],
+            "position": {
+                "x": 7,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "REROUTE"
+        },
+        {
+            "id": "20-down",
+            "number": 20,
+            "humanNumber": "20",
+            "clue": "Queen keeled over during a function, one of two in Ulster, perhaps (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "20-down"
+            ],
+            "position": {
+                "x": 11,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "ARMHOLE"
+        },
+        {
+            "id": "22-down",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "Mum not seen to follow 15 (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "22-down"
+            ],
+            "position": {
+                "x": 5,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "DOGGO"
+        }
+    ],
+    "solutionAvailable": true,
+    "dateSolutionAvailable": 1461625200000,
+    "dimensions": {
+        "cols": 15,
+        "rows": 15
+    },
+    "crosswordType": "cryptic",
+    "pdf": "https://crosswords-static.guim.co.uk/gdn.cryptic.20160426.pdf",
+    "_gridType": "M62"
+}

@@ -1,0 +1,634 @@
+{
+    "id": "crosswords/cryptic/24531",
+    "number": 24531,
+    "name": "Cryptic crossword No 24,531",
+    "creator": {
+        "name": "Paul",
+        "webUrl": "https://www.theguardian.com/profile/paul"
+    },
+    "date": 1225152000000,
+    "webPublicationDate": 1225152000000,
+    "entries": [
+        {
+            "id": "9-across",
+            "number": 9,
+            "humanNumber": "9",
+            "clue": "Ruffians on holiday, blubbing? (9)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "9-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "TEARAWAYS"
+        },
+        {
+            "id": "10-across",
+            "number": 10,
+            "humanNumber": "10",
+            "clue": "Extend towards heaven as breakdown vehicle? (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "10-across"
+            ],
+            "position": {
+                "x": 10,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "TOWER"
+        },
+        {
+            "id": "11-across",
+            "number": 11,
+            "humanNumber": "11",
+            "clue": "Desert from which weary male returned (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "11-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 3
+            },
+            "separatorLocations": {},
+            "solution": "MERIT"
+        },
+        {
+            "id": "12-across",
+            "number": 12,
+            "humanNumber": "12",
+            "clue": "Jazz's inspiring stanza came across (9)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "12-across"
+            ],
+            "position": {
+                "x": 6,
+                "y": 3
+            },
+            "separatorLocations": {},
+            "solution": "TRAVERSED"
+        },
+        {
+            "id": "13-across",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "Relative can start to evangelise, relating to old church leader (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "13-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "SISTINE"
+        },
+        {
+            "id": "14-across",
+            "number": 14,
+            "humanNumber": "14",
+            "clue": "Recover from 15 (3,4)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "14-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 5
+            },
+            "separatorLocations": {
+                ",": [
+                    3
+                ]
+            },
+            "solution": "GETBACK"
+        },
+        {
+            "id": "17-across",
+            "number": 17,
+            "humanNumber": "17",
+            "clue": "Needing four, not odds, cut deck (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "17-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "ORLOP"
+        },
+        {
+            "id": "19-across",
+            "number": 19,
+            "humanNumber": "19",
+            "clue": "So then Status Quo maintained by 15 (3,2,2)",
+            "direction": "across",
+            "length": 3,
+            "group": [
+                "19-across",
+                "6-down"
+            ],
+            "position": {
+                "x": 6,
+                "y": 7
+            },
+            "separatorLocations": {
+                ",": [
+                    3
+                ]
+            },
+            "solution": "LET"
+        },
+        {
+            "id": "20-across",
+            "number": 20,
+            "humanNumber": "20",
+            "clue": "Give quality to some fifteen duets (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "20-across"
+            ],
+            "position": {
+                "x": 10,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "ENDUE"
+        },
+        {
+            "id": "21-across",
+            "number": 21,
+            "humanNumber": "21",
+            "clue": "A formation of geese gobbled by bird attending a restaurant (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "21-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "TAVERNA"
+        },
+        {
+            "id": "22-across",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "Man aboard ship 27s, then man's given 27 by 15 (3,4,3,4)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "22-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 9
+            },
+            "separatorLocations": {
+                ",": [
+                    3,
+                    7
+                ]
+            },
+            "solution": "SHESAID"
+        },
+        {
+            "id": "24-across",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "1 by 15 (9)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "24-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "SOMETHING"
+        },
+        {
+            "id": "26-across",
+            "number": 26,
+            "humanNumber": "26",
+            "clue": "Time off a bit below the belt? (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "26-across"
+            ],
+            "position": {
+                "x": 10,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "THIGH"
+        },
+        {
+            "id": "28-across",
+            "number": 28,
+            "humanNumber": "28",
+            "clue": "Partly rejected, never a deciduous tree! (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "28-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 13
+            },
+            "separatorLocations": {},
+            "solution": "CEDAR"
+        },
+        {
+            "id": "29-across",
+            "number": 29,
+            "humanNumber": "29",
+            "clue": "Play a straight bat to block, protecting single wicket (9)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "29-across"
+            ],
+            "position": {
+                "x": 6,
+                "y": 13
+            },
+            "separatorLocations": {},
+            "solution": "STONEWALL"
+        },
+        {
+            "id": "1-down",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "Couple came together, one facing the ceiling? (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "1-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "ITEM"
+        },
+        {
+            "id": "2-down",
+            "number": 2,
+            "humanNumber": "2",
+            "clue": "See 4",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "4-down",
+                "2-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": []
+            },
+            "solution": "WALRUS"
+        },
+        {
+            "id": "3-down",
+            "number": 3,
+            "humanNumber": "3",
+            "clue": "Yes, thumb initially stopping leaking tap, say, by 15 (3,7)",
+            "direction": "down",
+            "length": 10,
+            "group": [
+                "3-down"
+            ],
+            "position": {
+                "x": 4,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    3
+                ]
+            },
+            "solution": "DAYTRIPPER"
+        },
+        {
+            "id": "4-down",
+            "number": 4,
+            "humanNumber": "4",
+            "clue": "Possibly White Album, as not black, right from 15? (1,2,3,6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "4-down",
+                "2-down"
+            ],
+            "position": {
+                "x": 6,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    1,
+                    3,
+                    6
+                ]
+            },
+            "solution": "IAMTHE"
+        },
+        {
+            "id": "5-down",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "English mark achieved for French food (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "5-down"
+            ],
+            "position": {
+                "x": 8,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "ESCARGOT"
+        },
+        {
+            "id": "6-down",
+            "number": 6,
+            "humanNumber": "6",
+            "clue": "See 19 across",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "19-across",
+                "6-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    2
+                ]
+            },
+            "solution": "ITBE"
+        },
+        {
+            "id": "7-down",
+            "number": 7,
+            "humanNumber": "7",
+            "clue": "So get thousand from 15 (5,3,5)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "7-down",
+                "13-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    5,
+                    8
+                ]
+            },
+            "solution": "TWISTAND"
+        },
+        {
+            "id": "8-down",
+            "number": 8,
+            "humanNumber": "8",
+            "clue": "First of August, clear and dry (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "8-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "ARID"
+        },
+        {
+            "id": "13-down",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "See 7",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "7-down",
+                "13-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 5
+            },
+            "separatorLocations": {
+                ",": []
+            },
+            "solution": "SHOUT"
+        },
+        {
+            "id": "15-down",
+            "number": 15,
+            "humanNumber": "15",
+            "clue": "Bitter about contract finally secured by old city group (3,7)",
+            "direction": "down",
+            "length": 10,
+            "group": [
+                "15-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 5
+            },
+            "separatorLocations": {
+                ",": [
+                    3
+                ]
+            },
+            "solution": "THEBEATLES"
+        },
+        {
+            "id": "16-down",
+            "number": 16,
+            "humanNumber": "16",
+            "clue": "Make a bloomer, possibly, talking about poverty (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "16-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "KNEAD"
+        },
+        {
+            "id": "18-down",
+            "number": 18,
+            "humanNumber": "18",
+            "clue": "Damn all wine unfinished by 15 (4,2,2)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "18-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 7
+            },
+            "separatorLocations": {
+                ",": [
+                    4,
+                    6
+                ]
+            },
+            "solution": "LOVEMEDO"
+        },
+        {
+            "id": "19-down",
+            "number": 19,
+            "humanNumber": "19",
+            "clue": "Most verdant field, 40% of which over the street (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "19-down"
+            ],
+            "position": {
+                "x": 6,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "LEAFIEST"
+        },
+        {
+            "id": "22-down",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "Translating ultimately into Chinese, \"king\" becomes \"foreign male\" (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "22-down"
+            ],
+            "position": {
+                "x": 8,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "SIGNOR"
+        },
+        {
+            "id": "23-down",
+            "number": 23,
+            "humanNumber": "23",
+            "clue": "Beast wants plate flipped over (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "23-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "ANIMAL"
+        },
+        {
+            "id": "24-down",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "Container for wine (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "24-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "SACK"
+        },
+        {
+            "id": "25-down",
+            "number": 25,
+            "humanNumber": "25",
+            "clue": "Go for change (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "25-down"
+            ],
+            "position": {
+                "x": 4,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "TURN"
+        },
+        {
+            "id": "27-down",
+            "number": 27,
+            "humanNumber": "27",
+            "clue": "Support from 15 (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "27-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "HELP"
+        }
+    ],
+    "solutionAvailable": true,
+    "dateSolutionAvailable": 1225152000000,
+    "dimensions": {
+        "cols": 15,
+        "rows": 15
+    },
+    "crosswordType": "cryptic",
+    "instructions": "Click <a href=\"http://image.guardian.co.uk/sys-files/Guardian/documents/2008/10/27/xwMain2810_24531.pdf\">here</a> for a printable version of this crossword.",
+    "_gridType": "M54a"
+}

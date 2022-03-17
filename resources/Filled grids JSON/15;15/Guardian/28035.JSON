@@ -1,0 +1,608 @@
+{
+    "id": "crosswords/cryptic/28035",
+    "number": 28035,
+    "name": "Cryptic crossword No 28,035",
+    "creator": {
+        "name": "Qaos",
+        "webUrl": "https://www.theguardian.com/profile/qaos"
+    },
+    "date": 1579564800000,
+    "webPublicationDate": 1579564840000,
+    "entries": [
+        {
+            "id": "9-across",
+            "number": 9,
+            "humanNumber": "9",
+            "clue": "Herb Alpert's debut, one regul\u00adarly covered by British Sign Language (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "9-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "BASIL"
+        },
+        {
+            "id": "10-across",
+            "number": 10,
+            "humanNumber": "10",
+            "clue": "Complex to explain (9)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "10-across"
+            ],
+            "position": {
+                "x": 6,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "ELABORATE"
+        },
+        {
+            "id": "11-across",
+            "number": 11,
+            "humanNumber": "11",
+            "clue": "Passing time with artist playing tennis (9)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "11-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 3
+            },
+            "separatorLocations": {},
+            "solution": "TRANSIENT"
+        },
+        {
+            "id": "12-across",
+            "number": 12,
+            "humanNumber": "12",
+            "clue": "Catholic girl's lesson in style (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "12-across"
+            ],
+            "position": {
+                "x": 10,
+                "y": 3
+            },
+            "separatorLocations": {},
+            "solution": "CLASS"
+        },
+        {
+            "id": "13-across",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "Leader's a supporter of independence? (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "13-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "SKIPPER"
+        },
+        {
+            "id": "15-across",
+            "number": 15,
+            "humanNumber": "15",
+            "clue": "Wow! Not even posh journalist suffered an attack of the giggles (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "15-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "CORPSED"
+        },
+        {
+            "id": "17-across",
+            "number": 17,
+            "humanNumber": "17",
+            "clue": "'After dark' piece on the radio (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "17-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "NIGHT"
+        },
+        {
+            "id": "18-across",
+            "number": 18,
+            "humanNumber": "18",
+            "clue": "Slow boat merely capsized  \u2026 (3)",
+            "direction": "across",
+            "length": 3,
+            "group": [
+                "18-across"
+            ],
+            "position": {
+                "x": 6,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "TUB"
+        },
+        {
+            "id": "20-across",
+            "number": 20,
+            "humanNumber": "20",
+            "clue": "\u2026  crew too heavy? Not half! (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "20-across"
+            ],
+            "position": {
+                "x": 10,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "EIGHT"
+        },
+        {
+            "id": "22-across",
+            "number": 22,
+            "humanNumber": "22, 7",
+            "clue": " Dishes a world away, fine for the Springboks? (7,6)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "22-across",
+                "7-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 9
+            },
+            "separatorLocations": {
+                ",": [
+                    7
+                ]
+            },
+            "solution": "WALDORF"
+        },
+        {
+            "id": "25-across",
+            "number": 25,
+            "humanNumber": "25",
+            "clue": "Up-to-date creep keeps dashing out (2,5)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "25-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 9
+            },
+            "separatorLocations": {
+                ",": [
+                    2
+                ]
+            },
+            "solution": "INTOUCH"
+        },
+        {
+            "id": "26-across",
+            "number": 26,
+            "humanNumber": "26",
+            "clue": "Where to stay after golf? (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "26-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "HOTEL"
+        },
+        {
+            "id": "27-across",
+            "number": 27,
+            "humanNumber": "27",
+            "clue": "Seducer of fifty-one sexy maidens (6,3)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "27-across"
+            ],
+            "position": {
+                "x": 6,
+                "y": 11
+            },
+            "separatorLocations": {
+                ",": [
+                    6
+                ]
+            },
+            "solution": "LADIESMAN"
+        },
+        {
+            "id": "30-across",
+            "number": 30,
+            "humanNumber": "30",
+            "clue": "One should look thoroughly for trendy magazine wanting adult's clothing (9)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "30-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 13
+            },
+            "separatorLocations": {},
+            "solution": "INSPECTOR"
+        },
+        {
+            "id": "31-across",
+            "number": 31,
+            "humanNumber": "31",
+            "clue": "Change shirt owned by real model (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "31-across"
+            ],
+            "position": {
+                "x": 10,
+                "y": 13
+            },
+            "separatorLocations": {},
+            "solution": "ALTER"
+        },
+        {
+            "id": "1-down",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "Help one gamble (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "1-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "ABET"
+        },
+        {
+            "id": "2-down",
+            "number": 2,
+            "humanNumber": "2",
+            "clue": "Paces about at home, close to staying, then getting away (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "2-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "ESCAPING"
+        },
+        {
+            "id": "3-down",
+            "number": 3,
+            "humanNumber": "3",
+            "clue": "Luxurious and rich, 80%+ (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "3-down"
+            ],
+            "position": {
+                "x": 4,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "PLUS"
+        },
+        {
+            "id": "4-down",
+            "number": 4,
+            "humanNumber": "4",
+            "clue": "Rodent's sin: entering waste flow (5,3)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "4-down"
+            ],
+            "position": {
+                "x": 6,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    5
+                ]
+            },
+            "solution": "SEWERRAT"
+        },
+        {
+            "id": "5-down",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "Approach tailless urban feline from behind (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "5-down"
+            ],
+            "position": {
+                "x": 8,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "TACTIC"
+        },
+        {
+            "id": "6-down",
+            "number": 6,
+            "humanNumber": "6",
+            "clue": "Accompanying dog into party about books (10)",
+            "direction": "down",
+            "length": 10,
+            "group": [
+                "6-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "CONCURRENT"
+        },
+        {
+            "id": "7-down",
+            "number": 7,
+            "humanNumber": "7",
+            "clue": "See 22",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "22-across",
+                "7-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": []
+            },
+            "solution": "SALADS"
+        },
+        {
+            "id": "8-down",
+            "number": 8,
+            "humanNumber": "8",
+            "clue": "Looks up and down (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "8-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "SEES"
+        },
+        {
+            "id": "13-down",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "Power is rising by three quarters (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "13-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "SINEW"
+        },
+        {
+            "id": "14-down",
+            "number": 14,
+            "humanNumber": "14",
+            "clue": "Anaesthetise small dog biting tot, else in trouble (3,2,5)",
+            "direction": "down",
+            "length": 10,
+            "group": [
+                "14-down"
+            ],
+            "position": {
+                "x": 4,
+                "y": 5
+            },
+            "separatorLocations": {
+                ",": [
+                    3,
+                    5
+                ]
+            },
+            "solution": "PUTTOSLEEP"
+        },
+        {
+            "id": "16-down",
+            "number": 16,
+            "humanNumber": "16",
+            "clue": "Cockney wife's nationality  \u2026 (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "16-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "DUTCH"
+        },
+        {
+            "id": "19-down",
+            "number": 19,
+            "humanNumber": "19",
+            "clue": "\u2026  their old money, trading capital for a billion workers (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "19-down"
+            ],
+            "position": {
+                "x": 8,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "BUILDERS"
+        },
+        {
+            "id": "21-down",
+            "number": 21,
+            "humanNumber": "21",
+            "clue": "Most of bottle satisfied special connoisseurs (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "21-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "GOURMETS"
+        },
+        {
+            "id": "23-down",
+            "number": 23,
+            "humanNumber": "23",
+            "clue": "Most recent Hollywood trial? (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "23-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "LATEST"
+        },
+        {
+            "id": "24-down",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "Documents describe the end of government cuts (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "24-down"
+            ],
+            "position": {
+                "x": 6,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "FILETS"
+        },
+        {
+            "id": "26-down",
+            "number": 26,
+            "humanNumber": "26",
+            "clue": "Hydrogen gas shock (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "26-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "HAIR"
+        },
+        {
+            "id": "28-down",
+            "number": 28,
+            "humanNumber": "28",
+            "clue": "Dash through Dixieland (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "28-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "ELAN"
+        },
+        {
+            "id": "29-down",
+            "number": 29,
+            "humanNumber": "29",
+            "clue": "King managed to go up and annoy (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "29-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "NARK"
+        }
+    ],
+    "solutionAvailable": true,
+    "dateSolutionAvailable": 1579564800000,
+    "dimensions": {
+        "cols": 15,
+        "rows": 15
+    },
+    "crosswordType": "cryptic",
+    "pdf": "https://crosswords-static.guim.co.uk/gdn.cryptic.20200121.pdf",
+    "_gridType": "M54b"
+}

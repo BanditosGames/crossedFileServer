@@ -1,0 +1,643 @@
+{
+    "id": "crosswords/cryptic/26381",
+    "number": 26381,
+    "name": "Cryptic crossword No 26,381",
+    "creator": {
+        "name": "Picaroon",
+        "webUrl": "https://www.theguardian.com/profile/picaroon"
+    },
+    "date": 1412294400000,
+    "webPublicationDate": 1412290800000,
+    "entries": [
+        {
+            "id": "9-across",
+            "number": 9,
+            "humanNumber": "9",
+            "clue": "Gas from wicked, heartless Tory, poor in speech (9)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "9-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "ACETYLENE"
+        },
+        {
+            "id": "10-across",
+            "number": 10,
+            "humanNumber": "10",
+            "clue": "What you need to do here is 2 28, 4 24 across, 14 27, 23 12 and 20 1 (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "10-across"
+            ],
+            "position": {
+                "x": 10,
+                "y": 1
+            },
+            "separatorLocations": {},
+            "solution": "SOLVE"
+        },
+        {
+            "id": "11-across",
+            "number": 11,
+            "humanNumber": "11",
+            "clue": "Poem mostly about a girl (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "11-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 3
+            },
+            "separatorLocations": {},
+            "solution": "LYDIA"
+        },
+        {
+            "id": "12-across",
+            "number": 12,
+            "humanNumber": "12",
+            "clue": "See 23",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "23-down",
+                "12-across"
+            ],
+            "position": {
+                "x": 6,
+                "y": 3
+            },
+            "separatorLocations": {
+                ",": [
+                    2
+                ]
+            },
+            "solution": "OFGRAVITY"
+        },
+        {
+            "id": "13-across",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "Made tender love very loudly, flushed after ecstasy (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "13-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "OFFERED"
+        },
+        {
+            "id": "14-across",
+            "number": 14,
+            "humanNumber": "14, 27",
+            "clue": " Duck eggs returned in sack, about to be served? (5,2,4)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "14-across",
+                "27-down"
+            ],
+            "position": {
+                "x": 8,
+                "y": 5
+            },
+            "separatorLocations": {
+                ",": [
+                    5,
+                    7
+                ]
+            },
+            "solution": "FIRSTIN"
+        },
+        {
+            "id": "17-across",
+            "number": 17,
+            "humanNumber": "17",
+            "clue": "Soldiers here showing character (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "17-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "THETA"
+        },
+        {
+            "id": "19-across",
+            "number": 19,
+            "humanNumber": "19",
+            "clue": "Bit of scale from tailless fish (3)",
+            "direction": "across",
+            "length": 3,
+            "group": [
+                "19-across"
+            ],
+            "position": {
+                "x": 6,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "SOL"
+        },
+        {
+            "id": "20-across",
+            "number": 20,
+            "humanNumber": "20, 1",
+            "clue": " God of war has time to don armour in bit of cloud (5,4)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "20-across",
+                "1-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 7
+            },
+            "separatorLocations": {
+                ",": [
+                    5
+                ]
+            },
+            "solution": "MARES"
+        },
+        {
+            "id": "21-across",
+            "number": 21,
+            "humanNumber": "21",
+            "clue": "Redknapp, involved in scam, makes fuss (5-2)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "21-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 9
+            },
+            "separatorLocations": {
+                "-": [
+                    5
+                ]
+            },
+            "solution": "CARRYON"
+        },
+        {
+            "id": "22-across",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "Screw going round prison in fear (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "22-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "PANICKY"
+        },
+        {
+            "id": "24-across",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "See 4",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "4-down",
+                "24-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 11
+            },
+            "separatorLocations": {
+                ",": [
+                    2
+                ]
+            },
+            "solution": "INCOMMAND"
+        },
+        {
+            "id": "26-across",
+            "number": 26,
+            "humanNumber": "26",
+            "clue": "Mandarin is thus found in Washington? Almost (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "26-across"
+            ],
+            "position": {
+                "x": 10,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "TONAL"
+        },
+        {
+            "id": "28-across",
+            "number": 28,
+            "humanNumber": "28",
+            "clue": "See 2",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "2-down",
+                "28-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 13
+            },
+            "separatorLocations": {
+                ",": []
+            },
+            "solution": "STATE"
+        },
+        {
+            "id": "29-across",
+            "number": 29,
+            "humanNumber": "29",
+            "clue": "Instructions to batsman, causing some sort of accident (3-3-3)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "29-across"
+            ],
+            "position": {
+                "x": 6,
+                "y": 13
+            },
+            "separatorLocations": {
+                "-": [
+                    3,
+                    6
+                ]
+            },
+            "solution": "HITANDRUN"
+        },
+        {
+            "id": "1-down",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "See 20",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "20-across",
+                "1-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": []
+            },
+            "solution": "TAIL"
+        },
+        {
+            "id": "2-down",
+            "number": 2,
+            "humanNumber": "2, 28",
+            "clue": " Maybe Hollande's foe had to reform, say (4,2,5)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "2-down",
+                "28-across"
+            ],
+            "position": {
+                "x": 2,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    4,
+                    6
+                ]
+            },
+            "solution": "HEADOF"
+        },
+        {
+            "id": "3-down",
+            "number": 3,
+            "humanNumber": "3",
+            "clue": "Musical boy tucking into extremely mouldy brownie (2,4,4)",
+            "direction": "down",
+            "length": 10,
+            "group": [
+                "3-down"
+            ],
+            "position": {
+                "x": 4,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    2,
+                    6
+                ]
+            },
+            "solution": "MYFAIRLADY"
+        },
+        {
+            "id": "4-down",
+            "number": 4,
+            "humanNumber": "4, 24 across",
+            "clue": " Support wages getting cut? Damn terrible vice (6,2,7)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "4-down",
+                "24-across"
+            ],
+            "position": {
+                "x": 6,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    6
+                ]
+            },
+            "solution": "SECOND"
+        },
+        {
+            "id": "5-down",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "Destroying Gulf, even seeking to do harm (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "5-down"
+            ],
+            "position": {
+                "x": 8,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "VENGEFUL"
+        },
+        {
+            "id": "6-down",
+            "number": 6,
+            "humanNumber": "6",
+            "clue": "Many countries like raising capital (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "6-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "ASIA"
+        },
+        {
+            "id": "7-down",
+            "number": 7,
+            "humanNumber": "7",
+            "clue": "Lane found in court by queen's secluded area (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "7-down"
+            ],
+            "position": {
+                "x": 12,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "CLOISTER"
+        },
+        {
+            "id": "8-down",
+            "number": 8,
+            "humanNumber": "8",
+            "clue": "What Molly Bloom said about snatching kiss is erotic (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "8-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "SEXY"
+        },
+        {
+            "id": "13-down",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "Concerned with seeing old photo, taking time (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "13-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "OPTIC"
+        },
+        {
+            "id": "15-down",
+            "number": 15,
+            "humanNumber": "15",
+            "clue": "Seaman admits hesitation in philosophical activity (10)",
+            "direction": "down",
+            "length": 10,
+            "group": [
+                "15-down"
+            ],
+            "position": {
+                "x": 10,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "RUMINATING"
+        },
+        {
+            "id": "16-down",
+            "number": 16,
+            "humanNumber": "16",
+            "clue": "English child brought up close to Dorothy Parker may be so (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "16-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "NOSEY"
+        },
+        {
+            "id": "18-down",
+            "number": 18,
+            "humanNumber": "18",
+            "clue": "Travelling troupe with car leaving piano player in Brussels (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "18-down"
+            ],
+            "position": {
+                "x": 2,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "EUROCRAT"
+        },
+        {
+            "id": "19-down",
+            "number": 19,
+            "humanNumber": "19",
+            "clue": "Get brown paper bag with no good article (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "19-down"
+            ],
+            "position": {
+                "x": 6,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "SUNBATHE"
+        },
+        {
+            "id": "22-down",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "Games on a particular day could be footy (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "22-down"
+            ],
+            "position": {
+                "x": 8,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "PEDATE"
+        },
+        {
+            "id": "23-down",
+            "number": 23,
+            "humanNumber": "23, 12",
+            "clue": " Criminal forgery in VAT etc? Force must act here! (6,2,7)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "23-down",
+                "12-across"
+            ],
+            "position": {
+                "x": 12,
+                "y": 9
+            },
+            "separatorLocations": {
+                ",": [
+                    6
+                ]
+            },
+            "solution": "CENTRE"
+        },
+        {
+            "id": "24-down",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "November 1st's around this month (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "24-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "INST"
+        },
+        {
+            "id": "25-down",
+            "number": 25,
+            "humanNumber": "25",
+            "clue": "William gave Kate rank, ultimately they will inherit! (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "25-down"
+            ],
+            "position": {
+                "x": 4,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "MEEK"
+        },
+        {
+            "id": "27-down",
+            "number": 27,
+            "humanNumber": "27",
+            "clue": "See 14",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "14-across",
+                "27-down"
+            ],
+            "position": {
+                "x": 14,
+                "y": 11
+            },
+            "separatorLocations": {
+                ",": []
+            },
+            "solution": "LINE"
+        }
+    ],
+    "solutionAvailable": true,
+    "dateSolutionAvailable": 1412290800000,
+    "dimensions": {
+        "cols": 15,
+        "rows": 15
+    },
+    "crosswordType": "cryptic",
+    "pdf": "http://static.guim.co.uk/crosswords/pdfs/gdn.cryptic.20141003.pdf",
+    "_gridType": "M54a"
+}

@@ -1,0 +1,603 @@
+{
+    "id": "crosswords/cryptic/28008",
+    "number": 28008,
+    "name": "Cryptic crossword No 28,008",
+    "creator": {
+        "name": "Philistine",
+        "webUrl": "https://www.theguardian.com/profile/philistine"
+    },
+    "date": 1576713600000,
+    "webPublicationDate": 1576713633000,
+    "entries": [
+        {
+            "id": "8-across",
+            "number": 8,
+            "humanNumber": "8, 9",
+            "clue": " Ability to buy, until replacing shop contents wore off (8,5)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "8-across",
+                "9-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 1
+            },
+            "separatorLocations": {
+                ",": [
+                    8
+                ]
+            },
+            "solution": "SPENDING"
+        },
+        {
+            "id": "9-across",
+            "number": 9,
+            "humanNumber": "9",
+            "clue": "See 8",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "8-across",
+                "9-across"
+            ],
+            "position": {
+                "x": 9,
+                "y": 1
+            },
+            "separatorLocations": {
+                ",": []
+            },
+            "solution": "POWER"
+        },
+        {
+            "id": "10-across",
+            "number": 10,
+            "humanNumber": "10",
+            "clue": "See 2",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "2-down",
+                "10-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 3
+            },
+            "separatorLocations": {
+                ",": []
+            },
+            "solution": "MORE"
+        },
+        {
+            "id": "11-across",
+            "number": 11,
+            "humanNumber": "11",
+            "clue": "Why potions get mixed, as instructed in the Old Testament (4,2,4)",
+            "direction": "across",
+            "length": 10,
+            "group": [
+                "11-across"
+            ],
+            "position": {
+                "x": 5,
+                "y": 3
+            },
+            "separatorLocations": {
+                ",": [
+                    4,
+                    6
+                ]
+            },
+            "solution": "SHOWNOPITY"
+        },
+        {
+            "id": "12-across",
+            "number": 12,
+            "humanNumber": "12",
+            "clue": "Sharp boozer needs a place to sleep (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "12-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "BARBED"
+        },
+        {
+            "id": "14-across",
+            "number": 14,
+            "humanNumber": "14",
+            "clue": "With reduced fat and sugar + 7 = two Rs (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "14-across"
+            ],
+            "position": {
+                "x": 7,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "LITERACY"
+        },
+        {
+            "id": "16-across",
+            "number": 16,
+            "humanNumber": "16",
+            "clue": "Set up an unusual source of protein (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "16-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "PEANUTS"
+        },
+        {
+            "id": "18-across",
+            "number": 18,
+            "humanNumber": "18",
+            "clue": "Serious four score at shallow end (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "18-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "WEIGHTY"
+        },
+        {
+            "id": "21-across",
+            "number": 21,
+            "humanNumber": "21",
+            "clue": "Posted filth back inside \u2014 that's harsh (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "21-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "STRIDENT"
+        },
+        {
+            "id": "23-across",
+            "number": 23,
+            "humanNumber": "23",
+            "clue": "Take a punt with light shop (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "23-across"
+            ],
+            "position": {
+                "x": 9,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "BETRAY"
+        },
+        {
+            "id": "24-across",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "Mostly understanding about old man's body, mortician leads funeral (10)",
+            "direction": "across",
+            "length": 10,
+            "group": [
+                "24-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "ENTOMBMENT"
+        },
+        {
+            "id": "26-across",
+            "number": 26,
+            "humanNumber": "26",
+            "clue": "See 26 down",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "26-down",
+                "26-across"
+            ],
+            "position": {
+                "x": 11,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "BIRD"
+        },
+        {
+            "id": "27-across",
+            "number": 27,
+            "humanNumber": "27, 28",
+            "clue": " Right to take a break with cart in river, overturned in a kind of fluid (13)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "27-across",
+                "28-across"
+            ],
+            "position": {
+                "x": 1,
+                "y": 13
+            },
+            "separatorLocations": {},
+            "solution": "EXTRA"
+        },
+        {
+            "id": "28-across",
+            "number": 28,
+            "humanNumber": "28",
+            "clue": "See 27",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "27-across",
+                "28-across"
+            ],
+            "position": {
+                "x": 7,
+                "y": 13
+            },
+            "separatorLocations": {},
+            "solution": "CELLULAR"
+        },
+        {
+            "id": "1-down",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "Out of bed to court contemporary (2,2,4)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "1-down"
+            ],
+            "position": {
+                "x": 1,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    2,
+                    4
+                ]
+            },
+            "solution": "UPTODATE"
+        },
+        {
+            "id": "2-down",
+            "number": 2,
+            "humanNumber": "2, 10",
+            "clue": " Wild encore drowns second encore (4,4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "2-down",
+                "10-across"
+            ],
+            "position": {
+                "x": 3,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    4
+                ]
+            },
+            "solution": "ONCE"
+        },
+        {
+            "id": "3-down",
+            "number": 3,
+            "humanNumber": "3, 17, 25",
+            "clue": " He boasted about being caught in fog and arrived too late (6,3,4)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "3-down",
+                "17-down",
+                "25-down"
+            ],
+            "position": {
+                "x": 5,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    6
+                ]
+            },
+            "solution": "MISSED"
+        },
+        {
+            "id": "4-down",
+            "number": 4,
+            "humanNumber": "4",
+            "clue": "Base soldier comes up with prize for tail twisting (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "4-down"
+            ],
+            "position": {
+                "x": 7,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "IGNOBLE"
+        },
+        {
+            "id": "5-down",
+            "number": 5,
+            "humanNumber": "5, 15, 23",
+            "clue": " Wild hen parties are missing courage to play this? (4,3,6)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "5-down",
+                "15-down",
+                "23-down"
+            ],
+            "position": {
+                "x": 9,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    4
+                ]
+            },
+            "solution": "SPIN"
+        },
+        {
+            "id": "6-down",
+            "number": 6,
+            "humanNumber": "6",
+            "clue": "With 22, like this one visible rag? (5,5)",
+            "direction": "down",
+            "length": 10,
+            "group": [
+                "6-down"
+            ],
+            "position": {
+                "x": 11,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    5
+                ]
+            },
+            "solution": "SWIPERIGHT"
+        },
+        {
+            "id": "7-down",
+            "number": 7,
+            "humanNumber": "7",
+            "clue": "A left ear \u2014 and ear's sexy! (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "7-down"
+            ],
+            "position": {
+                "x": 13,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "EROTIC"
+        },
+        {
+            "id": "13-down",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "Bill's partner imprisoned by outlaws (Australians) (10)",
+            "direction": "down",
+            "length": 10,
+            "group": [
+                "13-down"
+            ],
+            "position": {
+                "x": 3,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "BANDICOOTS"
+        },
+        {
+            "id": "15-down",
+            "number": 15,
+            "humanNumber": "15",
+            "clue": "See 5",
+            "direction": "down",
+            "length": 3,
+            "group": [
+                "5-down",
+                "15-down",
+                "23-down"
+            ],
+            "position": {
+                "x": 9,
+                "y": 5
+            },
+            "separatorLocations": {
+                ",": [
+                    3
+                ]
+            },
+            "solution": "THE"
+        },
+        {
+            "id": "17-down",
+            "number": 17,
+            "humanNumber": "17",
+            "clue": "See 3",
+            "direction": "down",
+            "length": 3,
+            "group": [
+                "3-down",
+                "17-down",
+                "25-down"
+            ],
+            "position": {
+                "x": 5,
+                "y": 7
+            },
+            "separatorLocations": {
+                ",": [
+                    3
+                ]
+            },
+            "solution": "THE"
+        },
+        {
+            "id": "19-down",
+            "number": 19,
+            "humanNumber": "19",
+            "clue": "Time to drink and eat? (3,5)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "19-down"
+            ],
+            "position": {
+                "x": 13,
+                "y": 7
+            },
+            "separatorLocations": {
+                ",": [
+                    3
+                ]
+            },
+            "solution": "TEABREAK"
+        },
+        {
+            "id": "20-down",
+            "number": 20,
+            "humanNumber": "20",
+            "clue": "Heave supporting stone for a period (7)",
+            "direction": "down",
+            "length": 7,
+            "group": [
+                "20-down"
+            ],
+            "position": {
+                "x": 7,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "STRETCH"
+        },
+        {
+            "id": "22-down",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "Kindling for romance? (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "22-down"
+            ],
+            "position": {
+                "x": 1,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "TINDER"
+        },
+        {
+            "id": "23-down",
+            "number": 23,
+            "humanNumber": "23",
+            "clue": "See 5",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "5-down",
+                "15-down",
+                "23-down"
+            ],
+            "position": {
+                "x": 9,
+                "y": 9
+            },
+            "separatorLocations": {
+                ",": []
+            },
+            "solution": "BOTTLE"
+        },
+        {
+            "id": "25-down",
+            "number": 25,
+            "humanNumber": "25",
+            "clue": "See 3",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "3-down",
+                "17-down",
+                "25-down"
+            ],
+            "position": {
+                "x": 5,
+                "y": 11
+            },
+            "separatorLocations": {
+                ",": []
+            },
+            "solution": "BOAT"
+        },
+        {
+            "id": "26-down",
+            "number": 26,
+            "humanNumber": "26, 26 across",
+            "clue": " It means happiness for sad creature (8)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "26-down",
+                "26-across"
+            ],
+            "position": {
+                "x": 11,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "BLUE"
+        }
+    ],
+    "solutionAvailable": true,
+    "dateSolutionAvailable": 1576713600000,
+    "dimensions": {
+        "cols": 15,
+        "rows": 15
+    },
+    "crosswordType": "cryptic",
+    "pdf": "https://crosswords-static.guim.co.uk/gdn.cryptic.20191219.pdf",
+    "instructions": "19 December 2019: 5,15,23 down are now in the correct order",
+    "_gridType": "M46a"
+}

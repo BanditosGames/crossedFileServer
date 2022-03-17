@@ -1,0 +1,591 @@
+{
+    "id": "crosswords/cryptic/26535",
+    "number": 26535,
+    "name": "Cryptic crossword No 26,535",
+    "creator": {
+        "name": "Imogen",
+        "webUrl": "https://www.theguardian.com/profile/imogen"
+    },
+    "date": 1427932800000,
+    "webPublicationDate": 1427929200000,
+    "entries": [
+        {
+            "id": "1-across",
+            "number": 1,
+            "humanNumber": "1, 27",
+            "clue": " Old advertiser's royal links, a lot cut short (8,3)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "1-across",
+                "27-down"
+            ],
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    8
+                ]
+            },
+            "solution": "SANDWICH"
+        },
+        {
+            "id": "6-across",
+            "number": 6,
+            "humanNumber": "6",
+            "clue": "School place found earlier, quite a coup (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "6-across"
+            ],
+            "position": {
+                "x": 9,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "PUTSCH"
+        },
+        {
+            "id": "9-across",
+            "number": 9,
+            "humanNumber": "9, 13",
+            "clue": " Part of a county custom it may suit Imogen to hack (6,5)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "9-across",
+                "13-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 2
+            },
+            "separatorLocations": {
+                ",": [
+                    6
+                ]
+            },
+            "solution": "RIDING"
+        },
+        {
+            "id": "10-across",
+            "number": 10,
+            "humanNumber": "10",
+            "clue": "Square fruit, second one guy replaces (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "10-across"
+            ],
+            "position": {
+                "x": 7,
+                "y": 2
+            },
+            "separatorLocations": {},
+            "solution": "BANDANNA"
+        },
+        {
+            "id": "11-across",
+            "number": 11,
+            "humanNumber": "11",
+            "clue": "One way to get restaurant tip?  I'm about to tell you (4,3,2)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "11-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 4
+            },
+            "separatorLocations": {
+                ",": [
+                    4,
+                    7
+                ]
+            },
+            "solution": "WAITFORIT"
+        },
+        {
+            "id": "13-across",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "See 9",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "9-across",
+                "13-across"
+            ],
+            "position": {
+                "x": 10,
+                "y": 4
+            },
+            "separatorLocations": {
+                ",": []
+            },
+            "solution": "HABIT"
+        },
+        {
+            "id": "15-across",
+            "number": 15,
+            "humanNumber": "15",
+            "clue": "Back in a moment (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "15-across"
+            ],
+            "position": {
+                "x": 1,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "SECOND"
+        },
+        {
+            "id": "17-across",
+            "number": 17,
+            "humanNumber": "17",
+            "clue": "Idle part of field difficult to turn over (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "17-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "FIDDLE"
+        },
+        {
+            "id": "18-across",
+            "number": 18,
+            "humanNumber": "18",
+            "clue": "Frustrate check on tax (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "18-across"
+            ],
+            "position": {
+                "x": 1,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "SCOTCH"
+        },
+        {
+            "id": "19-across",
+            "number": 19,
+            "humanNumber": "19",
+            "clue": "10 head back for costume drama feature (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "19-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "BONNET"
+        },
+        {
+            "id": "21-across",
+            "number": 21,
+            "humanNumber": "21",
+            "clue": "See 29",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "29-across",
+                "21-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 10
+            },
+            "separatorLocations": {
+                ",": []
+            },
+            "solution": "DROPS"
+        },
+        {
+            "id": "22-across",
+            "number": 22,
+            "humanNumber": "22",
+            "clue": "College oddly calm with undergraduate finally in cell (9)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "22-across"
+            ],
+            "position": {
+                "x": 6,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "CORPUSCLE"
+        },
+        {
+            "id": "25-across",
+            "number": 25,
+            "humanNumber": "25",
+            "clue": "Advantage is seized by partners on the side (8)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "25-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 12
+            },
+            "separatorLocations": {},
+            "solution": "EDGEWISE"
+        },
+        {
+            "id": "26-across",
+            "number": 26,
+            "humanNumber": "26",
+            "clue": "Street guide not needed in new magazine puzzle (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "26-across"
+            ],
+            "position": {
+                "x": 9,
+                "y": 12
+            },
+            "separatorLocations": {},
+            "solution": "ENIGMA"
+        },
+        {
+            "id": "28-across",
+            "number": 28,
+            "humanNumber": "28",
+            "clue": "Spirited, if small, yet insecure (6)",
+            "direction": "across",
+            "length": 6,
+            "group": [
+                "28-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 14
+            },
+            "separatorLocations": {},
+            "solution": "FEISTY"
+        },
+        {
+            "id": "29-across",
+            "number": 29,
+            "humanNumber": "29, 21",
+            "clue": " I now understand effect of minor currency devaluation (3,5,5)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "29-across",
+                "21-across"
+            ],
+            "position": {
+                "x": 7,
+                "y": 14
+            },
+            "separatorLocations": {
+                ",": [
+                    3,
+                    8
+                ]
+            },
+            "solution": "THEPENNY"
+        },
+        {
+            "id": "2-down",
+            "number": 2,
+            "humanNumber": "2",
+            "clue": "Would you count me as a friend? (3)",
+            "direction": "down",
+            "length": 3,
+            "group": [
+                "2-down"
+            ],
+            "position": {
+                "x": 1,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "AMI"
+        },
+        {
+            "id": "3-down",
+            "number": 3,
+            "humanNumber": "3",
+            "clue": "See 8",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "8-down",
+                "3-down"
+            ],
+            "position": {
+                "x": 3,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": []
+            },
+            "solution": "DRIFT"
+        },
+        {
+            "id": "4-down",
+            "number": 4,
+            "humanNumber": "4",
+            "clue": "Healthy policeman lucky to be working here? (2,4,4)",
+            "direction": "down",
+            "length": 10,
+            "group": [
+                "4-down"
+            ],
+            "position": {
+                "x": 5,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    2,
+                    6
+                ]
+            },
+            "solution": "INGOODNICK"
+        },
+        {
+            "id": "5-down",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "Insolence I brush aside (6)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "5-down"
+            ],
+            "position": {
+                "x": 7,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "HUBRIS"
+        },
+        {
+            "id": "6-down",
+            "number": 6,
+            "humanNumber": "6",
+            "clue": "Metallic sound as thin piece of steel lands on surface of ground\n\n (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "6-down"
+            ],
+            "position": {
+                "x": 9,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "PING"
+        },
+        {
+            "id": "7-down",
+            "number": 7,
+            "humanNumber": "7",
+            "clue": "Pull back, having eaten badly out here? (3,6)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "7-down"
+            ],
+            "position": {
+                "x": 11,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    3
+                ]
+            },
+            "solution": "TEAGARDEN"
+        },
+        {
+            "id": "8-down",
+            "number": 8,
+            "humanNumber": "8, 3",
+            "clue": " Abstemious man meaning to construct scientific theory (11,5)",
+            "direction": "down",
+            "length": 11,
+            "group": [
+                "8-down",
+                "3-down"
+            ],
+            "position": {
+                "x": 13,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    11
+                ]
+            },
+            "solution": "CONTINENTAL"
+        },
+        {
+            "id": "12-down",
+            "number": 12,
+            "humanNumber": "12",
+            "clue": "Not quite rate game a tricky proposition (but it is!) (5,6)",
+            "direction": "down",
+            "length": 11,
+            "group": [
+                "12-down"
+            ],
+            "position": {
+                "x": 1,
+                "y": 4
+            },
+            "separatorLocations": {
+                ",": [
+                    5
+                ]
+            },
+            "solution": "ASSESBRIDGE"
+        },
+        {
+            "id": "14-down",
+            "number": 14,
+            "humanNumber": "14",
+            "clue": "Bishop cooked food in small church (5,5)",
+            "direction": "down",
+            "length": 10,
+            "group": [
+                "14-down"
+            ],
+            "position": {
+                "x": 9,
+                "y": 5
+            },
+            "separatorLocations": {
+                ",": [
+                    5
+                ]
+            },
+            "solution": "MINORPIECE"
+        },
+        {
+            "id": "16-down",
+            "number": 16,
+            "humanNumber": "16",
+            "clue": "Our prices are shocking: we rake it in (9)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "16-down"
+            ],
+            "position": {
+                "x": 3,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "CROUPIERS"
+        },
+        {
+            "id": "20-down",
+            "number": 20,
+            "humanNumber": "20",
+            "clue": "Get mad alternative to using something? (4,2)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "20-down"
+            ],
+            "position": {
+                "x": 7,
+                "y": 9
+            },
+            "separatorLocations": {
+                ",": [
+                    4
+                ]
+            },
+            "solution": "LOSEIT"
+        },
+        {
+            "id": "23-down",
+            "number": 23,
+            "humanNumber": "23",
+            "clue": "Steal and use card (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "23-down"
+            ],
+            "position": {
+                "x": 11,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "SWIPE"
+        },
+        {
+            "id": "24-down",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "Flexibly strong, one's twisted round (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "24-down"
+            ],
+            "position": {
+                "x": 5,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "WIRY"
+        },
+        {
+            "id": "27-down",
+            "number": 27,
+            "humanNumber": "27",
+            "clue": "See 1 ",
+            "direction": "down",
+            "length": 3,
+            "group": [
+                "1-across",
+                "27-down"
+            ],
+            "position": {
+                "x": 13,
+                "y": 12
+            },
+            "separatorLocations": {
+                ",": []
+            },
+            "solution": "MAN"
+        }
+    ],
+    "solutionAvailable": true,
+    "dateSolutionAvailable": 1427929200000,
+    "dimensions": {
+        "cols": 15,
+        "rows": 15
+    },
+    "crosswordType": "cryptic",
+    "pdf": "http://static.guim.co.uk/crosswords/pdfs/gdn.cryptic.20150402.pdf",
+    "_gridType": "M71"
+}

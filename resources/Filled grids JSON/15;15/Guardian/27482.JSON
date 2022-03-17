@@ -1,0 +1,604 @@
+{
+    "id": "crosswords/cryptic/27482",
+    "number": 27482,
+    "name": "Cryptic crossword No 27,482",
+    "creator": {
+        "name": "Paul",
+        "webUrl": "https://www.theguardian.com/profile/paul"
+    },
+    "date": 1523577600000,
+    "webPublicationDate": 1523574021000,
+    "entries": [
+        {
+            "id": "7-across",
+            "number": 7,
+            "humanNumber": "7",
+            "clue": "See 19",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "19-down",
+                "7-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 1
+            },
+            "separatorLocations": {
+                ",": []
+            },
+            "solution": "DRAWERS"
+        },
+        {
+            "id": "8-across",
+            "number": 8,
+            "humanNumber": "8, 13",
+            "clue": " 12 down's 52, old couple beyond sophisticated Cumbrian town drinking Bordeaux, say? (7,8)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "8-across",
+                "13-across"
+            ],
+            "position": {
+                "x": 8,
+                "y": 1
+            },
+            "separatorLocations": {
+                ",": [
+                    7
+                ]
+            },
+            "solution": "CHICKEN"
+        },
+        {
+            "id": "9-across",
+            "number": 9,
+            "humanNumber": "9",
+            "clue": "See 6",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "6-down",
+                "9-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 3
+            },
+            "separatorLocations": {
+                ",": []
+            },
+            "solution": "HALL"
+        },
+        {
+            "id": "10-across",
+            "number": 10,
+            "humanNumber": "10",
+            "clue": "Lawyer, oldest professional? (9)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "10-across"
+            ],
+            "position": {
+                "x": 5,
+                "y": 3
+            },
+            "separatorLocations": {},
+            "solution": "SOLICITOR"
+        },
+        {
+            "id": "12-across",
+            "number": 12,
+            "humanNumber": "12",
+            "clue": "Vehicle infected? (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "12-across"
+            ],
+            "position": {
+                "x": 1,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "BUGGY"
+        },
+        {
+            "id": "13-across",
+            "number": 13,
+            "humanNumber": "13",
+            "clue": "See 8",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "8-across",
+                "13-across"
+            ],
+            "position": {
+                "x": 7,
+                "y": 5
+            },
+            "separatorLocations": {
+                ",": []
+            },
+            "solution": "VINDALOO"
+        },
+        {
+            "id": "15-across",
+            "number": 15,
+            "humanNumber": "15",
+            "clue": "Bird's unpleasant feeling in stomach (4)",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "15-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "KNOT"
+        },
+        {
+            "id": "16-across",
+            "number": 16,
+            "humanNumber": "16",
+            "clue": "Talks in meeting as essential? (5)",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "16-across"
+            ],
+            "position": {
+                "x": 5,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "GASES"
+        },
+        {
+            "id": "17-across",
+            "number": 17,
+            "humanNumber": "17",
+            "clue": "Audible power in poor little thing (4)",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "17-across"
+            ],
+            "position": {
+                "x": 11,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "MITE"
+        },
+        {
+            "id": "18-across",
+            "number": 18,
+            "humanNumber": "18",
+            "clue": "Shiny fabric worn in alluring style, ultimately (4,4)",
+            "direction": "across",
+            "length": 8,
+            "group": [
+                "18-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 9
+            },
+            "separatorLocations": {
+                ",": [
+                    4
+                ]
+            },
+            "solution": "GOLDLAME"
+        },
+        {
+            "id": "20-across",
+            "number": 20,
+            "humanNumber": "20",
+            "clue": "See 20 down",
+            "direction": "across",
+            "length": 5,
+            "group": [
+                "20-down",
+                "20-across"
+            ],
+            "position": {
+                "x": 9,
+                "y": 9
+            },
+            "separatorLocations": {
+                ",": []
+            },
+            "solution": "STRIP"
+        },
+        {
+            "id": "21-across",
+            "number": 21,
+            "humanNumber": "21",
+            "clue": "Pulse rate's extreme in cutting of internet access (5,4)",
+            "direction": "across",
+            "length": 9,
+            "group": [
+                "21-across"
+            ],
+            "position": {
+                "x": 1,
+                "y": 11
+            },
+            "separatorLocations": {
+                ",": [
+                    5
+                ]
+            },
+            "solution": "BROADBEAN"
+        },
+        {
+            "id": "22-across",
+            "number": 22,
+            "humanNumber": "22, 5",
+            "clue": " Course one's taken in river rising somewhere in Canada (4,6)",
+            "direction": "across",
+            "length": 4,
+            "group": [
+                "22-across",
+                "5-down"
+            ],
+            "position": {
+                "x": 11,
+                "y": 11
+            },
+            "separatorLocations": {
+                ",": [
+                    4
+                ]
+            },
+            "solution": "NOVA"
+        },
+        {
+            "id": "24-across",
+            "number": 24,
+            "humanNumber": "24",
+            "clue": "Show daughter newspaper spread (7)",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "24-across"
+            ],
+            "position": {
+                "x": 0,
+                "y": 13
+            },
+            "separatorLocations": {},
+            "solution": "DISPLAY"
+        },
+        {
+            "id": "25-across",
+            "number": 25,
+            "humanNumber": "25",
+            "clue": "See 16 down",
+            "direction": "across",
+            "length": 7,
+            "group": [
+                "16-down",
+                "25-across",
+                "3-down"
+            ],
+            "position": {
+                "x": 8,
+                "y": 13
+            },
+            "separatorLocations": {
+                ",": [
+                    7
+                ]
+            },
+            "solution": "GETTING"
+        },
+        {
+            "id": "1-down",
+            "number": 1,
+            "humanNumber": "1",
+            "clue": "Region more \u2019irsute, did you say? (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "1-down"
+            ],
+            "position": {
+                "x": 1,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "AREA"
+        },
+        {
+            "id": "2-down",
+            "number": 2,
+            "humanNumber": "2",
+            "clue": "Determination slightly lacking in tense period of gradual decline (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "2-down"
+            ],
+            "position": {
+                "x": 3,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "TWILIGHT"
+        },
+        {
+            "id": "3-down",
+            "number": 3,
+            "humanNumber": "3",
+            "clue": "See 16",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "16-down",
+                "25-across",
+                "3-down"
+            ],
+            "position": {
+                "x": 5,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": []
+            },
+            "solution": "FRISKY"
+        },
+        {
+            "id": "4-down",
+            "number": 4,
+            "humanNumber": "4",
+            "clue": "Vital energy beats the bends (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "4-down"
+            ],
+            "position": {
+                "x": 9,
+                "y": 0
+            },
+            "separatorLocations": {},
+            "solution": "CHICANES"
+        },
+        {
+            "id": "5-down",
+            "number": 5,
+            "humanNumber": "5",
+            "clue": "See 22",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "22-across",
+                "5-down"
+            ],
+            "position": {
+                "x": 11,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": []
+            },
+            "solution": "SCOTIA"
+        },
+        {
+            "id": "6-down",
+            "number": 6,
+            "humanNumber": "6, 9",
+            "clue": " Drinking venue always heaving at first, having gatecrashed party (4,4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "6-down",
+                "9-across"
+            ],
+            "position": {
+                "x": 13,
+                "y": 0
+            },
+            "separatorLocations": {
+                ",": [
+                    4
+                ]
+            },
+            "solution": "BEER"
+        },
+        {
+            "id": "11-down",
+            "number": 11,
+            "humanNumber": "11",
+            "clue": "Close, even awkward, intimate clip (4,5)",
+            "direction": "down",
+            "length": 9,
+            "group": [
+                "11-down"
+            ],
+            "position": {
+                "x": 7,
+                "y": 3
+            },
+            "separatorLocations": {
+                ",": [
+                    4
+                ]
+            },
+            "solution": "LOVESCENE"
+        },
+        {
+            "id": "12-down",
+            "number": 12,
+            "humanNumber": "12",
+            "clue": "In which one is the observer of Grace? (5)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "12-down"
+            ],
+            "position": {
+                "x": 1,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "BINGO"
+        },
+        {
+            "id": "14-down",
+            "number": 14,
+            "humanNumber": "14",
+            "clue": "Readily available, Matthew and Mark etc cuddled by senior (2,3)",
+            "direction": "down",
+            "length": 5,
+            "group": [
+                "14-down"
+            ],
+            "position": {
+                "x": 13,
+                "y": 5
+            },
+            "separatorLocations": {
+                ",": [
+                    2
+                ]
+            },
+            "solution": "ONTAP"
+        },
+        {
+            "id": "16-down",
+            "number": 16,
+            "humanNumber": "16, 25, 3",
+            "clue": "12 down's 60 large magnets, gift awfully dangerous (8,7,6)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "16-down",
+                "25-across",
+                "3-down"
+            ],
+            "position": {
+                "x": 5,
+                "y": 7
+            },
+            "separatorLocations": {
+                ",": [
+                    8
+                ]
+            },
+            "solution": "GRANDMAS"
+        },
+        {
+            "id": "17-down",
+            "number": 17,
+            "humanNumber": "17",
+            "clue": "Steep peak in Turkey within Armenia arguably? (8)",
+            "direction": "down",
+            "length": 8,
+            "group": [
+                "17-down"
+            ],
+            "position": {
+                "x": 11,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "MARINATE"
+        },
+        {
+            "id": "19-down",
+            "number": 19,
+            "humanNumber": "19, 7",
+            "clue": " 12 down's 44 people animating a lethargic character? (6,7)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "19-down",
+                "7-across"
+            ],
+            "position": {
+                "x": 3,
+                "y": 9
+            },
+            "separatorLocations": {
+                ",": [
+                    6
+                ]
+            },
+            "solution": "DROOPY"
+        },
+        {
+            "id": "20-down",
+            "number": 20,
+            "humanNumber": "20, 20 across",
+            "clue": " 12 down's 77 warmer places on expedition (6,5)",
+            "direction": "down",
+            "length": 6,
+            "group": [
+                "20-down",
+                "20-across"
+            ],
+            "position": {
+                "x": 9,
+                "y": 9
+            },
+            "separatorLocations": {
+                ",": [
+                    6
+                ]
+            },
+            "solution": "SUNSET"
+        },
+        {
+            "id": "21-down",
+            "number": 21,
+            "humanNumber": "21",
+            "clue": "Badger trapper (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "21-down"
+            ],
+            "position": {
+                "x": 1,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "BAIT"
+        },
+        {
+            "id": "23-down",
+            "number": 23,
+            "humanNumber": "23",
+            "clue": "Express train finally entering test (4)",
+            "direction": "down",
+            "length": 4,
+            "group": [
+                "23-down"
+            ],
+            "position": {
+                "x": 13,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "VENT"
+        }
+    ],
+    "solutionAvailable": true,
+    "dateSolutionAvailable": 1523574000000,
+    "dimensions": {
+        "cols": 15,
+        "rows": 15
+    },
+    "crosswordType": "cryptic",
+    "pdf": "https://crosswords-static.guim.co.uk/gdn.cryptic.20180413.pdf",
+    "_gridType": "M58"
+}
